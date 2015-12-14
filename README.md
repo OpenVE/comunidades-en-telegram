@@ -32,6 +32,7 @@
 | Ubuntu | @C3s4r | |
 | Wikimedia | @KDels | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA |
 | Wordpress | @Richzendy | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ |
+| Sysadmin-VE | @arawako | https://telegram.me/joinchat/AFT7wgHj7P78EbpSjZE2_g |
 
 ## Licencia
 
