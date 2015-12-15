@@ -29,7 +29,7 @@
 | Ruby | ... | https://telegram.me/joinchat/054da39e01c4d63327e76bac35bfce64 |
 | Tabletas Canaima | @edgardoweb | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g |
 | Telegram | @tomivs @vicxyz | https://telegram.me/joinchat/BLlObgMpXoIo_-jwoU62pQ |
-| Ubuntu | @C3s4r | |
+| Ubuntu | @C3s4r | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg |
 | Wikimedia | @KDels | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA |
 | Wordpress | @Richzendy | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ |
 | Sysadmin-VE | @arawako | https://telegram.me/joinchat/AFT7wgHj7P78EbpSjZE2_g |
