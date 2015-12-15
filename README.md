@@ -13,6 +13,7 @@
 | HTML CSS | @Tur3c0  | https://telegram.me/joinchat/005e145000398d19d248cb8a050bb3c4 |
 | iOS | @ajmarquez | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg |
 | JavaScript | @alexandersalas | https://telegram.me/joinchat/AEmIhgESr_Tiqgbei7xROg |
+| Joomla | @pcimagenca | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw |
 | Juegos | @edgardoweb | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg |
 | Laravel | @racosta26 | https://telegram.me/joinchat/AGNQ9wH6mld3_Ut2l2a2SQ |
 | Libros Técnicos | @willicab | https://telegram.me/LibrosTecnicos |
