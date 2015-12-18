@@ -6,6 +6,7 @@
 | Angular | @abr4xas | https://telegram.me/joinchat/Avf6cQF1RpKDDuKz6gxxTg |
 | Arduino - Raspberry Pi | ... | https://telegram.me/joinchat/05dbbe5f020e87a4af775773f4c50c7d |
 | Bases de Datos | @jelitox | https://telegram.me/joinchat/AUPtdgBLpGYJOgkZD2r1ZQ |
+| Bitcoin Venezuela | @alexandersalas | https://telegram.me/joinchat/AEmIhgCcYlh23KxkOZC3-w |
 | C | ... | https://telegram.me/joinchat/BlwNNgIMJ1_Hn29Nak-tCg |
 | Conocimiento Libre | @srosuna | https://telegram.me/joinchat/A3B2TgBGflA7oaLm3OePRw |
 | Django | @ebar0n | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ |
