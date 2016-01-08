@@ -24,7 +24,7 @@
 | MozillaVE | @alexandersalas | https://telegram.me/joinchat/AEmIhgDedkB2Z6v1bRtB4Q |
 | Odoo | @fr33co | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw |
 | PHP | @Tur3c0 | https://telegram.me/joinchat/005e145001e2961cc7c3a70a19d98e4e |
-| Seo Venezuela | @pcimagenca | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ |
+| SEO | @pcimagenca | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ |
 | Pentaho | @hellfish2 | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A
 | Plone | @macagua | |
 | Pyramid | @macagua | |
