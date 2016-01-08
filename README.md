@@ -7,7 +7,7 @@
 | Arduino - Raspberry Pi | ... | https://telegram.me/joinchat/05dbbe5f020e87a4af775773f4c50c7d |
 | ArchLinux y Derivados | @goidor | https://telegram.me/joinchat/ARkABQN7Z_kugtZg_rI41g |
 | Bases de Datos | @jelitox | https://telegram.me/joinchat/AUPtdgBLpGYJOgkZD2r1ZQ |
-| Bitcoin Venezuela | @alexandersalas | https://telegram.me/joinchat/AEmIhgCcYlh23KxkOZC3-w |
+| Bitcoin | @alexandersalas | https://telegram.me/joinchat/AEmIhgCcYlh23KxkOZC3-w |
 | C | ... | https://telegram.me/joinchat/BlwNNgIMJ1_Hn29Nak-tCg |
 | Conocimiento Libre | @Seraph1 | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng |
 | Django | @ebar0n | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ |
@@ -21,7 +21,7 @@
 | Libros Técnicos | @willicab | https://telegram.me/LibrosTecnicos |
 | Linux | ... | https://telegram.me/joinchat/054da39e01da7a3cc1723d1af5b1512d |
 | MongoDB | ... | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 | 
-| MozillaVE | @alexandersalas | https://telegram.me/joinchat/AEmIhgDedkB2Z6v1bRtB4Q |
+| Mozilla | @alexandersalas | https://telegram.me/joinchat/AEmIhgDedkB2Z6v1bRtB4Q |
 | Odoo | @fr33co | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw |
 | PHP | @Tur3c0 | https://telegram.me/joinchat/005e145001e2961cc7c3a70a19d98e4e |
 | SEO | @pcimagenca | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ |
@@ -38,7 +38,7 @@
 | Wagtail CMS | @fr33co | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g |
 | Wikimedia | @KDels | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA |
 | Wordpress | @Richzendy | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ |
-| Sysadmin-VE | @arawako | https://telegram.me/joinchat/AFT7wgHj7P78EbpSjZE2_g |
+| Sysadmin | @arawako | https://telegram.me/joinchat/AFT7wgHj7P78EbpSjZE2_g |
 
 ## Licencia
 
