@@ -14,14 +14,14 @@
 | Electrónica | @pcimagenca | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ |
 | HTML CSS | @Tur3c0  | https://telegram.me/joinchat/005e145000398d19d248cb8a050bb3c4 |
 | iOS | @ajmarquez | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg |
-| JavaScript | @alexandersalas | https://telegram.me/joinchat/AEmIhgESr_Tiqgbei7xROg |
+| JavaScript | @alexandersalas | https://telegram.me/joinchat/AEmIhgESr_SYDRjZ_FKMdA |
 | Joomla | @pcimagenca | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw |
 | Juegos | @edgardoweb | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg |
 | Laravel | @racosta26 | https://telegram.me/joinchat/AGNQ9wH6mld3_Ut2l2a2SQ |
 | Libros Técnicos | @willicab | https://telegram.me/LibrosTecnicos |
 | Linux | ... | https://telegram.me/joinchat/054da39e01da7a3cc1723d1af5b1512d |
 | MongoDB | ... | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 | 
-| Mozilla | @alexandersalas | https://telegram.me/joinchat/AEmIhgDedkB2Z6v1bRtB4Q |
+| Mozilla | @alexandersalas | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg |
 | Odoo | @fr33co | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw |
 | PHP | @Tur3c0 | https://telegram.me/joinchat/005e145001e2961cc7c3a70a19d98e4e |
 | SEO | @pcimagenca | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ |
