@@ -20,7 +20,7 @@
 | Laravel | @racosta26 | https://telegram.me/joinchat/AGNQ9wH6mld3_Ut2l2a2SQ |
 | Libros Técnicos | @willicab | https://telegram.me/LibrosTecnicos |
 | Linux | ... | https://telegram.me/joinchat/054da39e01da7a3cc1723d1af5b1512d |
-| MongoDB | ... | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 | 
+| MongoDB | ... | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Mozilla | @alexandersalas | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg |
 | Odoo | @fr33co | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw |
 | PHP | @Tur3c0 | https://telegram.me/joinchat/005e145001e2961cc7c3a70a19d98e4e |
@@ -39,6 +39,7 @@
 | Wikimedia | @KDels | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA |
 | Wordpress | @Richzendy | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ |
 | Sysadmin | @arawako | https://telegram.me/joinchat/AFT7wgHj7P78EbpSjZE2_g |
+| Git      | ...      | https://telegram.me/joinchat/AbiOpAbSglSfdX59ltMoaA |
 
 ## Licencia
 
