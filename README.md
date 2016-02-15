@@ -12,6 +12,7 @@
 | Conocimiento Libre | @Seraph1 | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng |
 | Django | @ebar0n | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ |
 | Electrónica | @pcimagenca | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ |
+| Git      | ...      | https://telegram.me/joinchat/AbiOpAbSglSfdX59ltMoaA |
 | HTML CSS | @Tur3c0  | https://telegram.me/joinchat/005e145000398d19d248cb8a050bb3c4 |
 | iOS | @ajmarquez | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg |
 | JavaScript | @alexandersalas | https://telegram.me/joinchat/AEmIhgESr_SYDRjZ_FKMdA |
@@ -39,7 +40,6 @@
 | Wikimedia | @KDels | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA |
 | Wordpress | @Richzendy | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ |
 | Sysadmin | @arawako | https://telegram.me/joinchat/AFT7wgHj7P78EbpSjZE2_g |
-| Git      | ...      | https://telegram.me/joinchat/AbiOpAbSglSfdX59ltMoaA |
 
 ## Licencia
 
