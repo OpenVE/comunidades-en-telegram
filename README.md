@@ -21,9 +21,11 @@
 | Laravel | @racosta26 | https://telegram.me/joinchat/AGNQ9wH6mld3_Ut2l2a2SQ |
 | Libros Técnicos | @willicab | https://telegram.me/LibrosTecnicos |
 | Linux | ... | https://telegram.me/joinchat/054da39e01da7a3cc1723d1af5b1512d |
+| Matemáticas | @KDels | https://telegram.me/canalMatematicas |
 | MongoDB | ... | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Mozilla | @alexandersalas | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg |
 | Odoo | @fr33co | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw |
+| Ofertas de Empleo | @raiiac | https://telegram.me/trabajovenezuela |
 | PHP | @Tur3c0 | https://telegram.me/joinchat/005e145001e2961cc7c3a70a19d98e4e |
 | SEO | @pcimagenca | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ |
 | Pentaho | @hellfish2 | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A
