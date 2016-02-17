@@ -12,6 +12,7 @@
 | Conocimiento Libre | @Seraph1 | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng |
 | Django | @ebar0n | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ |
 | Electrónica | @pcimagenca | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ |
+| Git      | ...      | https://telegram.me/joinchat/AbiOpAbSglSfdX59ltMoaA |
 | HTML CSS | @Tur3c0  | https://telegram.me/joinchat/005e145000398d19d248cb8a050bb3c4 |
 | iOS | @ajmarquez | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg |
 | JavaScript | @alexandersalas | https://telegram.me/joinchat/AEmIhgESr_SYDRjZ_FKMdA |
@@ -20,7 +21,7 @@
 | Laravel | @racosta26 | https://telegram.me/joinchat/AGNQ9wH6mld3_Ut2l2a2SQ |
 | Libros Técnicos | @willicab | https://telegram.me/LibrosTecnicos |
 | Linux | ... | https://telegram.me/joinchat/054da39e01da7a3cc1723d1af5b1512d |
-| MongoDB | ... | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 | 
+| MongoDB | ... | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Mozilla | @alexandersalas | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg |
 | Odoo | @fr33co | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw |
 | PHP | @Tur3c0 | https://telegram.me/joinchat/005e145001e2961cc7c3a70a19d98e4e |
