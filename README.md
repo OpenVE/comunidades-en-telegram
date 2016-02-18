@@ -19,6 +19,7 @@
 | Joomla | @pcimagenca | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw |
 | Juegos | @edgardoweb | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg |
 | Laravel | @racosta26 | https://telegram.me/joinchat/AGNQ9wH6mld3_Ut2l2a2SQ |
+| LibreOffice | @Tur3c0 | https://telegram.me/joinchat/AF4UUAaLYyha1eOqxOTi6g |
 | Libros Técnicos | @willicab | https://telegram.me/LibrosTecnicos |
 | Linux | ... | https://telegram.me/joinchat/054da39e01da7a3cc1723d1af5b1512d |
 | Matemáticas | @KDels | https://telegram.me/canalMatematicas |
