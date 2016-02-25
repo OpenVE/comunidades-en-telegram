@@ -44,6 +44,7 @@
 | Wordpress | @Richzendy | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ |
 | Sysadmin | @arawako | https://telegram.me/joinchat/AFT7wgHj7P78EbpSjZE2_g |
 | Women Who Code | @m0000g - @tatadbb | https://telegram.me/joinchat/AHYIZwXNXZRN2ISdm9bEzQ |
+| ActivistasxSL | @nagui1008 |  |
 
 ## Licencia
 
