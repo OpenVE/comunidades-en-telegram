@@ -43,8 +43,8 @@
 | Ubuntu | @C3s4r | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg |
 | Wagtail CMS | @fr33co | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g |
 | Wikimedia | @KDels | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA |
-| Wordpress | @Richzendy | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ |
 | Women in Tech | @m0000g - @tatadbb | https://telegram.me/joinchat/AHYIZwXNXZRN2ISdm9bEzQ |
+| Wordpress | @Richzendy | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ |
 
 ## Licencia
 
