@@ -38,6 +38,7 @@
 | RadioGNU | ... | https://telegram.me/joinchat/000c551d006cb38838b643d7e8229885 |
 | Ruby | ... | https://telegram.me/joinchat/054da39e01c4d63327e76bac35bfce64 |
 | Sysadmin | @arawako | https://telegram.me/joinchat/AFT7wgHj7P78EbpSjZE2_g |
+| Symfony |  | https://telegram.me/joinchat/BSBThwZJsMqkvtk63D5-hA |
 | Tabletas Canaima | @edgardoweb | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g |
 | Telegram | @tomivs @vicxyz | https://telegram.me/joinchat/BLlObgMpXoIo_-jwoU62pQ |
 | Ubuntu | @C3s4r | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg |
