@@ -40,7 +40,7 @@
 | Symfony                |                    | https://telegram.me/joinchat/BSBThwZJsMqkvtk63D5-hA           |
 | Sysadmin               | @arawako           | https://telegram.me/joinchat/AFT7wgHj7P78EbpSjZE2_g           |
 | Tabletas Canaima       | @edgardoweb        | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
-| Telegram               | @tomivs @vicxyz    | https://telegram.me/joinchat/BLlObgMpXoIo_-jwoU62pQ           |
+| Telegram               | @tomivs @vicxyz    | http://telegram.me/VenezuelaTG                                |
 | Ubuntu                 | @C3s4r             | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg           |
 | Wagtail CMS            | @fr33co            | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g           |
 | Wikimedia              | @KDels             | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA           |
