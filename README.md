@@ -13,14 +13,14 @@
 | Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
 | Django                 | @ebar0n            | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
 | Electrónica            | @pcimagenca        | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ           |
-| Git                    | ...                | https://telegram.me/joinchat/AbiOpAbSglSfdX59ltMoaA           |
-| HTML CSS               | @Tur3c0            | https://telegram.me/joinchat/005e145000398d19d248cb8a050bb3c4 |
+| Git                    | @johannnn          | https://telegram.me/joinchat/AbiOpAbSglSfdX59ltMoaA           |
+| HTML CSS               | @Tur3c0            | https://telegram.me/HTML_CSS_Ve                               |
 | iOS                    | @ajmarquez         | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
 | JavaScript             | @alexandersalas    | https://telegram.me/joinchat/AEmIhgESr_SYDRjZ_FKMdA           |
 | Joomla                 | @pcimagenca        | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | Juegos                 | @edgardoweb        | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg           |
 | Laravel                | @racosta26         | https://telegram.me/joinchat/AGNQ9wH6mld3_Ut2l2a2SQ           |
-| LibreOffice            | @Tur3c0            | https://telegram.me/joinchat/AF4UUAaLYyha1eOqxOTi6g           |
+| LibreOffice            | @Tur3c0            | https://telegram.me/LibreOfficeVe                             |
 | Libros Técnicos        | @willicab          | https://telegram.me/LibrosTecnicos                            |
 | Linux                  | ...                | https://telegram.me/joinchat/054da39e01da7a3cc1723d1af5b1512d |
 | Matemáticas            | @KDels             | https://telegram.me/canalMatematicas                          |
@@ -29,7 +29,7 @@
 | Odoo                   | @fr33co            | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw           |
 | Ofertas de Empleo      | @raiiac            | https://telegram.me/trabajovenezuela                          |
 | Pentaho                | @hellfish2         | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A           |
-| PHP                    | @Tur3c0            | https://telegram.me/joinchat/005e145001e2961cc7c3a70a19d98e4e |
+| PHP                    | @Tur3c0            | https://telegram.me/PHP_Ve                                    |
 | Plone                  | @macagua           |                                                               |
 | Pyramid                | @macagua           |                                                               |
 | Python Bot             | @willicab          | https://telegram.me/joinchat/00ab7c2601b7e76d92a127df3c7848b4 |
