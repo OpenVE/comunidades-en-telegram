@@ -33,7 +33,7 @@
 | Plone                  | @macagua           |                                                               |
 | Pyramid                | @macagua           |                                                               |
 | Python Bot             | @willicab          | https://telegram.me/joinchat/00ab7c2601b7e76d92a127df3c7848b4 |
-| Python                 | @atmantree         | https://telegram.me/joinchat/BG6gzwGzSvRriv6QHXp3Mg           |
+| Python                 | @atmantree         | https://telegram.me/python_venezuela                          |
 | RadioGNU               | ...                | https://telegram.me/joinchat/000c551d006cb38838b643d7e8229885 |
 | Ruby                   | ...                | https://telegram.me/joinchat/054da39e01c4d63327e76bac35bfce64 |
 | SEO                    | @pcimagenca        | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
