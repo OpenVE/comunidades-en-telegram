@@ -46,6 +46,7 @@
 | Wikimedia              | @KDels             | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA           |
 | Women in Tech          | @m0000g - @tatadbb | https://telegram.me/joinchat/AHYIZwXNXZRN2ISdm9bEzQ           |
 | Wordpress              | @Richzendy         | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ           |
+| Yii                    | @macagua           | https://telegram.me/joinchat/AqFlvwBkWYT5oWg7nzmzTg           |
 
 ## Licencia
 
