@@ -22,7 +22,7 @@
 | Laravel                | @racosta26         | https://telegram.me/joinchat/AGNQ9wH6mld3_Ut2l2a2SQ           |
 | LibreOffice            | @Tur3c0            | https://telegram.me/LibreOfficeVe                             |
 | Libros Técnicos        | @willicab          | https://telegram.me/LibrosTecnicos                            |
-| Linux                  | ...                | https://telegram.me/joinchat/054da39e01da7a3cc1723d1af5b1512d |
+| Linux                  | @andres_code                | https://telegram.me/linux_ve |
 | Matemáticas            | @KDels             | https://telegram.me/canalMatematicas                          |
 | MongoDB                | ...                | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Mozilla                | @alexandersalas    | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg           |
@@ -35,7 +35,7 @@
 | Python Bot             | @willicab          | https://telegram.me/joinchat/00ab7c2601b7e76d92a127df3c7848b4 |
 | Python                 | @atmantree         | https://telegram.me/python_venezuela                          |
 | RadioGNU               | ...                | https://telegram.me/joinchat/000c551d006cb38838b643d7e8229885 |
-| Ruby                   | ...                | https://telegram.me/joinchat/054da39e01c4d63327e76bac35bfce64 |
+| Ruby                   | @andres_code - @highercomve - @hipsss               | https://telegram.me/ruby_ve |
 | SEO                    | @pcimagenca        | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
 | Symfony                |                    | https://telegram.me/joinchat/BSBThwZJsMqkvtk63D5-hA           |
 | Sysadmin               | @arawako           | https://telegram.me/joinchat/AFT7wgHj7P78EbpSjZE2_g           |
