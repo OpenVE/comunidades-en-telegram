@@ -10,7 +10,7 @@
 | Bitcoin Venezuela      | @alexandersalas | https://telegram.me/joinchat/AEmIhgCcYlh23KxkOZC3-w                                           |
 | C                      | ...             | https://telegram.me/joinchat/BlwNNgIMJ1_Hn29Nak-tCg                                           |
 | Conocimiento Libre     | @Seraph1        | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng                                           |
-| Django                 | @ebar0n         | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ b.com:ecrespo/comunidades-en-telegram.git |
+| Django                 | @ebar0n         | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ  |
 | Docker                 | @Seraph1        | https://telegram.me/joinchat/B9JUAAb7KI4MONdCdPeJ9Q
 | Electrónica            | @pcimagenca     | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ                                           |
 | HTML CSS               | @Tur3c0         | https://telegram.me/joinchat/005e145000398d19d248cb8a050bb3c4                                 |
