@@ -16,6 +16,7 @@
 | Git                    | @johannnn          | https://telegram.me/joinchat/AbiOpD49RGsDrx9Nb4gjaA           |
 | HTML CSS               | @Tur3c0            | https://telegram.me/HTML_CSS_Ve                               |
 | iOS                    | @ajmarquez         | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
+| Interaction Design     | @m0000g            | https://telegram.me/interactiondesgin_spanish           |
 | JavaScript             | @alexandersalas    | https://telegram.me/joinchat/AEmIhgESr_SYDRjZ_FKMdA           |
 | Joomla                 | @pcimagenca        | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | Juegos                 | @edgardoweb        | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg           |
@@ -45,7 +46,7 @@
 | VIM                    | @gusga             | https://telegram.me/joinchat/ABd3OAegEvUUMMuOJA2Spw           |
 | Wagtail CMS            | @fr33co            | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g           |
 | Wikimedia              | @KDels             | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA           |
-| Women in Tech          | @m0000g - @tatadbb | https://telegram.me/joinchat/AHYIZwXNXZRN2ISdm9bEzQ           |
+| Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish           |
 | Wordpress              | @Richzendy         | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ           |
 | Yii                    | @macagua           | https://telegram.me/joinchat/AqFlvwBkWYT5oWg7nzmzTg           |
 
