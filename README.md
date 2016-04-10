@@ -4,7 +4,7 @@
 |------------------------|--------------------|---------------------------------------------------------------|
 | ActivistasxSL          | @nagui1008         |                                                               |
 | Android                | ...                | https://telegram.me/joinchat/02a165bf0194a49955c7307bfbb485fe |
-| Angular                | @abr4xas           | https://telegram.me/ngvenezuela                               |
+| Angular                | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @ajsb85 | https://telegram.me/ngvenezuela |
 | ArchLinux y Derivados  | @goidor            | https://telegram.me/archlinuxVE                               |
 | Arduino - Raspberry Pi | ...                | https://telegram.me/joinchat/05dbbe5f020e87a4af775773f4c50c7d |
 | Bases de Datos         | @jelitox           | https://telegram.me/joinchat/AUPtdgBLpGYJOgkZD2r1ZQ           |
