@@ -25,6 +25,7 @@
 | Libros Técnicos        | @willicab          | https://telegram.me/LibrosTecnicos                            |
 | Linux                  | @andres_code       | https://telegram.me/linux_ve                                  |
 | Matemáticas            | @KDels             | https://telegram.me/canalMatematicas                          |
+| Mobile Híbrido         | ...                | https://telegram.me/mobilehybridappsve                        |
 | MongoDB                | ...                | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Mozilla                | @alexandersalas    | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg           |
 | Odoo                   | @fr33co            | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw           |
