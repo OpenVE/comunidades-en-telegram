@@ -44,7 +44,7 @@
 | Tabletas Canaima       | @edgardoweb        | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
 | Telegram               | @tomivs @vicxyz    | http://telegram.me/VenezuelaTG                                |
 | Ubuntu                 | @C3s4r             | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg           |
-| VIM                    | @gusga             | https://telegram.me/joinchat/ABd3OAegEvUUMMuOJA2Spw           |
+| VIM                    | @gusga             | https://telegram.me/vimvnzla           |
 | Wagtail CMS            | @fr33co            | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g           |
 | Wikimedia              | @KDels             | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA           |
 | Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish           |
