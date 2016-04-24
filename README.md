@@ -8,7 +8,7 @@
 | ArchLinux y Derivados  | @goidor            | https://telegram.me/archlinuxVE                               |
 | Arduino - Raspberry Pi | ...                | https://telegram.me/joinchat/05dbbe5f020e87a4af775773f4c50c7d |
 | Bases de Datos         | @jelitox           | https://telegram.me/joinchat/AUPtdgBLpGYJOgkZD2r1ZQ           |
-| Bitcoin                | @alexandersalas    | https://telegram.me/joinchat/AEmIhgCcYlh23KxkOZC3-w           |
+| Bitcoin                | @ajsb85            | https://telegram.me/joinchat/AEmIhgCcYlh23KxkOZC3-w           |
 | C                      | ...                | https://telegram.me/joinchat/BlwNNgIMJ1_Hn29Nak-tCg           |
 | Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
 | Django                 | @ebar0n            | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
@@ -17,7 +17,7 @@
 | HTML CSS               | @Tur3c0            | https://telegram.me/HTML_CSS_Ve                               |
 | iOS                    | @ajmarquez         | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
 | Interaction Design     | @m0000g            | https://telegram.me/interactiondesgin_spanish           |
-| JavaScript             | @alexandersalas    | https://telegram.me/joinchat/AEmIhgESr_SYDRjZ_FKMdA           |
+| JavaScript             | @ajsb85            | https://telegram.me/joinchat/AEmIhgESr_SYDRjZ_FKMdA           |
 | Joomla                 | @pcimagenca        | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | Juegos                 | @edgardoweb        | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg           |
 | Laravel                | @racosta26         | https://telegram.me/joinchat/AGNQ9wH6mld3_Ut2l2a2SQ           |
@@ -27,7 +27,7 @@
 | Matemáticas            | @KDels             | https://telegram.me/canalMatematicas                          |
 | Mobile Híbrido         | ...                | https://telegram.me/mobilehybridappsve                        |
 | MongoDB                | ...                | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
-| Mozilla                | @alexandersalas    | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg           |
+| Mozilla                | @ajsb85            | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg           |
 | Odoo                   | @fr33co            | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw           |
 | Ofertas de Empleo      | @raiiac            | https://telegram.me/trabajovenezuela                          |
 | Pentaho                | @hellfish2         | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A           |
@@ -50,6 +50,8 @@
 | Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish           |
 | Wordpress              | @Richzendy         | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ           |
 | Yii                    | @macagua           | https://telegram.me/joinchat/AqFlvwBkWYT5oWg7nzmzTg           |
+| XANADU GNU/linux       | @sinfallas         | https://telegram.me/xanadulinux          |
+
 
 ## Licencia
 
