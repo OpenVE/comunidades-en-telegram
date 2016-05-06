@@ -20,7 +20,7 @@
 | iOS                    | @ajmarquez         | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
 | Interaction Design     | @m0000g            | https://telegram.me/interactiondesgin_spanish                 |
 | Intercambio Idiomas    | @pcimagenca        | https://telegram.me/joinchat/BSBThwaOFqaNIXMc93Zb2g           |
-| JavaScript             | @ajsb85            | https://telegram.me/joinchat/AEmIhgESr_SYDRjZ_FKMdA           |
+| JavaScript             | @ajsb85            | https://telegram.me/vzlajs                                    |
 | Joomla                 | @pcimagenca        | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | Juegos                 | @edgardoweb        | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg           |
 | Laravel                | @racosta26         | https://telegram.me/joinchat/AGNQ9wH6mld3_Ut2l2a2SQ           |
@@ -50,13 +50,13 @@
 | Tabletas Canaima       | @edgardoweb        | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
 | Telegram               | @tomivs @vicxyz    | http://telegram.me/VenezuelaTG                                |
 | Ubuntu                 | @C3s4r             | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg           |
-| VIM                    | @gusga             | https://telegram.me/vimvnzla           |
+| VIM                    | @gusga             | https://telegram.me/vimvnzla                                  |
 | Wagtail CMS            | @fr33co            | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g           |
 | Wikimedia              | @KDels             | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA           |
-| Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish           |
+| Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish                       |
 | Wordpress              | @Richzendy         | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ           |
 | Yii                    | @macagua           | https://telegram.me/joinchat/AqFlvwBkWYT5oWg7nzmzTg           |
-| XANADU GNU/linux       | @sinfallas         | https://telegram.me/xanadulinux          |
+| XANADU GNU/linux       | @sinfallas         | https://telegram.me/xanadulinux                               |
 
 
 ## Licencia
