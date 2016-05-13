@@ -53,7 +53,7 @@
 | Ubuntu                 | @C3s4r             | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg           |
 | VIM                    | @gusga             | https://telegram.me/vimvnzla                                  |
 | Wagtail CMS            | @fr33co            | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g           |
-| Wikimedia              | @KDels             | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA           |
+| Wikimedia              | @KDels             | https://telegram.me/grupowmve           |
 | Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish                       |
 | Wordpress              | @Richzendy         | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ           |
 | Yii                    | @macagua           | https://telegram.me/joinchat/AqFlvwBkWYT5oWg7nzmzTg           |
