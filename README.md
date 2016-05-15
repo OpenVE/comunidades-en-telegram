@@ -12,6 +12,7 @@
 | Bitcoin                | @ajsb85            | https://telegram.me/joinchat/AEmIhgCcYlh23KxkOZC3-w           |
 | C                      | ...                | https://telegram.me/joinchat/BlwNNgIMJ1_Hn29Nak-tCg           |
 | Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
+| CSL_VE                 | @phenobarbital     | https://telegram.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
 | Django                 | @ebar0n            | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
 | Docker                 | @Seraph1           | https://telegram.me/joinchat/B9JUAAb7KI4MONdCdPeJ9Q           |
 | Electrónica            | @pcimagenca        | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ           |
@@ -53,12 +54,11 @@
 | Ubuntu                 | @C3s4r             | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg           |
 | VIM                    | @gusga             | https://telegram.me/vimvnzla                                  |
 | Wagtail CMS            | @fr33co            | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g           |
-| Wikimedia              | @KDels             | https://telegram.me/grupowmve           |
+| Wikimedia              | @KDels             | https://telegram.me/grupowmve                                 |
 | Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish                       |
 | Wordpress              | @Richzendy         | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ           |
 | Yii                    | @macagua           | https://telegram.me/joinchat/AqFlvwBkWYT5oWg7nzmzTg           |
 | XANADU GNU/linux       | @sinfallas         | https://telegram.me/xanadulinux                               |
-| CSL_VE                 | @phenobarbital     | https://telegram.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
 
 
 ## Licencia
