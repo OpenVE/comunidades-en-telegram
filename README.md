@@ -58,6 +58,7 @@
 | Wordpress              | @Richzendy         | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ           |
 | Yii                    | @macagua           | https://telegram.me/joinchat/AqFlvwBkWYT5oWg7nzmzTg           |
 | XANADU GNU/linux       | @sinfallas         | https://telegram.me/xanadulinux                               |
+| CSL_VE                 | @phenobarbital     | https://telegram.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
 
 
 ## Licencia
