@@ -3,7 +3,7 @@
 | Comunidad              | Administrador      | Link                                                          |
 |------------------------|--------------------|---------------------------------------------------------------|
 | ActivistasxSL          | @nagui1008         |                                                               |
-| Android                | ...                | https://telegram.me/joinchat/02a165bf0194a49955c7307bfbb485fe |
+| Android                | ...                | https://telegram.me/AndroidDevVzla                            |
 | Android (Soporte Técnico) | @cyberthrone    | https://telegram.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
 | Angular                | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @ajsb85 | https://telegram.me/ngvenezuela |
 | ArchLinux y Derivados  | @goidor            | https://telegram.me/archlinuxVE                               |
