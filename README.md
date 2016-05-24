@@ -17,6 +17,7 @@
 | Docker                 | @Seraph1           | https://telegram.me/joinchat/B9JUAAb7KI4MONdCdPeJ9Q           |
 | Electrónica            | @pcimagenca        | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ           |
 | Elixir                 | @gusga - @highercomve | https://telegram.me/ElixirVe                               |
+| FreeCodeCamp Barquisimeto    | @mirabalj | https://telegram.me/joinchat/AFn8xT7vPnlQbJc9mScY_A              |
 | Git                    | @johannnn          | https://telegram.me/joinchat/AbiOpD49RGsDrx9Nb4gjaA           |
 | HTML CSS               | @Tur3c0            | https://telegram.me/HTML_CSS_Ve                               |
 | iOS                    | @ajmarquez         | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
