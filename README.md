@@ -58,7 +58,7 @@
 | Wikimedia              | @KDels             | https://telegram.me/grupowmve                                 |
 | Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish                       |
 | Wordpress              | @Richzendy         | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ           |
-| Yii                    | @macagua           | https://telegram.me/joinchat/AqFlvwBkWYT5oWg7nzmzTg           |
+| Yii                    | @Pcimagenca - @skatox - @raiiac | https://telegram.me/YiiVzla                      |
 | XANADU GNU/linux       | @sinfallas         | https://telegram.me/xanadulinux                               |
 
 
