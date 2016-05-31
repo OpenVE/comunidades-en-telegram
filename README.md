@@ -33,7 +33,7 @@
 | Linux                  | @andres_code       | https://telegram.me/linux_ve                                  |
 | Matemáticas            | @KDels             | https://telegram.me/canalMatematicas                          |
 | Mobile Híbrido         | ...                | https://telegram.me/mobilehybridappsve                        |
-| MongoDB                | ...                | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
+| MongoDB Venezuela      | @ch1nux            | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Mozilla                | @ajsb85            | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg           |
 | Nginx                  | @alexr1712         | https://telegram.me/nginxvzla                                 |
 | Odoo                   | @fr33co            | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw           |
