@@ -57,7 +57,7 @@
 | Wagtail CMS            | @fr33co            | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g           |
 | Wikimedia              | @KDels             | https://telegram.me/grupowmve                                 |
 | Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish                       |
-| Wordpress              | @Richzendy         | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ           |
+| Wordpress              | @Richzendy - @skatox - @ThePhoenixBird | https://telegram.me/WordPressVE           |
 | Yii                    | @Pcimagenca - @skatox - @raiiac | https://telegram.me/YiiVzla                      |
 | XANADU GNU/linux       | @sinfallas         | https://telegram.me/xanadulinux                               |
 
