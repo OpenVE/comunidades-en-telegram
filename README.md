@@ -26,7 +26,7 @@
 | JavaScript             | @ajsb85            | https://telegram.me/vzlajs                                    |
 | Joomla                 | @pcimagenca        | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | Juegos                 | @edgardoweb        | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg           |
-| Laravel                | @racosta26         | https://telegram.me/joinchat/AGNQ9wH6mld3_Ut2l2a2SQ           |
+| Laravel                | @racosta26         | https://telegram.me/laravelVe           |
 | LibreOffice            | @Tur3c0            | https://telegram.me/LibreOfficeVe                             |
 | Libros Técnicos        | @willicab          | https://telegram.me/LibrosTecnicos                            |
 | Libros (PacktPub)      | @ajsb85            | https://telegram.me/packtpubfreelearning                      |
