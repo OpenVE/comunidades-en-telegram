@@ -26,7 +26,7 @@
 | MozillaVE                 | @alexandersalas | https://telegram.me/joinchat/AEmIhgDedkB2Z6v1bRtB4Q           |
 | Odoo                      | @fr33co         | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw           |
 | PHP                       | @Tur3c0         | https://telegram.me/joinchat/005e145001e2961cc7c3a70a19d98e4e |
-| Pentaho                   | @hellfish2      | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A
+| Pentaho                   | @hellfish2      | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A           |
 | Plone                     | @macagua        |                                                               |
 | Pyramid                   | @macagua        |                                                               |
 | Python                    | @atmantree      | https://telegram.me/joinchat/BG6gzwGzSvRriv6QHXp3Mg           |
@@ -34,12 +34,12 @@
 | RadioGNU                  | ...             | https://telegram.me/joinchat/000c551d006cb38838b643d7e8229885 |
 | Ruby                      | ...             | https://telegram.me/joinchat/054da39e01c4d63327e76bac35bfce64 |
 | Tabletas Canaima          | @edgardoweb     | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
-| Telegram                  | @tomivs @vicxyz | https://telegram.me/joinchat/BLlObgMpXoIo_-jwoU62pQ           |
+| Telegram                  | @tomivs @vicxyz | https://telegram.me/joinchat/BLlObgMpXoIo_-jwoU62pQ            |
 | Ubuntu                    | @C3s4r          | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg           |
 | Wagtail CMS               | @fr33co         | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g           |
-| Wikimedia                 | @KDels          | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA           |
+| Wikimedia                 | @KDels          | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA            |
 | Wordpress                 | @Richzendy      | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ           |
-| Sysadmin-VE               | @arawako        | https://telegram.me/joinchat/AFT7wgHj7P78EbpSjZE2_g           |
+| Sysadmin-VE               | @arawako        | https://telegram.me/joinchat/AFT7wj5-GKQoZp8iegsRhw           |
 
 ## Licencia
 
