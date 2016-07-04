@@ -1,5 +1,7 @@
 # Comunidades Tecnológicas de Venezuela en Telegram
 
+[![Join the chat at https://gitter.im/OpenVE/comunidades-en-telegram](https://badges.gitter.im/OpenVE/comunidades-en-telegram.svg)](https://gitter.im/OpenVE/comunidades-en-telegram?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 | Comunidad              | Administrador      | Link                                                          |
 |------------------------|--------------------|---------------------------------------------------------------|
 | ActivistasxSL          | @nagui1008         |                                                               |
