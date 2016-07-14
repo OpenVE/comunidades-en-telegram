@@ -49,7 +49,7 @@
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://telegram.me/ruby_ve                |
 | SEO                    | @pcimagenca        | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
 | Symfony                |                    | https://telegram.me/joinchat/BSBThwZJsMqkvtk63D5-hA           |
-| Sysadmin               | @arawako           | https://telegram.me/joinchat/AFT7wj5-GKSNZUZ43jJFGw           |
+| SysAdminVE               | @arawako           | https://telegram.me/SysAdminVE                                |
 | Tabletas Canaima       | @edgardoweb        | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
 | Telegram               | @tomivs @vicxyz    | http://telegram.me/VenezuelaTG                                |
 | Ubuntu                 | @C3s4r             | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg           |
