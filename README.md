@@ -16,7 +16,7 @@
 | Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
 | CSL_VE                 | @phenobarbital     | https://telegram.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
 | Django                 | @ebar0n            | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
-| Docker                 | @Seraph1           | https://telegram.me/joinchat/B9JUAAb7KI4MONdCdPeJ9Q           |
+| Docker                 | @Seraph1           | https://telegram.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
 | Electrónica            | @pcimagenca        | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ           |
 | Elixir                 | @gusga - @highercomve | https://telegram.me/ElixirVe                               |
 | FreeCodeCamp Barquisimeto    | @mirabalj | https://telegram.me/joinchat/AFn8xT7vPnlQbJc9mScY_A              |
