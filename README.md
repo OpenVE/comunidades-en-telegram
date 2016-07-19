@@ -12,7 +12,7 @@
 | Arduino - Raspberry Pi | ...                | https://telegram.me/joinchat/05dbbe5f020e87a4af775773f4c50c7d |
 | Bases de Datos         | @jelitox           | https://telegram.me/joinchat/AUPtdgBLpGYJOgkZD2r1ZQ           |
 | Bitcoin                | @ajsb85            | https://telegram.me/joinchat/AEmIhgCcYlh23KxkOZC3-w           |
-| C                      | ...                | https://telegram.me/joinchat/BlwNNgIMJ1_Hn29Nak-tCg           |
+| C                      | ...                | (:warning: pendiente de contactar a alguien del grupo)        |
 | Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
 | CSL_VE                 | @phenobarbital     | https://telegram.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
 | Datos Abiertos y scraping | @seraph1        | https://telegram.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
@@ -25,11 +25,11 @@
 | HTML CSS               | @Tur3c0            | https://telegram.me/HTML_CSS_Ve                               |
 | iOS                    | @ajmarquez         | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
 | Interaction Design     | @m0000g            | https://telegram.me/interactiondesgin_spanish                 |
-| Intercambio Idiomas    | @pcimagenca        | https://telegram.me/joinchat/BSBThwaOFqaNIXMc93Zb2g           |
+| Intercambio Idiomas    | @oteroweb          |                                                               |
 | JavaScript             | @ajsb85            | https://telegram.me/vzlajs                                    |
 | Joomla                 | @pcimagenca        | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | Juegos                 | @edgardoweb        | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg           |
-| Laravel                | @racosta26         | https://telegram.me/laravelVe           |
+| Laravel                | @racosta26         | https://telegram.me/laravelVe                                 |
 | LibreOffice            | @Tur3c0            | https://telegram.me/LibreOfficeVe                             |
 | Libros Técnicos        | @willicab          | https://telegram.me/LibrosTecnicos                            |
 | Libros (PacktPub)      | @ajsb85            | https://telegram.me/packtpubfreelearning                      |
