@@ -11,7 +11,7 @@
 | ArchLinux y Derivados  | @goidor            | https://telegram.me/archlinuxVE                               |
 | Arduino - Raspberry Pi | ...                | https://telegram.me/joinchat/05dbbe5f020e87a4af775773f4c50c7d |
 | Bases de Datos         | @jelitox           | https://telegram.me/joinchat/AUPtdgBLpGYJOgkZD2r1ZQ           |
-| Bitcoin                | @ajsb85            | https://telegram.me/joinchat/AEmIhgCcYlh23KxkOZC3-w           |
+| Bitcoin                | @ajsb85            |                                                               |
 | C                      | ...                | (:warning: pendiente de contactar a alguien del grupo)        |
 | Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
 | CSL_VE                 | @phenobarbital     | https://telegram.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
