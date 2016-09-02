@@ -18,7 +18,7 @@
 | Datos Abiertos y scraping | @seraph1        | https://telegram.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
 | Django                 | @ebar0n            | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
 | Docker                 | @Seraph1           | https://telegram.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
-| Electrónica            | @pcimagenca        | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ           |
+| Electrónica            | @oteroweb        | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ           |
 | Elixir                 | @gusga - @highercomve | https://telegram.me/ElixirVe                               |
 | FreeCodeCamp Barquisimeto    | @mirabalj | https://telegram.me/joinchat/AFn8xT7vPnlQbJc9mScY_A              |
 | Git                    | @johannnn          | https://telegram.me/joinchat/AbiOpD49RGsDrx9Nb4gjaA           |
@@ -28,9 +28,9 @@
 | Interaction Design     | @m0000g            | https://telegram.me/interactiondesgin_spanish                 |
 | Intercambio Idiomas    | @oteroweb          | https://telegram.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
 | JavaScript             | @ajsb85            | https://telegram.me/vzlajs                                    |
-| Joomla                 | @pcimagenca        | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
+| Joomla                 | @oteroweb        | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | Juegos                 | @edgardoweb        | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg           |
-| Laravel                | @racosta26         | https://telegram.me/laravelVe                                 |
+| Laravel                | @racosta26, @oteroweb         | https://telegram.me/laravelVe                                 |
 | LibreOffice            | @Tur3c0            | https://telegram.me/LibreOfficeVe                             |
 | Libros Técnicos        | @willicab          | https://telegram.me/LibrosTecnicos                            |
 | Libros (PacktPub)      | @ajsb85            | https://telegram.me/packtpubfreelearning                      |
