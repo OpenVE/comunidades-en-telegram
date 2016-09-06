@@ -16,6 +16,7 @@
 | Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
 | CSL_VE                 | @phenobarbital     | https://telegram.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
 | Datos Abiertos y scraping | @seraph1        | https://telegram.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
+| Desarrollo VideoJuegos | @alexr1712         | https://telegram.me/joinchat/B_QIWkDGwHrqvgaALG5lNw           |
 | Django                 | @ebar0n            | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
 | Docker                 | @Seraph1           | https://telegram.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
 | Electrónica            | @oteroweb        | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ           |
