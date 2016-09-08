@@ -50,6 +50,7 @@
 | Python Bot             | @willicab          | https://telegram.me/joinchat/00ab7c2601b7e76d92a127df3c7848b4 |
 | Python                 | @nhomar - @macagua | https://telegram.me/python_venezuela                          |
 | RadioGNU               | ...                | https://telegram.me/joinchat/000c551d006cb38838b643d7e8229885 |
+| Radiotransmisores      | @Carlosjq10        | https://telegram.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
 | Redes de datos y servidores | @jotagarbar   | https://telegram.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://telegram.me/ruby_ve                |
 | SEO                    | @pcimagenca        | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
