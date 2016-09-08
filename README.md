@@ -53,7 +53,7 @@
 | Radiotransmisores      | @Carlosjq10        | https://telegram.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
 | Redes de datos y servidores | @jotagarbar   | https://telegram.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://telegram.me/ruby_ve                |
-| SEO                    | @pcimagenca        | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
+| SEO                    | @oteroweb         | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
 | Symfony                |                    | https://telegram.me/joinchat/BSBThwZJsMqkvtk63D5-hA           |
 | SysAdminVE               | @arawako           | https://telegram.me/SysAdminVE                                |
 | Tabletas Canaima       | @edgardoweb        | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
@@ -64,7 +64,7 @@
 | Wikimedia              | @KDels             | https://telegram.me/grupowmve                                 |
 | Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish                       |
 | Wordpress              | @Richzendy - @skatox - @ThePhoenixBird | https://telegram.me/WordPressVE           |
-| Yii                    | @Pcimagenca - @skatox - @raiiac | https://telegram.me/YiiVzla                      |
+| Yii                    | @oteroweb  - @skatox - @raiiac | https://telegram.me/YiiVzla                      |
 | XANADU GNU/linux       | @sinfallas         | https://telegram.me/xanadulinux                               |
 
 
