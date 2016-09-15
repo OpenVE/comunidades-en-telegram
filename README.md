@@ -45,7 +45,7 @@
 | Ofertas de Empleo      | @raiiac            | https://telegram.me/trabajovenezuela                          |
 | Pentaho                | @hellfish2         | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A           |
 | PHP Venezuela          | @Tur3c0            | https://telegram.me/PHP_Ve                                    |
-| Plone                  | @macagua           |                                                               |
+| Plone Venezuela        | @macagua           | https://telegram.me/PloneVe                                                              |
 | Pyramid                | @macagua           |                                                               |
 | Python Bot             | @willicab          | https://telegram.me/joinchat/00ab7c2601b7e76d92a127df3c7848b4 |
 | Python Venezuela       | @nhomar - @macagua | https://telegram.me/python_venezuela                          |
