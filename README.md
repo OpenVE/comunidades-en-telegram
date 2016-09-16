@@ -28,43 +28,43 @@
 | iOS                    | @ajmarquez         | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
 | Interaction Design     | @m0000g            | https://telegram.me/interactiondesgin_spanish                 |
 | Intercambio Idiomas    | @oteroweb          | https://telegram.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
-| JavaScript             | @ajsb85            | https://telegram.me/vzlajs                                    |
-| Joomla                 | @oteroweb        | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
+| JavaScript Venezuela   | @ajsb85            | https://telegram.me/vzlajs                                    |
+| Joomla                 | @oteroweb          | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | Juegos                 | @edgardoweb        | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg           |
-| Laravel                | @racosta26, @oteroweb         | https://telegram.me/laravelVe                                 |
-| LibreOffice            | @Tur3c0            | https://telegram.me/LibreOfficeVe                             |
+| Laravel Venezuela      | @racosta26, @oteroweb         | https://telegram.me/laravelVe                                 |
+| LibreOffice Venezuela  | @Tur3c0            | https://telegram.me/LibreOfficeVe                             |
 | Libros Técnicos        | @willicab          | https://telegram.me/LibrosTecnicos                            |
 | Libros (PacktPub)      | @ajsb85            | https://telegram.me/packtpubfreelearning                      |
-| Linux                  | @andres_code       | https://telegram.me/linux_ve                                  |
+| Linux Venezuela        | @andres_code       | https://telegram.me/linux_ve                                  |
 | Matemáticas            | @KDels             | https://telegram.me/canalMatematicas                          |
 | Mobile Híbrido         | ...                | https://telegram.me/mobilehybridappsve                        |
 | MongoDB Venezuela      | @ch1nux            | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Mozilla                | @ajsb85            | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg           |
-| Nginx                  | @alexr1712         | https://telegram.me/nginxvzla                                 |
-| Odoo                   | @fr33co            | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw           |
+| Nginx Venezuela        | @alexr1712         | https://telegram.me/nginxvzla                                 |
+| Odoo Venezuela Devs    | @fr33co            | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw           |
 | Ofertas de Empleo      | @raiiac            | https://telegram.me/trabajovenezuela                          |
 | Pentaho                | @hellfish2         | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A           |
-| PHP                    | @Tur3c0            | https://telegram.me/PHP_Ve                                    |
-| Plone                  | @macagua           |                                                               |
+| PHP Venezuela          | @Tur3c0            | https://telegram.me/PHP_Ve                                    |
+| Plone Venezuela        | @macagua           | https://telegram.me/PloneVe                                                              |
 | Pyramid                | @macagua           |                                                               |
 | Python Bot             | @willicab          | https://telegram.me/joinchat/00ab7c2601b7e76d92a127df3c7848b4 |
-| Python                 | @nhomar - @macagua | https://telegram.me/python_venezuela                          |
+| Python Venezuela       | @nhomar - @macagua | https://telegram.me/python_venezuela                          |
 | RadioGNU               | ...                | https://telegram.me/joinchat/000c551d006cb38838b643d7e8229885 |
 | Radiotransmisores      | @Carlosjq10        | https://telegram.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
 | Redes de datos y servidores | @jotagarbar   | https://telegram.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://telegram.me/ruby_ve                |
-| SEO                    | @oteroweb         | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
+| SEO                    | @oteroweb          | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
 | Symfony                |                    | https://telegram.me/joinchat/BSBThwZJsMqkvtk63D5-hA           |
-| SysAdminVE               | @arawako           | https://telegram.me/SysAdminVE                                |
+| SysAdminVE             | @arawako           | https://telegram.me/SysAdminVE                                |
 | Tabletas Canaima       | @edgardoweb        | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
-| Telegram               | @tomivs @vicxyz    | http://telegram.me/VenezuelaTG                                |
+| Telegram Venezuela     | @tomivs @vicxyz    | http://telegram.me/VenezuelaTG                                |
 | Ubuntu                 | @C3s4r             | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg           |
-| VIM                    | @gusga             | https://telegram.me/vimvnzla                                  |
+| VIM Venezuela          | @gusga             | https://telegram.me/vimvnzla                                  |
 | Wagtail CMS            | @fr33co            | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g           |
-| Wikimedia              | @KDels             | https://telegram.me/grupowmve                                 |
+| Wikimedia Venezuela    | @KDels             | https://telegram.me/grupowmve                                 |
 | Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish                       |
-| Wordpress              | @Richzendy - @skatox - @ThePhoenixBird | https://telegram.me/WordPressVE           |
-| Yii                    | @oteroweb  - @skatox - @raiiac | https://telegram.me/YiiVzla                      |
+| Wordpress Venezuela    | @Richzendy - @skatox - @ThePhoenixBird | https://telegram.me/WordPressVE           |
+| Yii Venezuela          | @oteroweb  - @skatox - @raiiac | https://telegram.me/YiiVzla                      |
 | XANADU GNU/linux       | @sinfallas         | https://telegram.me/xanadulinux                               |
 
 
