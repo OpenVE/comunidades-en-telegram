@@ -67,6 +67,7 @@
 | Wordpress Venezuela    | @Richzendy - @skatox - @ThePhoenixBird | https://telegram.me/WordPressVE           |
 | Yii Venezuela          | @oteroweb  - @skatox - @raiiac | https://telegram.me/YiiVzla                      |
 | XANADU GNU/linux       | @sinfallas         | https://telegram.me/xanadulinux                               |
+|Programadores Venezuela | @DitoScripts       | https://telegram.me/ProgramadoresVenezuela                    |   
 
 
 ## Licencia
