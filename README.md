@@ -46,6 +46,7 @@
 | Pentaho                | @hellfish2         | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A           |
 | PHP Venezuela          | @Tur3c0            | https://telegram.me/PHP_Ve                                    |
 | Plone Venezuela        | @macagua           | https://telegram.me/PloneVe                                   |
+| Prestashop Venezuela   | @shadesOne         | https://telegram.me/prestashop_vzla                           |
 | Programadores Venezuela| @DitoScripts       | https://telegram.me/ProgramadoresVenezuela                    |
 | PyData Venezuela       | @map0logo          | https://telegram.me/PyDataVE                                  |
 | Pyramid                | @macagua           |                                                               |
