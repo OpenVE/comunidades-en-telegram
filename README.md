@@ -15,6 +15,7 @@
 | C                      | ...                | (:warning: pendiente de contactar a alguien del grupo)        |
 | Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
 | CSL_VE                 | @phenobarbital     | https://telegram.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
+| Data Science Venezuela | @map0logo          | https://telegram.me/DataScienceVE                             |
 | Datos Abiertos y scraping | @seraph1        | https://telegram.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
 | Desarrollo VideoJuegos | @alexr1712         | https://telegram.me/joinchat/B_QIWkDGwHrqvgaALG5lNw           |
 | Django                 | @ebar0n            | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
@@ -47,7 +48,6 @@
 | PHP Venezuela          | @Tur3c0            | https://telegram.me/PHP_Ve                                    |
 | Plone Venezuela        | @macagua           | https://telegram.me/PloneVe                                   |
 | Programadores Venezuela| @DitoScripts       | https://telegram.me/ProgramadoresVenezuela                    |
-| PyData Venezuela       | @map0logo          | https://telegram.me/PyDataVE                                  |
 | Pyramid                | @macagua           |                                                               |
 | Python Bot             | @willicab          | https://telegram.me/joinchat/00ab7c2601b7e76d92a127df3c7848b4 |
 | Python Venezuela       | @nhomar - @macagua | https://telegram.me/python_venezuela                          |
