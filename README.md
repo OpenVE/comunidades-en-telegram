@@ -4,7 +4,6 @@
 
 | Comunidad              | Administrador      | Link                                                          |
 |------------------------|--------------------|---------------------------------------------------------------|
-| ActivistasxSL          | @nagui1008         |                                                               |
 | Android                | ...                | https://telegram.me/AndroidDevVzla                            |
 | Android (Soporte Técnico) | @cyberthrone    | https://telegram.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
 | Angular                | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox | https://telegram.me/ngvenezuela |
@@ -49,7 +48,6 @@
 | PHP Venezuela          | @Tur3c0            | https://telegram.me/PHP_Ve                                    |
 | Plone Venezuela        | @macagua           | https://telegram.me/PloneVe                                   |
 | Programadores Venezuela| @DitoScripts       | https://telegram.me/ProgramadoresVenezuela                    |
-| Pyramid                | @macagua           |                                                               |
 | Python Bot             | @willicab          | https://telegram.me/joinchat/00ab7c2601b7e76d92a127df3c7848b4 |
 | Python Venezuela       | @nhomar - @macagua | https://telegram.me/python_venezuela                          |
 | RadioGNU               | ...                | https://telegram.me/joinchat/000c551d006cb38838b643d7e8229885 |
