@@ -20,12 +20,12 @@
 | Desarrollo VideoJuegos | @alexr1712         | https://telegram.me/joinchat/B_QIWkDGwHrqvgaALG5lNw           |
 | Django                 | @ebar0n            | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
 | Docker                 | @Seraph1           | https://telegram.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
-| Electrónica            | @oteroweb        | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ           |
+| Electrónica            | @oteroweb          | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ           |
 | Elixir                 | @gusga - @highercomve | https://telegram.me/ElixirVe                               |
 | FreeCodeCamp Barquisimeto    | @mirabalj | https://telegram.me/joinchat/AFn8xT7vPnlQbJc9mScY_A              |
-| Freelancers Venezuela  | @alexr1712 @oteroweb | https://telegram.me/freelancersve              |
+| Freelancers Venezuela  | @alexr1712 @oteroweb | https://telegram.me/freelancersve                           |
 | Git                    | @johannnn          | https://telegram.me/joinchat/AbiOpD49RGsDrx9Nb4gjaA           |
-| Go                     | @aasanchez         | https://telegram.me/joinchat/ACpsgzxP_bWvMH0hGzHPQQ           |
+| Go                     | @aasanchez         | https://telegram.me/golangve           |
 | HTML CSS               | @Tur3c0            | https://telegram.me/HTML_CSS_Ve                               |
 | iOS                    | @ajmarquez         | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
 | Interaction Design     | @m0000g            | https://telegram.me/interactiondesgin_spanish                 |
@@ -33,7 +33,7 @@
 | JavaScript Venezuela   | @ajsb85            | https://telegram.me/vzlajs                                    |
 | Joomla                 | @oteroweb          | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | Juegos                 | @edgardoweb        | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg           |
-| Laravel Venezuela      | @racosta26, @oteroweb         | https://telegram.me/laravelVe                                 |
+| Laravel Venezuela      | @racosta26, @oteroweb | https://telegram.me/laravelVe                              |
 | LibreOffice Venezuela  | @Tur3c0            | https://telegram.me/LibreOfficeVe                             |
 | Libros Técnicos        | @willicab          | https://telegram.me/LibrosTecnicos                            |
 | Libros (PacktPub)      | @ajsb85            | https://telegram.me/packtpubfreelearning                      |
@@ -67,7 +67,7 @@
 | Wikimedia Venezuela    | @KDels             | https://telegram.me/grupowmve                                 |
 | Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish                       |
 | Wordpress Venezuela    | @Richzendy - @skatox - @ThePhoenixBird | https://telegram.me/WordPressVE           |
-| Yii Venezuela          | @oteroweb  - @skatox - @raiiac | https://telegram.me/YiiVzla                      |
+| Yii Venezuela          | @oteroweb  - @skatox - @raiiac | https://telegram.me/YiiVzla                       |
 | XANADU GNU/linux       | @sinfallas         | https://telegram.me/xanadulinux                               | 
 
 
