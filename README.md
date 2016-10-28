@@ -42,7 +42,7 @@
 | MongoDB Venezuela      | @ch1nux            | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Mozilla                | @ajsb85            | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg           |
 | Nginx Venezuela        | @alexr1712         | https://telegram.me/nginxvzla                                 |
-| Odoo Venezuela Devs    | @fr33co            | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw           |
+| Odoo Venezuela Devs    | @fr33co            | https://telegram.me/OdooVeDevs                                |
 | Ofertas de Empleo      | @raiiac            | https://telegram.me/trabajovenezuela                          |
 | Pentaho                | @hellfish2         | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A           |
 | PHP Venezuela          | @Tur3c0            | https://telegram.me/PHP_Ve                                    |
