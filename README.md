@@ -11,7 +11,7 @@
 | Arduino - Raspberry Pi | ...                | https://telegram.me/joinchat/05dbbe5f020e87a4af775773f4c50c7d |
 | Bases de Datos         | @jelitox           | https://telegram.me/joinchat/AUPtdj6m7-FW5fxOH2zKOw           |
 | Bitcoin                | @ajsb85            | https://telegram.me/joinchat/AEmIhj4pV9Lkfsk7GcMHBQ           |
-| C                      | ...                | (:warning: pendiente de contactar a alguien del grupo)        |
+| C++                    | @Kalpar501         | https://telegram.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
 | Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
 | CSL_VE                 | @phenobarbital     | https://telegram.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
 | Data Science Venezuela | @map0logo          | https://telegram.me/DataScienceVE                             |
