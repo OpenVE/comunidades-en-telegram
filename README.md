@@ -13,7 +13,7 @@
 | Conocimiento Libre | @Seraph1 | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng |
 | Django | @ebar0n | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ |
 | Electrónica | @pcimagenca | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ |
-| Git      | @johannnn @Tur3c0 | https://telegram.me/joinchat/AbiOpAbSglSfdX59ltMoaA |
+| Git      | @johannnn @Tur3c0 | https://telegram.me/git_ve |
 | Front-End <HTML>{CSS}.ve | @Tur3c0  | https://telegram.me/joinchat/005e145000398d19d248cb8a050bb3c4 |
 | iOS | @ajmarquez | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg |
 | JavaScript | @alexandersalas | https://telegram.me/joinchat/AEmIhgESr_SYDRjZ_FKMdA |
