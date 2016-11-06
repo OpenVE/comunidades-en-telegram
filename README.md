@@ -7,18 +7,20 @@
 | Arduino - Raspberry Pi | ... | https://telegram.me/joinchat/05dbbe5f020e87a4af775773f4c50c7d |
 | ArchLinux y Derivados | @goidor | https://telegram.me/joinchat/ARkABQN7Z_kugtZg_rI41g |
 | Bases de Datos | @jelitox | https://telegram.me/joinchat/AUPtdgBLpGYJOgkZD2r1ZQ |
+| Bash/Zsh.Ve | @Tur3c0 | https://telegram.me/BashVe |
 | Bitcoin | @alexandersalas | https://telegram.me/joinchat/AEmIhgCcYlh23KxkOZC3-w |
 | C | ... | https://telegram.me/joinchat/BlwNNgIMJ1_Hn29Nak-tCg |
 | Conocimiento Libre | @Seraph1 | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng |
 | Django | @ebar0n | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ |
 | Electrónica | @pcimagenca | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ |
-| Git      | ...      | https://telegram.me/joinchat/AbiOpAbSglSfdX59ltMoaA |
-| HTML CSS | @Tur3c0  | https://telegram.me/joinchat/005e145000398d19d248cb8a050bb3c4 |
+| Git      | @johannnn @Tur3c0 | https://telegram.me/joinchat/AbiOpAbSglSfdX59ltMoaA |
+| Front-End <HTML>{CSS}.ve | @Tur3c0  | https://telegram.me/joinchat/005e145000398d19d248cb8a050bb3c4 |
 | iOS | @ajmarquez | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg |
 | JavaScript | @alexandersalas | https://telegram.me/joinchat/AEmIhgESr_SYDRjZ_FKMdA |
 | Joomla | @pcimagenca | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw |
 | Juegos | @edgardoweb | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg |
 | Laravel | @racosta26 | https://telegram.me/joinchat/AGNQ9wH6mld3_Ut2l2a2SQ |
+| LibreOfficeVe | @Tur3c0 @Cyberthrone @Naudy | https://telegram.me/LibreOfficeVe |
 | Libros Técnicos | @willicab | https://telegram.me/LibrosTecnicos |
 | Linux | ... | https://telegram.me/joinchat/054da39e01da7a3cc1723d1af5b1512d |
 | Matemáticas | @KDels | https://telegram.me/canalMatematicas |
@@ -26,7 +28,7 @@
 | Mozilla | @alexandersalas | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg |
 | Odoo | @fr33co | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw |
 | Ofertas de Empleo | @raiiac | https://telegram.me/trabajovenezuela |
-| PHP | @Tur3c0 | https://telegram.me/joinchat/005e145001e2961cc7c3a70a19d98e4e |
+| PHP | @Tur3c0 @aasanchez @joseayram | https://telegram.me/joinchat/005e145001e2961cc7c3a70a19d98e4e |
 | SEO | @pcimagenca | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ |
 | Pentaho | @hellfish2 | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A
 | Plone | @macagua | |
@@ -35,6 +37,7 @@
 | Python Bot | @willicab | https://telegram.me/joinchat/00ab7c2601b7e76d92a127df3c7848b4 |
 | RadioGNU | ... | https://telegram.me/joinchat/000c551d006cb38838b643d7e8229885 |
 | Ruby | ... | https://telegram.me/joinchat/054da39e01c4d63327e76bac35bfce64 |
+| ST.ve | @Tur3c0 | https://telegram.me/st3_ve |
 | Tabletas Canaima | @edgardoweb | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g |
 | Telegram | @tomivs @vicxyz | https://telegram.me/joinchat/BLlObgMpXoIo_-jwoU62pQ |
 | Ubuntu | @C3s4r | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg |
@@ -42,6 +45,7 @@
 | Wikimedia | @KDels | https://telegram.me/joinchat/A_r8aANpuUZ1QQC8y3FBCA |
 | Wordpress | @Richzendy | https://telegram.me/joinchat/AJklfwGsNaJG9whBmKQbcQ |
 | Sysadmin | @arawako | https://telegram.me/joinchat/AFT7wgHj7P78EbpSjZE2_g |
+| Vue.js | @raiiac @Tur3c0 | https://telegram.me/vueVe |
 
 ## Licencia
 
