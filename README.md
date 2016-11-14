@@ -61,7 +61,7 @@
 | SysAdminVE             | @arawako           | https://telegram.me/SysAdminVE                                |
 | Tabletas Canaima       | @edgardoweb        | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
 | Telegram Venezuela     | @tomivs @vicxyz    | http://telegram.me/VenezuelaTG                                |
-| Ubuntu                 | @C3s4r             | https://telegram.me/joinchat/AGDeAgB4EN5fyzNjpYL8gg           |
+| Ubuntu                 | @C3s4r             | https://telegram.me/ubuntuve                                  |
 | VIM Venezuela          | @gusga             | https://telegram.me/vimvnzla                                  |
 | Vue.js                 | @raiiac @Tur3c0    | https://telegram.me/vueVe                                     |
 | Wagtail CMS            | @fr33co            | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g           |
