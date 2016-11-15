@@ -60,7 +60,7 @@
 | Symfony                |                    | <https://telegram.me/joinchat/BSBThwZJsMqkvtk63D5-hA>           |
 | SysAdminVE             | @arawako           | <https://telegram.me/SysAdminVE>                                |
 | Tabletas Canaima       | @edgardoweb        | <https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g>           |
-| Telegram Venezuela     | @tomivs @vicxyz    | http://telegram.me/VenezuelaTG>                                |
+| Telegram Venezuela     | @tomivs @vicxyz    | <http://telegram.me/VenezuelaTG>                                |
 | Ubuntu                 | @C3s4r             | <https://telegram.me/ubuntuve>                                  |
 | VIM Venezuela          | @gusga             | <https://telegram.me/vimvnzla>                                  |
 | Vue.js                 | @raiiac @Tur3c0    | <https://telegram.me/vueVe>                                     |
@@ -70,7 +70,6 @@
 | Wordpress Venezuela    | @Richzendy - @skatox - @ThePhoenixBird | <https://telegram.me/WordPressVE>           |
 | Yii Venezuela          | @oteroweb  - @skatox - @raiiac | <https://telegram.me/YiiVzla>                       |
 | XANADU GNU/linux       | @sinfallas         | <https://telegram.me/xanadulinux>                               |
-
 
 ## Licencia
 
