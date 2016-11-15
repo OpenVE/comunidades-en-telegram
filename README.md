@@ -8,8 +8,7 @@
 | Android (Soporte Técnico) | @cyberthrone    | https://telegram.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
 | Angular                | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox | https://telegram.me/ngvenezuela |
 | ArchLinux y Derivados  | @goidor            | https://telegram.me/archlinuxVE                               |
-| Arduino - Raspberry Pi | ...                | https://telegram.me/joinchat/05dbbe5f020e87a4af775773f4c50c7d |
-| Bases de Datos         | @jelitox           | https://telegram.me/joinchat/AUPtdj6m7-FW5fxOH2zKOw           |
+| Bases de Datos         | @jelitox           | https://telegram.me/bdvzla                                    |
 | Bash/Zsh.Ve            | @Tur3c0            | https://telegram.me/BashVe                                    |
 | Bitcoin                | @ajsb85            | https://telegram.me/joinchat/AEmIhj4pV9Lkfsk7GcMHBQ           |
 | C++                    | @Kalpar501         | https://telegram.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
@@ -20,7 +19,7 @@
 | Desarrollo VideoJuegos | @alexr1712         | https://telegram.me/joinchat/B_QIWkDGwHrqvgaALG5lNw           |
 | Django                 | @ebar0n            | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
 | Docker                 | @Seraph1           | https://telegram.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
-| Electrónica            | @oteroweb          | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ           |
+| Electrónica            | @oteroweb          | https://telegram.me/ElectroVe                                 |
 | Elixir                 | @gusga - @highercomve | https://telegram.me/ElixirVe                               |
 | FreeCodeCamp Barquisimeto    | @mirabalj | https://telegram.me/joinchat/AFn8xT7vPnlQbJc9mScY_A              |
 | Freelancers Venezuela  | @alexr1712 @oteroweb | https://telegram.me/freelancersve                           |
@@ -28,6 +27,7 @@
 | Go                     | @aasanchez         | https://telegram.me/golangve                                  |
 | Front-End HTML-CSS.ve  | @Tur3c0            | https://telegram.me/HTML_CSS_Ve                               |
 | iOS                    | @ajmarquez         | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
+| IoT, SoC, Arduino, Raspberry Pi, Orange Pi  | @mirabalj                           | http://bit.ly/iot_latam |
 | Interaction Design     | @m0000g            | https://telegram.me/interactiondesgin_spanish                 |
 | Intercambio Idiomas    | @oteroweb          | https://telegram.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
 | JavaScript Venezuela   | @ajsb85            | https://telegram.me/vzlajs                                    |
@@ -51,7 +51,7 @@
 | Programadores Venezuela| @DitoScripts       | https://telegram.me/ProgramadoresVenezuela                    |
 | Python Bot             | @willicab          | https://telegram.me/joinchat/00ab7c2601b7e76d92a127df3c7848b4 |
 | Python Venezuela       | @nhomar - @macagua | https://telegram.me/python_venezuela                          |
-| RadioGNU               | ...                | https://telegram.me/joinchat/000c551d006cb38838b643d7e8229885 |
+| RadioGNU               | ...                | https://telegram.me/radiognu                                  |
 | Radiotransmisores      | @Carlosjq10        | https://telegram.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
 | Redes de datos y servidores | @jotagarbar   | https://telegram.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://telegram.me/ruby_ve                |
