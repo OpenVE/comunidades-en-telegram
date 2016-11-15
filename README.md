@@ -45,7 +45,7 @@
 | Nginx Venezuela        | @alexr1712         | https://telegram.me/nginxvzla                                 |
 | Odoo Venezuela Devs    | @fr33co            | https://telegram.me/OdooVeDevs                                |
 | Ofertas de Empleo      | @raiiac            | https://telegram.me/trabajovenezuela                          |
-| Pentaho                | @hellfish2         | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A           |
+| Pentaho                | @hellfish2 @Tur3c0 | https://telegram.me/pentahoVE                                 |
 | PHP Venezuela          | @Tur3c0 @aasanchez @joseayram @oyepez | https://telegram.me/PHP_Ve                 |
 | Plone Venezuela        | @macagua           | https://telegram.me/PloneVe                                   |
 | Programadores Venezuela| @DitoScripts       | https://telegram.me/ProgramadoresVenezuela                    |
