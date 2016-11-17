@@ -10,7 +10,7 @@
 | ArchLinux y Derivados  | @goidor            | https://telegram.me/archlinuxVE                               |
 | Bases de Datos         | @jelitox           | https://telegram.me/bdvzla                                    |
 | Bash/Zsh.Ve            | @Tur3c0            | https://telegram.me/BashVe                                    |
-| Bitcoin                | @ajsb85            | https://telegram.me/joinchat/AEmIhj4pV9Lkfsk7GcMHBQ           |
+| Bitcoin                | @ajsb85            | https://telegram.me/btcven                                    |
 | C++                    | @Kalpar501         | https://telegram.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
 | Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
 | CSL_VE                 | @phenobarbital     | https://telegram.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
@@ -36,20 +36,19 @@
 | Laravel Venezuela      | @racosta26, @oteroweb | https://telegram.me/laravelVe                              |
 | LibreOffice Venezuela  | @Tur3c0 @Cyberthrone @Naudy | https://telegram.me/LibreOfficeVe                    |
 | Libros Técnicos        | @willicab          | https://telegram.me/LibrosTecnicos                            |
-| Libros (PacktPub)      | @ajsb85            | https://telegram.me/packtpubfreelearning                      |
+| Libros (PacktPub)      | @guerrerocarlos            | https://telegram.me/packtpubfreelearning              |
 | Linux Venezuela        | @andres_code       | https://telegram.me/linux_ve                                  |
 | Matemáticas            | @KDels             | https://telegram.me/canalMatematicas                          |
 | Mobile Híbrido         | ...                | https://telegram.me/mobilehybridappsve                        |
 | MongoDB Venezuela      | @ch1nux            | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
-| Mozilla                | @ajsb85            | https://telegram.me/joinchat/AEmIhgDedkCS2qtzWKccfg           |
+| Mozilla                | @ajsb85            | https://telegram.me/mozilla_venezuela                         |
 | Nginx Venezuela        | @alexr1712         | https://telegram.me/nginxvzla                                 |
 | Odoo Venezuela Devs    | @fr33co            | https://telegram.me/OdooVeDevs                                |
 | Ofertas de Empleo      | @raiiac            | https://telegram.me/trabajovenezuela                          |
-| Pentaho                | @hellfish2 @Tur3c0 | https://telegram.me/pentahoVE                                 |
+| Pentaho                | @hellfish2 - @Tur3c0 | https://telegram.me/pentahoVE                               |
 | PHP Venezuela          | @Tur3c0 @aasanchez @joseayram @oyepez | https://telegram.me/PHP_Ve                 |
 | Plone Venezuela        | @macagua           | https://telegram.me/PloneVe                                   |
 | Programadores Venezuela| @DitoScripts       | https://telegram.me/ProgramadoresVenezuela                    |
-| Python Bot             | @willicab          | https://telegram.me/joinchat/00ab7c2601b7e76d92a127df3c7848b4 |
 | Python Venezuela       | @nhomar - @macagua | https://telegram.me/python_venezuela                          |
 | RadioGNU               | ...                | https://telegram.me/radiognu                                  |
 | Radiotransmisores      | @Carlosjq10        | https://telegram.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
@@ -57,7 +56,7 @@
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://telegram.me/ruby_ve                |
 | SEO                    | @oteroweb          | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
 | ST.ve                  | @Tur3c0            | https://telegram.me/st3_ve                                    |
-| Symfony                |                    | https://telegram.me/joinchat/BSBThwZJsMqkvtk63D5-hA           |
+| Symfony                |                    | https://telegram.me/symfonyVe                                 |
 | SysAdminVE             | @arawako           | https://telegram.me/SysAdminVE                                |
 | Tabletas Canaima       | @edgardoweb        | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
 | Telegram Venezuela     | @tomivs @vicxyz    | http://telegram.me/VenezuelaTG                                |
