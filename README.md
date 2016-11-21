@@ -53,6 +53,7 @@
 | RadioGNU               | ...                | https://telegram.me/radiognu                                  |
 | Radiotransmisores      | @Carlosjq10        | https://telegram.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
 | Redes de datos y servidores | @jotagarbar   | https://telegram.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
+| Robotica Venezuela     | @jesusareyesv      | https://telegram.me/Robotica_VE                               |
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://telegram.me/ruby_ve                |
 | SEO                    | @oteroweb          | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
 | ST.ve                  | @Tur3c0            | https://telegram.me/st3_ve                                    |
