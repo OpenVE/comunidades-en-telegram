@@ -28,6 +28,7 @@
 | Front-End HTML-CSS.ve  | @Tur3c0            | https://telegram.me/HTML_CSS_Ve                               |
 | iOS                    | @ajmarquez         | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
 | IoT, SoC, Arduino, Raspberry Pi, Orange Pi  | @mirabalj                           | http://bit.ly/iot_latam |
+| IT Oriente             | @abrahamjsb        | https://telegram.me/itoriente                                 |
 | Interaction Design     | @m0000g            | https://telegram.me/interactiondesgin_spanish                 |
 | Intercambio Idiomas    | @oteroweb          | https://telegram.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
 | JavaScript Venezuela   | @ajsb85            | https://telegram.me/vzlajs                                    |
