@@ -41,9 +41,9 @@
 | Linux Venezuela        | @andres_code       | https://telegram.me/linux_ve                                  |
 | Matemáticas            | @KDels             | https://telegram.me/canalMatematicas                          |
 | Mobile Híbrido         | ...                | https://telegram.me/mobilehybridappsve                        |
-| MongoDB Venezuela      | @ch1nux            | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Mozilla                | @ajsb85            | https://telegram.me/mozilla_venezuela                         |
 | Nginx Venezuela        | @alexr1712         | https://telegram.me/nginxvzla                                 |
+| NoSQL Venezuela      | @ch1nux            | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Odoo Venezuela Devs    | @fr33co            | https://telegram.me/OdooVeDevs                                |
 | Ofertas de Empleo      | @raiiac            | https://telegram.me/trabajovenezuela                          |
 | Pentaho                | @hellfish2 - @Tur3c0 | https://telegram.me/pentahoVE                               |
