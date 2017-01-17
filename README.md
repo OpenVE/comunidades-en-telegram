@@ -22,7 +22,7 @@
 | Electrónica            | @oteroweb          | https://telegram.me/ElectroVe                                 |
 | Elixir                 | @gusga - @highercomve | https://telegram.me/ElixirVe                               |
 | FreeCodeCamp Barquisimeto    | @mirabalj | https://telegram.me/joinchat/AFn8xT7vPnlQbJc9mScY_A              |
-| FreeCodeCamp Caracas   | @cesarmaximo91     | https://t.me/joinchat/AAAAAAle5ImnIJ_cr6DUlQ                  |
+| FreeCodeCamp Caracas   | @cesarmaximo91     | https://t.me/fccCaracas                                       |
 | Freelancers Venezuela  | @alexr1712 @oteroweb | https://telegram.me/freelancersve                           |
 | Git                    | @johannnn @Tur3c0  | https://telegram.me/git_ve                                    |
 | Go                     | @aasanchez         | https://telegram.me/golangve                                  |
