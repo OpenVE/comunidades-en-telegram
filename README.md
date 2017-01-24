@@ -25,6 +25,7 @@
 | FreeCodeCamp Caracas   | @cesarmaximo91     | https://t.me/fccCaracas                                       |
 | Freelancers Venezuela  | @alexr1712 @oteroweb | https://telegram.me/freelancersve                           |
 | Git                    | @johannnn @Tur3c0  | https://telegram.me/git_ve                                    |
+| GLPI y Gestión de Servicios de TI | @ajsb85 | https://t.me/glpisp                                          |
 | Go                     | @aasanchez         | https://telegram.me/golangve                                  |
 | Front-End HTML-CSS.ve  | @Tur3c0            | https://telegram.me/HTML_CSS_Ve                               |
 | iOS                    | @ajmarquez         | https://telegram.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
