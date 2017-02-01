@@ -7,7 +7,8 @@
 | Android                | ...                | https://telegram.me/AndroidDevVzla                            |
 | Android (Soporte Técnico) | @cyberthrone    | https://telegram.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
 | Angular                | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox | https://telegram.me/ngvenezuela |
-| ArchLinux y Derivados  | @goidor            | https://telegram.me/archlinuxVE                               |
+| ArchLinux y Derivados  | @goidor            | https://telegram.me/archlinuxVE                                  |
+| Baloncesto         | @goidor           | https://t.me/joinchat/AAAAAD7YroC2IApMeZXk9g                       |
 | Bases de Datos         | @jelitox           | https://telegram.me/bdvzla                                    |
 | Bash/Zsh.Ve            | @Tur3c0            | https://telegram.me/BashVe                                    |
 | Bitcoin                | @ajsb85            | https://telegram.me/btcven                                    |
