@@ -22,7 +22,7 @@
 | Docker                 | @Seraph1           | https://telegram.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
 | Electrónica            | @oteroweb          | https://telegram.me/ElectroVe                                 |
 | Elixir                 | @gusga - @highercomve | https://telegram.me/ElixirVe                               |
-| E-shops Venezuela      | @jkhiyami @Alextic @m000_g | https://t.me/joinchat/AAAAAEJFEpnq_qMhpsyQ9Q          |
+| E-shops Dev Venezuela  | @jkhiyami @Alextic @m000_g | Https://telegram.me/EShopsDevVenezuela       |
 | FreeCodeCamp Barquisimeto    | @mirabalj | https://telegram.me/joinchat/AFn8xT7vPnlQbJc9mScY_A              |
 | FreeCodeCamp Caracas   | @cesarmaximo91     | https://t.me/fccCaracas                                       |
 | Freelancers Venezuela  | @alexr1712 @oteroweb | https://telegram.me/freelancersve                           |
