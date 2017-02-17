@@ -13,6 +13,7 @@
 | Bash/Zsh.Ve            | @Tur3c0            | https://telegram.me/BashVe                                    |
 | Bitcoin                | @ajsb85            | https://telegram.me/btcven                                    |
 | C++                    | @Kalpar501         | https://telegram.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
+| Computación Física     | @NatAli_En         | https://t.me/joinchat/AAAAAEJOcVHmuTCTG8uVqQ                  |
 | Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
 | CSL_VE                 | @phenobarbital     | https://telegram.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
 | Data Science Venezuela | @map0logo          | https://telegram.me/DataScienceVE                             |
