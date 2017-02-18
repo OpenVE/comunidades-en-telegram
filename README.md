@@ -7,8 +7,8 @@
 | Android                | ...                | https://telegram.me/AndroidDevVzla                            |
 | Android (Soporte Técnico) | @cyberthrone    | https://telegram.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
 | Angular                | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox | https://telegram.me/ngvenezuela |
-| ArchLinux y Derivados  | @goidor            | https://telegram.me/archlinuxVE                                  |
-| Baloncesto         | @goidor           | https://t.me/joinchat/AAAAAD7YroC2IApMeZXk9g                       |
+| ArchLinux y Derivados  | @goidor            | https://telegram.me/archlinuxVE                               |
+| Baloncesto             | @goidor            | https://telegram.me/baloncestoVE                              |
 | Bases de Datos         | @jelitox           | https://telegram.me/bdvzla                                    |
 | Bash/Zsh.Ve            | @Tur3c0            | https://telegram.me/BashVe                                    |
 | Bitcoin                | @ajsb85            | https://telegram.me/btcven                                    |
@@ -23,7 +23,7 @@
 | Docker                 | @Seraph1           | https://telegram.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
 | Electrónica            | @oteroweb          | https://telegram.me/ElectroVe                                 |
 | Elixir                 | @gusga - @highercomve | https://telegram.me/ElixirVe                               |
-| E-shops Dev Venezuela  | @jkhiyami @Alextic @m000_g | Https://telegram.me/EShopsDevVenezuela       |
+| E-shops Dev Venezuela  | @jkhiyami @Alextic @m000_g | Https://telegram.me/EShopsDevVenezuela                |
 | FreeCodeCamp Barquisimeto    | @mirabalj | https://telegram.me/joinchat/AFn8xT7vPnlQbJc9mScY_A              |
 | FreeCodeCamp Caracas   | @cesarmaximo91     | https://t.me/fccCaracas                                       |
 | Freelancers Venezuela  | @alexr1712 @oteroweb | https://telegram.me/freelancersve                           |
@@ -48,7 +48,7 @@
 | Mobile Híbrido         | ...                | https://telegram.me/mobilehybridappsve                        |
 | Mozilla                | @ajsb85            | https://telegram.me/mozilla_venezuela                         |
 | Nginx Venezuela        | @alexr1712         | https://telegram.me/nginxvzla                                 |
-| NoSQL Venezuela      | @ch1nux            | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965 |
+| NoSQL Venezuela      | @ch1nux            | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965   |
 | Odoo Venezuela Devs    | @fr33co            | https://telegram.me/OdooVeDevs                                |
 | Ofertas de Empleo      | @raiiac            | https://telegram.me/trabajovenezuela                          |
 | Pentaho                | @hellfish2 - @Tur3c0 | https://telegram.me/pentahoVE                               |
