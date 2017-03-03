@@ -10,13 +10,11 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://te
 | Android (Soporte Técnico) | @cyberthrone    | https://telegram.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
 | Angular                | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox | https://telegram.me/ngvenezuela |
 | ArchLinux y Derivados  | @goidor            | https://telegram.me/archlinuxVE                               |
-| Baloncesto             | @goidor            | https://telegram.me/baloncestoVE                              |
 | Bases de Datos         | @jelitox           | https://telegram.me/bdvzla                                    |
 | Bash/Zsh.Ve            | @Tur3c0            | https://telegram.me/BashVe                                    |
 | Bitcoin                | @ajsb85            | https://telegram.me/btcven                                    |
 | C++                    | @Kalpar501         | https://telegram.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
 | Computación Física     | @NatAli_En         | https://t.me/joinchat/AAAAAEJOcVHmuTCTG8uVqQ                  |
-| Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
 | CSL_VE                 | @phenobarbital     | https://telegram.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
 | Data Science Venezuela | @map0logo          | https://telegram.me/DataScienceVE                             |
 | Datos Abiertos y scraping | @seraph1        | https://telegram.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
@@ -28,7 +26,6 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://te
 | E-shops Dev Venezuela  | @jkhiyami @Alextic @m000_g | Https://telegram.me/EShopsDevVenezuela                |
 | FreeCodeCamp Barquisimeto    | @mirabalj | https://telegram.me/joinchat/AFn8xT7vPnlQbJc9mScY_A              |
 | FreeCodeCamp Caracas   | @cesarmaximo91     | https://t.me/fccCaracas                                       |
-| Freelancers Venezuela  | @alexr1712 @oteroweb | https://telegram.me/freelancersve                           |
 | Git                    | @johannnn @Tur3c0  | https://telegram.me/git_ve                                    |
 | GLPI y Gestión de Servicios de TI | @ajsb85 | https://t.me/glpisp                                           |
 | Go                     | @aasanchez         | https://telegram.me/golangve                                  |
@@ -37,7 +34,6 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://te
 | IoT, SoC, Arduino, Raspberry Pi, Orange Pi  | @mirabalj                           | http://bit.ly/iot_latam |
 | IT Oriente             | @abrahamjsb        | https://telegram.me/itoriente                                 |
 | Interaction Design     | @m0000g            | https://telegram.me/interactiondesgin_spanish                 |
-| Intercambio Idiomas    | @oteroweb          | https://telegram.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
 | JavaScript Venezuela   | @ajsb85            | https://telegram.me/vzlajs                                    |
 | Joomla                 | @oteroweb          | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | Juegos                 | @edgardoweb        | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg           |
@@ -52,7 +48,6 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://te
 | Nginx Venezuela        | @alexr1712         | https://telegram.me/nginxvzla                                 |
 | NoSQL Venezuela      | @ch1nux            | https://telegram.me/joinchat/02fb5338009af29975c7d694d2aec965   |
 | Odoo Venezuela Devs    | @fr33co            | https://telegram.me/OdooVeDevs                                |
-| Ofertas de Empleo      | @raiiac            | https://telegram.me/trabajovenezuela                          |
 | Pentaho                | @hellfish2 - @Tur3c0 | https://telegram.me/pentahoVE                               |
 | PHP Venezuela          | @Tur3c0 @aasanchez @joseayram @oyepez | https://telegram.me/PHP_Ve                 |
 | Plone Venezuela        | @macagua           | https://telegram.me/PloneVe                                   |
@@ -76,12 +71,22 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://te
 | VIM Venezuela          | @gusga             | https://telegram.me/vimvnzla                                  |
 | Vue.js                 | @raiiac @Tur3c0    | https://telegram.me/vueVe                                     |
 | Wagtail CMS            | @fr33co            | https://telegram.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g           |
-| Wikimedia Venezuela    | @KDels             | https://telegram.me/grupowmve                                 |
 | Women in Tech          | @m0000g - @tatadbb | https://telegram.me/womenintech_spanish                       |
 | Wordpress Venezuela    | @Richzendy - @skatox - @ThePhoenixBird | https://telegram.me/WordPressVE           |
 | Yii Venezuela          | @oteroweb  - @skatox - @raiiac | https://telegram.me/YiiVzla                       |
 | XANADU GNU/linux       | @sinfallas         | https://telegram.me/xanadulinux                               |
 
+
+## Comunidades de temáticas varias
+
+| Comunidad              | Administrador      | Link                                                          |
+|------------------------|--------------------|---------------------------------------------------------------|
+| Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
+| Baloncesto             | @goidor            | https://telegram.me/baloncestoVE                              |
+| Freelancers Venezuela  | @alexr1712 @oteroweb | https://telegram.me/freelancersve                           |
+| Intercambio Idiomas    | @oteroweb          | https://telegram.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
+| Ofertas de Empleo      | @raiiac            | https://telegram.me/trabajovenezuela                          |
+| Wikimedia Venezuela    | @KDels             | https://telegram.me/grupowmve                                 |
 
 ## Licencia
 
