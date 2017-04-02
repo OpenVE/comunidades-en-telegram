@@ -64,9 +64,9 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Redes de datos y servidores | @jotagarbar   | https://t.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
 | Robotica Venezuela     | @jesusareyesv      | https://t.me/Robotica_VE                               |
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://t.me/ruby_ve                |
-| SEO                    | @oteroweb          | https://t.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
+| SEO                    | @oteroweb          |  https://t.me/joinchat/AAAAAD4XBh3KdvGZgVoM2A           |
 | Security VE            | @coffeenights      | https://t.me/itsec_ve                                  |
-| SIGESP                 | @jcmonsalves       | https://t.me/joinchat/AHyMowqPQ7FfALxvmmPvkQ           |
+| SIGESP                 | @jcmonsalves       | https://t.me/joinchat/AAAAAEI9Ajku0JwdPPmTyw           |
 | ST.ve                  | @Tur3c0            | https://t.me/st3_ve                                    |
 | Symfony                |                    | https://t.me/symfonyVe                                 |
 | SysAdminVE             | @arawako           | https://t.me/SysAdminVE                                |
