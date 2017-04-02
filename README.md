@@ -68,7 +68,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Security VE            | @coffeenights      | https://t.me/itsec_ve                                  |
 | SIGESP                 | @jcmonsalves       | https://t.me/joinchat/AHyMowqPQ7FfALxvmmPvkQ           |
 | ST.ve                  | @Tur3c0            | https://t.me/st3_ve                                    |
-| Symfony                |                    | https://t.me/symfonyVe                                 |
+| Symfony                | @oteroweb          | https://t.me/symfonyVe                                 |
 | SysAdminVE             | @arawako           | https://t.me/SysAdminVE                                |
 | Tabletas Canaima       | @edgardoweb        | https://t.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
 | Telegram Venezuela     | @tomivs @vicxyz    | https://t.me/VenezuelaTG                                |
