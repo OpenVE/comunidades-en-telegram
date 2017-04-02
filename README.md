@@ -26,6 +26,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Electrónica            | @oteroweb          | https://t.me/ElectroVe                                 |
 | Elixir                 | @gusga - @highercomve | https://t.me/ElixirVe                               |
 | E-shops Dev Venezuela  | @jkhiyami @Alextic @m000_g | https://t.me/EShopsDevVenezuela                |
+| Emprendedores Venezolanos | @oyeyepez | https://t.me/emprendedores_venezolanos                       |
 | FreeCodeCamp Barquisimeto    | @mirabalj | https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A              |
 | FreeCodeCamp Caracas   | @cesarmaximo91     | https://t.me/fccCaracas                                       |
 | Freelancers Venezuela  | @alexr1712 @oteroweb | https://t.me/freelancersve                           |
@@ -54,7 +55,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Odoo Venezuela Devs    | @fr33co            | https://t.me/OdooVeDevs                                |
 | Ofertas de Empleo      | @raiiac            | https://t.me/trabajovenezuela                          |
 | Pentaho                | @hellfish2 - @Tur3c0 | https://t.me/pentahoVE                               |
-| PHP Venezuela          | @Tur3c0 @aasanchez @joseayram @oyepez | https://t.me/PHP_Ve                 |
+| PHP Venezuela          | @Tur3c0 @aasanchez @joseayram @oyepez @oteroweb| https://t.me/PHP_Ve                 |
 | Plone Venezuela        | @macagua           | https://t.me/PloneVe                                   |
 | Programadores Venezuela| @DitoScripts       | https://t.me/ProgramadoresVenezuela                    |
 | Python Venezuela       | @nhomar - @macagua | https://t.me/python_venezuela                          |
