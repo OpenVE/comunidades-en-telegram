@@ -56,7 +56,7 @@
 | Python Venezuela       | @nhomar - @macagua | https://telegram.me/python_venezuela                          |
 | RadioGNU               | ...                | https://telegram.me/radiognu                                  |
 | Radiotransmisores      | @Carlosjq10        | https://telegram.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
-| React                  | @alacret - @edwinvrgs  | https://t.me/reactjsES                                    |
+| React y React Native   | @alacret - @edwinvrgs  | https://t.me/reactVE                                      |
 | Redes de datos y servidores | @jotagarbar   | https://telegram.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
 | Robotica Venezuela     | @jesusareyesv      | https://telegram.me/Robotica_VE                               |
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://telegram.me/ruby_ve                |
