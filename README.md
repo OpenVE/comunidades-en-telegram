@@ -61,7 +61,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Python Venezuela       | @nhomar - @macagua | https://t.me/python_venezuela                          |
 | RadioGNU               | ...                | https://t.me/radiognu                                  |
 | Radiotransmisores      | @Carlosjq10        | https://t.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
-| React                  | @alacret - @edwinvrgs  | https://t.me/reactjsES                                    |
+| React y React Native   | @alacret - @edwinvrgs  | https://t.me/reactVE                               |
 | Redes de datos y servidores | @jotagarbar   | https://t.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
 | Robotica Venezuela     | @jesusareyesv      | https://t.me/Robotica_VE                               |
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://t.me/ruby_ve                |
