@@ -27,7 +27,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Elixir                 | @gusga - @highercomve | https://t.me/ElixirVe                               |
 | E-shops Dev Venezuela  | @jkhiyami @Alextic @m000_g | https://t.me/EShopsDevVenezuela                |
 | Emprendedores Venezolanos | @oyeyepez | https://t.me/emprendedores_venezolanos                       |
-| Firebase Venezuela     | @villanuevand      | https://t.me/firebaseVenezuela                         |
+| Firebase Venezuela     | @villanuevand      | https://t.me/firebaseVe                         |
 | FreeCodeCamp Barquisimeto    | @mirabalj | https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A              |
 | FreeCodeCamp Caracas   | @cesarmaximo91     | https://t.me/fccCaracas                                       |
 | Freelancers Venezuela  | @alexr1712 @oteroweb | https://t.me/freelancersve                           |
