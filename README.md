@@ -14,6 +14,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Bases de Datos         | @jelitox           | https://t.me/bdvzla                                    |
 | Bash/Zsh.Ve            | @Tur3c0            | https://t.me/BashVe                                    |
 | Bitcoin                | @ajsb85            | https://t.me/btcven                                    |
+| Blender Venezuela      | @gothicssy         | https://t.me/BlenderVe                                    |
 | C++                    | @Kalpar501         | https://t.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
 | Computación Física     | @NatAli_En         | https://t.me/joinchat/AAAAAEJOcVHmuTCTG8uVqQ                  |
 | Conocimiento Libre     | @Seraph1           | https://t.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
@@ -63,6 +64,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | RadioGNU               | ...                | https://t.me/radiognu                                  |
 | Radiotransmisores      | @Carlosjq10        | https://t.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
 | React y React Native   | @alacret - @edwinvrgs  | https://t.me/reactVE                               |
+| Realidad Aumentada Ve  | @gothicssy         | https://t.me/RealidadVe                       |
 | Redes de datos y servidores | @jotagarbar   | https://t.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
 | Robotica Venezuela     | @jesusareyesv      | https://t.me/Robotica_VE                               |
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://t.me/ruby_ve                |
