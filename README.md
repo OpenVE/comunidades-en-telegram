@@ -8,7 +8,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 |------------------------|--------------------|---------------------------------------------------------------|
 | Android                | ...                | https://t.me/AndroidDevVzla                            |
 | Android (Soporte Técnico) | @cyberthrone    | https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
-| Angular                | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox | https://t.me/ngvenezuela |
+| Angular                | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox - @leonardocabeza | https://t.me/ngvenezuela |
 | ArchLinux y Derivados  | @goidor            | https://t.me/archlinuxVE                               |
 | Baloncesto             | @goidor            | https://t.me/baloncestoVE                              |
 | Bases de Datos         | @jelitox           | https://t.me/bdvzla                                    |
@@ -28,7 +28,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Elixir                 | @gusga - @highercomve | https://t.me/ElixirVe                               |
 | E-shops Dev Venezuela  | @jkhiyami @Alextic @m000_g | https://t.me/EShopsDevVenezuela                |
 | Emprendedores Venezolanos | @oyeyepez | https://t.me/emprendedores_venezolanos                       |
-| Firebase Venezuela     | @villanuevand      | https://t.me/firebaseVe                         |
+| Firebase Venezuela     | @villanuevand - @jobsamuel     | https://t.me/firebaseVe                         |
 | FreeCodeCamp Barquisimeto    | @mirabalj | https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A              |
 | FreeCodeCamp Caracas   | @cesarmaximo91     | https://t.me/fccCaracas                                       |
 | Freelancers Venezuela  | @alexr1712 @oteroweb | https://t.me/freelancersve                           |
