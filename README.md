@@ -8,7 +8,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 |------------------------|--------------------|---------------------------------------------------------------|
 | Android                | ...                | https://t.me/AndroidDevVzla                            |
 | Android (Soporte Técnico) | @cyberthrone    | https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
-| Angular                | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox @leonardocabeza | https://t.me/ngvenezuela |
+| Angular                | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox - @leonardocabeza | https://t.me/ngvenezuela |
 | ArchLinux y Derivados  | @goidor            | https://t.me/archlinuxVE                               |
 | Baloncesto             | @goidor            | https://t.me/baloncestoVE                              |
 | Bases de Datos         | @jelitox           | https://t.me/bdvzla                                    |
