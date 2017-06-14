@@ -81,7 +81,6 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Ubuntu                 | @C3s4r             | https://t.me/ubuntuve                                  |
 | VIM Venezuela          | @gusga             | https://t.me/vimvnzla                                  |
 | Vue.js                 | @raiiac @Tur3c0    | https://t.me/vueVe                                     |
-| Wagtail CMS            | @fr33co            | https://t.me/joinchat/AFVMlQTWq-3CcTsvGDhO-g           |
 | Wikimedia Venezuela    | @KDels             | https://t.me/grupowmve                                 |
 | Women in Tech          | @m0000g - @tatadbb | https://t.me/womenintech_spanish                       |
 | Wordpress Venezuela    | @Richzendy - @skatox - @ThePhoenixBird | https://t.me/WordPressVE           |
