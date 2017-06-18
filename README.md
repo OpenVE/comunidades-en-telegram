@@ -48,6 +48,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Kotlin Venezuela       | @fr33co            | https://t.me/kotlinve                                  |
 | Laravel Venezuela      | @racosta26, @oteroweb | https://t.me/laravelVe                              |
 | LibreOffice Venezuela  | @Tur3c0 @Cyberthrone @Naudy | https://t.me/LibreOfficeVe                    |
+| Libros de Programación | @JCTC01            | https://t.me/LibPro                                    |
 | Libros Técnicos        | @willicab          | https://t.me/LibrosTecnicos                            |
 | Libros (PacktPub)      | @guerrerocarlos            | https://t.me/packtpubfreelearning              |
 | Linux Venezuela        | @andres_code       | https://t.me/linux_ve                                  |
