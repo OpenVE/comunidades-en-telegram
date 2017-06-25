@@ -42,6 +42,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | iOS                                        | @ajmarquez                                                                   | https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
 | IoT, SoC, Arduino, Raspberry Pi, Orange Pi | @mirabalj                                                                    | http://bit.ly/iot_latam                                |
 | IT Oriente                                 | @abrahamjsb                                                                  | https://t.me/itoriente                                 |
+| Inteligencia Artificial                    | @BrandonR - @AlexR1712 - @VIT4R                                              | https://t.me/IAVenezuela                               |
 | Interaction Design                         | @m0000g                                                                      | https://t.me/interactiondesgin_spanish                 |
 | Intercambio Idiomas                        | @oteroweb                                                                    | https://t.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
 | JavaScript Venezuela                       | @ajsb85                                                                      | https://t.me/vzlajs                                    |
