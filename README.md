@@ -33,6 +33,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Fotografía                                 | @davidhdz                                                                    | https://t.me/fotografico                               |
 | FreeCodeCamp Barquisimeto                  | @mirabalj                                                                    | https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A           |
 | FreeCodeCamp Caracas                       | @cesarmaximo91                                                               | https://t.me/fccCaracas                                |
+| FreeCodeCamp Coro                          | @hmouhtar                                                                    | https://t.me/corofcc                                   |
 | Freelancers Venezuela                      | @alexr1712 @oteroweb                                                         | https://t.me/freelancersve                             |
 | Git                                        | @johannnn @Tur3c0                                                            | https://t.me/git_ve                                    |
 | GLPI y Gestión de Servicios de TI          | @ajsb85                                                                      | https://t.me/glpisp                                    |
