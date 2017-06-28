@@ -33,6 +33,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Fotografía                                 | @davidhdz                                                                    | https://t.me/fotografico                               |
 | FreeCodeCamp Barquisimeto                  | @mirabalj                                                                    | https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A           |
 | FreeCodeCamp Caracas                       | @cesarmaximo91                                                               | https://t.me/fccCaracas                                |
+| FreeCodeCamp Coro                          | @hmouhtar                                                                    | https://t.me/corofcc                                   |
 | Freelancers Venezuela                      | @alexr1712 @oteroweb                                                         | https://t.me/freelancersve                             |
 | Git                                        | @johannnn @Tur3c0                                                            | https://t.me/git_ve                                    |
 | GLPI y Gestión de Servicios de TI          | @ajsb85                                                                      | https://t.me/glpisp                                    |
@@ -41,6 +42,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | iOS                                        | @ajmarquez                                                                   | https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
 | IoT, SoC, Arduino, Raspberry Pi, Orange Pi | @mirabalj                                                                    | http://bit.ly/iot_latam                                |
 | IT Oriente                                 | @abrahamjsb                                                                  | https://t.me/itoriente                                 |
+| Inteligencia Artificial                    | @BrandonR - @AlexR1712 - @VIT4R                                              | https://t.me/IAVenezuela                               |
 | Interaction Design                         | @m0000g                                                                      | https://t.me/interactiondesgin_spanish                 |
 | Intercambio Idiomas                        | @oteroweb                                                                    | https://t.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
 | JavaScript Venezuela                       | @ajsb85                                                                      | https://t.me/vzlajs                                    |
