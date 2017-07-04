@@ -62,6 +62,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | NoSQL Venezuela                            | @ch1nux                                                                      | https://t.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Odoo Venezuela Devs                        | @fr33co                                                                      | https://t.me/OdooVeDevs                                |
 | Ofertas de Empleo                          | @raiiac                                                                      | https://t.me/trabajovenezuela                          |
+| Parkode Community                          | @anhurtado                                                                   | https://t.me/parkode                                 |
 | Pentaho                                    | @hellfish2 - @Tur3c0                                                         | https://t.me/pentahoVE                                 |
 | PHP Venezuela                              | @Tur3c0 @aasanchez @joseayram @oyepez @oteroweb                              | https://t.me/PHP_Ve                                    |
 | Plone Venezuela                            | @macagua                                                                     | https://t.me/PloneVe                                   |
