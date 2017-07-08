@@ -22,6 +22,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | CSL_VE                                     | @phenobarbital                                                               | https://t.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
 | Data Science Venezuela                     | @map0logo                                                                    | https://t.me/DataScienceVE                             |
 | Datos Abiertos y scraping                  | @seraph1                                                                     | https://t.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
+| Desarrollo de Bots                         | @ajsb85 @AlexR1712 @Zontir                                                                   | https://t.me/devbots                                   |
 | Desarrollo VideoJuegos                     | @alexr1712                                                                   | https://t.me/devjuegos                                 |
 | Django                                     | @ebar0n                                                                      | https://t.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
 | Docker                                     | @Seraph1                                                                     | https://t.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
@@ -62,6 +63,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | NoSQL Venezuela                            | @ch1nux                                                                      | https://t.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Odoo Venezuela Devs                        | @fr33co                                                                      | https://t.me/OdooVeDevs                                |
 | Ofertas de Empleo                          | @raiiac                                                                      | https://t.me/trabajovenezuela                          |
+| Parkode Community                          | @anhurtado                                                                   | https://t.me/parkode                                 |
 | Pentaho                                    | @hellfish2 - @Tur3c0                                                         | https://t.me/pentahoVE                                 |
 | PHP Venezuela                              | @Tur3c0 @aasanchez @joseayram @oyepez @oteroweb                              | https://t.me/PHP_Ve                                    |
 | Plone Venezuela                            | @macagua                                                                     | https://t.me/PloneVe                                   |
