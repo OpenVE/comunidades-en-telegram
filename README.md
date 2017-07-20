@@ -40,6 +40,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | GLPI y Gestión de Servicios de TI          | @ajsb85                                                                      | https://t.me/glpisp                                    |
 | Go                                         | @aasanchez                                                                   | https://t.me/golangve                                  |
 | Front-End HTML-CSS.ve                      | @Tur3c0                                                                      | https://t.me/HTML_CSS_Ve                               |
+| Hackers and Founders Maracay               |  @rafaelje @hectorerb                                                        | http://t.me/hfmaracay                                  |
 | iOS                                        | @ajmarquez                                                                   | https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
 | IoT, SoC, Arduino, Raspberry Pi, Orange Pi | @mirabalj                                                                    | http://bit.ly/iot_latam                                |
 | IT Oriente                                 | @abrahamjsb                                                                  | https://t.me/itoriente                                 |
