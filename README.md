@@ -73,7 +73,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Python Venezuela                           | @nhomar - @macagua                                                           | https://t.me/python_venezuela                          |
 | RadioGNU                                   | ...                                                                          | https://t.me/radiognu                                  |
 | Radiotransmisores                          | @Carlosjq10                                                                  | https://t.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
-| Rails Girls Venezuela                      | @Kyaalena                                                                    | https://t.me/railsgirlsvenezuela                       |
+| Rails Girls Venezuela                      | @Kyaalena - @OsmaryASM                                                                    | https://t.me/railsgirlsvenezuela                       |
 | React y React Native                       | @alacret - @edwinvrgs                                                        | https://t.me/reactVE                                   |
 | Realidad Aumentada Ve                      | @gothicssy                                                                   | https://t.me/RealidadVe                                |
 | Redes de datos y servidores                | @jotagarbar                                                                  | https://t.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
