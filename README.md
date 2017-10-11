@@ -9,6 +9,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Android                                    | ...                                                                          | https://t.me/AndroidDevVzla                            |
 | Android (Soporte Técnico)                  | @cyberthrone                                                                 | https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
 | Angular                                    | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox - @leonardocabeza | https://t.me/ngvenezuela                               |
+| Aprende Python                             | @kotov52  |  https://t.me/aprendepython |
 | ArchLinux y Derivados                      | @goidor                                                                      | https://t.me/archlinuxVE                               |
 | AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awsla                                     |
 | Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
@@ -88,6 +89,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Tabletas Canaima                           | @edgardoweb                                                                  | https://t.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
 | Telegram Venezuela                         | @tomivs @vicxyz                                                              | https://t.me/VenezuelaTG                               |
 | Ubuntu                                     | @C3s4r                                                                       | https://t.me/ubuntuve                                  |
+| Un Día Una Aplicación  |@kotov52  | https://t.me/UnDiaUnaAplicacion |
+| Un Python Al Día | @kotov52 | https://t.me/UnPythonAlDia |
 | VIM Venezuela                              | @gusga                                                                       | https://t.me/vimvnzla                                  |
 | Vue.js                                     | @raiiac @Tur3c0                                                              | https://t.me/vueVe                                     |
 | Wikimedia Venezuela                        | @KDels                                                                       | https://t.me/grupowmve                                 |
