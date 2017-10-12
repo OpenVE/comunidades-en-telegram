@@ -10,7 +10,7 @@
 | ArchLinux y Derivados  | @goidor            | https://telegram.me/archlinuxVE                               |
 | Arduino - Raspberry Pi | ...                | https://telegram.me/joinchat/05dbbe5f020e87a4af775773f4c50c7d |
 | Bases de Datos         | @jelitox           | https://telegram.me/joinchat/AUPtdj6m7-FW5fxOH2zKOw           |
-| Bash / Zsh / CLI       | @CrafterSama - @Tur3c0 - @KDels          | https://telegram.me/BashVe                                    |
+| Bash / Zsh / CLI       | @CrafterSama - @Tur3c0 - @KDels          | https://t.me/BashZshCLI                                    |
 | Bitcoin                | @ajsb85            | https://telegram.me/joinchat/AEmIhj4pV9Lkfsk7GcMHBQ           |
 | C++                    | @Kalpar501         | https://telegram.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
 | Conocimiento Libre     | @Seraph1           | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
