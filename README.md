@@ -32,6 +32,7 @@
 | Intercambio Idiomas    | @oteroweb          | https://telegram.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
 | JavaScript Venezuela   | @ajsb85            | https://telegram.me/vzlajs                                    |
 | Joomla                 | @oteroweb          | https://telegram.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
+| jQuery LA              | @Tur3c0            | https://t.me/jQueryLA                                         |
 | Juegos                 | @edgardoweb        | https://telegram.me/joinchat/AGqisAA-jlmIAAihME16vg           |
 | Laravel Venezuela      | @racosta26, @oteroweb | https://telegram.me/laravelVe                              |
 | LibreOffice Venezuela  | @Tur3c0 @Cyberthrone @Naudy | https://telegram.me/LibreOfficeVe                    |
