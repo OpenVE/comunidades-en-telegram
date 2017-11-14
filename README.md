@@ -23,32 +23,32 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | CSL_VE                                     | @phenobarbital                                                               | https://t.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
 | Data Science Venezuela                     | @map0logo                                                                    | https://t.me/DataScienceVE                             |
 | Datos Abiertos y scraping                  | @seraph1                                                                     | https://t.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
+| Desarrolladores .ve 🇻🇪 en el 🌎          | @villanuevand - @juandelgadillo  - @julio                                    | https://t.me/DevelopersVeMundo                         |
 | Desarrollo de Bots                         | @ajsb85 @AlexR1712 @Zontir                                                   | https://t.me/devbots                                   |
 | Desarrollo VideoJuegos                     | @alexr1712                                                                   | https://t.me/devjuegos                                 |
-| Desarrolladores .ve 🇻🇪 en el 🌎          | @villanuevand - @juandelgadillo  - @julio                                    | https://t.me/DevelopersVeMundo                         |
 | Django                                     | @cherny                                                                      | https://t.me/DjangoVE                                  |
 | Docker                                     | @Seraph1                                                                     | https://t.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
 | Electrónica                                | @oteroweb                                                                    | https://t.me/ElectroVe                                 |
 | Elixir                                     | @gusga - @highercomve                                                        | https://t.me/ElixirVe                                  |
-| E-shops Dev Venezuela                      | @jkhiyami @Alextic @m000_g                                                   | https://t.me/EShopsDevVenezuela                        |
 | Emprendedores Venezolanos                  | @oyepez @oteroweb                                                            | https://t.me/emprendedores_venezolanos                 |
+| E-shops Dev Venezuela                      | @jkhiyami @Alextic @m000_g                                                   | https://t.me/EShopsDevVenezuela                        |
 | Firebase Venezuela                         | @villanuevand - @jobsamuel                                                   | https://t.me/firebaseVe                                |
 | Fotografía                                 | @davidhdz                                                                    | https://t.me/fotografico                               |
 | FreeCodeCamp Barquisimeto                  | @mirabalj                                                                    | https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A           |
 | FreeCodeCamp Caracas                       | @cesarmaximo91                                                               | https://t.me/fccCaracas                                |
 | FreeCodeCamp Coro                          | @hmouhtar                                                                    | https://t.me/corofcc                                   |
 | Freelancers Venezuela                      | @alexr1712 @oteroweb                                                         | https://t.me/freelancersve                             |
+| Front-End HTML-CSS.ve                      | @Tur3c0                                                                      | https://t.me/HTML_CSS_Ve                               |
 | Git                                        | @johannnn @Tur3c0                                                            | https://t.me/git_ve                                    |
 | GLPI y Gestión de Servicios de TI          | @ajsb85                                                                      | https://t.me/glpisp                                    |
 | Go                                         | @aasanchez - @SoyJrCarrillo                                                  | https://t.me/golangve                                  |
-| Front-End HTML-CSS.ve                      | @Tur3c0                                                                      | https://t.me/HTML_CSS_Ve                               |
 | Hackers and Founders Maracay               | @rafaelje @hectorerb                                                         | http://t.me/hfmaracay                                  |
-| iOS                                        | @ajmarquez                                                                   | https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
-| IoT, SoC, Arduino, Raspberry Pi, Orange Pi | @mirabalj                                                                    | http://bit.ly/iot_latam                                |
-| IT Oriente                                 | @abrahamjsb                                                                  | https://t.me/itoriente                                 |
 | Inteligencia Artificial                    | @BrandonR - @AlexR1712 - @VIT4R                                              | https://t.me/IAVenezuela                               |
 | Interaction Design                         | @m0000g                                                                      | https://t.me/interactiondesgin_spanish                 |
 | Intercambio Idiomas                        | @oteroweb                                                                    | https://t.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
+| iOS                                        | @ajmarquez                                                                   | https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
+| IoT, SoC, Arduino, Raspberry Pi, Orange Pi | @mirabalj                                                                    | http://bit.ly/iot_latam                                |
+| IT Oriente                                 | @abrahamjsb                                                                  | https://t.me/itoriente                                 |
 | JavaScript Venezuela                       | @ajsb85                                                                      | https://t.me/vzlajs                                    |
 | Joomla                                     | @oteroweb                                                                    | https://t.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | jQuery LA                                  | @Tur3c0                                                                      | https://t.me/jQueryLA                                  |
@@ -56,9 +56,9 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Kotlin Venezuela                           | @fr33co                                                                      | https://t.me/kotlinve                                  |
 | Laravel Venezuela                          | @racosta26, @oteroweb                                                        | https://t.me/laravelVe                                 |
 | LibreOffice Venezuela                      | @Tur3c0 @Cyberthrone @Naudy                                                  | https://t.me/LibreOfficeVe                             |
+| Libros (PacktPub)                          | @guerrerocarlos                                                              | https://t.me/packtpubfreelearning                      |
 | Libros de Programación                     | @JCTC01                                                                      | https://t.me/LibPro                                    |
 | Libros Técnicos                            | @willicab                                                                    | https://t.me/LibrosTecnicos                            |
-| Libros (PacktPub)                          | @guerrerocarlos                                                              | https://t.me/packtpubfreelearning                      |
 | Linux Venezuela                            | @andres_code                                                                 | https://t.me/linux_ve                                  |
 | Matemáticas                                | @KDels                                                                       | https://t.me/canalMatematicas                          |
 | Mobile Híbrido                             | ...                                                                          | https://t.me/mobilehybridappsve                        |
@@ -81,8 +81,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Redes de datos y servidores                | @jotagarbar                                                                  | https://t.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
 | Robotica Venezuela                         | @jesusareyesv                                                                | https://t.me/Robotica_VE                               |
 | Ruby                                       | @andres_code - @highercomve - @hipsss                                        | https://t.me/ruby_ve                                   |
-| SEO                                        | @oteroweb                                                                    | https://t.me/joinchat/AAAAAD4XBh3KdvGZgVoM2A           |
 | Security VE                                | @coffeenights                                                                | https://t.me/itsec_ve                                  |
+| SEO                                        | @oteroweb                                                                    | https://t.me/joinchat/AAAAAD4XBh3KdvGZgVoM2A           |
 | SIGESP                                     | @jcmonsalves                                                                 | https://t.me/joinchat/AAAAAEI9Ajku0JwdPPmTyw           |
 | ST.ve                                      | @Tur3c0                                                                      | https://t.me/st3_ve                                    |
 | Symfony                                    | @oteroweb                                                                    | https://t.me/symfonyVe                                 |
@@ -97,8 +97,9 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Wikimedia Venezuela                        | @KDels                                                                       | https://t.me/grupowmve                                 |
 | Women in Tech                              | @m0000g - @tatadbb                                                           | https://t.me/womenintech_spanish                       |
 | Wordpress Venezuela                        | @Richzendy - @skatox - @ThePhoenixBird                                       | https://t.me/WordPressVE                               |
-| Yii Venezuela                              | @oteroweb  - @skatox - @raiiac                                               | https://t.me/YiiVzla                                   |
 | XANADU GNU/linux                           | @sinfallas                                                                   | https://t.me/xanadulinux                               |
+| Yii Venezuela                              | @oteroweb  - @skatox - @raiiac                                               | https://t.me/YiiVzla                                   |
+
 
 ## Licencia
 
