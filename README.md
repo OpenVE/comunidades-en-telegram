@@ -14,7 +14,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awsla                                     |
 | Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
 | Bases de Datos                             | @jelitox                                                                     | https://t.me/bdvzla                                    |
-| Bash/Zsh.Ve                                | @Tur3c0                                                                      | https://t.me/BashVe                                    |
+| Bash / Zsh / CLI                           | @CrafterSama @KDels @Tur3c0                                                  | https://t.me/BashZshCLI                                |
 | Bitcoin                                    | @ajsb85                                                                      | https://t.me/btcven                                    |
 | Blender Venezuela                          | @gothicssy                                                                   | https://t.me/BlenderVe                                 |
 | C++                                        | @Kalpar501                                                                   | https://t.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
@@ -26,7 +26,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Desarrollo de Bots                         | @ajsb85 @AlexR1712 @Zontir                                                                   | https://t.me/devbots                                   |
 | Desarrollo VideoJuegos                     | @alexr1712                                                                   | https://t.me/devjuegos                                 |
 | Desarrolladores .ve 🇻🇪 en el  🌎        | @villanuevand - @juandelgadillo  - @julio                                    | https://t.me/DevelopersVeMundo                         |
-| Django                                     | @ebar0n                                                                      | https://t.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
+| Django                                     | @cherny                                                                      | https://t.me/DjangoVE                                  |
 | Docker                                     | @Seraph1                                                                     | https://t.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
 | Electrónica                                | @oteroweb                                                                    | https://t.me/ElectroVe                                 |
 | Elixir                                     | @gusga - @highercomve                                                        | https://t.me/ElixirVe                                  |
@@ -51,6 +51,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Intercambio Idiomas                        | @oteroweb                                                                    | https://t.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
 | JavaScript Venezuela                       | @ajsb85                                                                      | https://t.me/vzlajs                                    |
 | Joomla                                     | @oteroweb                                                                    | https://t.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
+| jQuery LA                                  | @Tur3c0                                                                      | https://t.me/jQueryLA
 | Juegos                                     | @edgardoweb                                                                  | https://t.me/joinchat/AGqisAA-jlmIAAihME16vg           |
 | Kotlin Venezuela                           | @fr33co                                                                      | https://t.me/kotlinve                                  |
 | Laravel Venezuela                          | @racosta26, @oteroweb                                                        | https://t.me/laravelVe                                 |
