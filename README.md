@@ -40,7 +40,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Freelancers Venezuela                      | @alexr1712 @oteroweb                                                         | https://t.me/freelancersve                             |
 | Git                                        | @johannnn @Tur3c0                                                            | https://t.me/git_ve                                    |
 | GLPI y Gestión de Servicios de TI          | @ajsb85                                                                      | https://t.me/glpisp                                    |
-| Go                                         | @aasanchez                                                                   | https://t.me/golangve                                  |
+| Go                                         | @aasanchez - @SoyJrCarrillo                                                  | https://t.me/golangve                                  |
 | Front-End HTML-CSS.ve                      | @Tur3c0                                                                      | https://t.me/HTML_CSS_Ve                               |
 | Hackers and Founders Maracay               | @rafaelje @hectorerb                                                         | http://t.me/hfmaracay                                  |
 | iOS                                        | @ajmarquez                                                                   | https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
