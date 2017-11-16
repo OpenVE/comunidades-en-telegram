@@ -11,6 +11,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Angular                                    | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox - @leonardocabeza | https://t.me/ngvenezuela                               |
 | Aprende Python                             | @kotov52                                                                     |  https://t.me/aprendepython                            |
 | ArchLinux y Derivados                      | @goidor                                                                      | https://t.me/archlinuxVE                               |
+| Arte Digital Libre VE                             |@Jam_ms24                                                              | https://t.me/artedigitallibve                          |
 | AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awsla                                     |
 | Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
 | Bases de Datos                             | @jelitox                                                                     | https://t.me/bdvzla                                    |
@@ -99,8 +100,6 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Wordpress Venezuela                        | @Richzendy - @skatox - @ThePhoenixBird                                       | https://t.me/WordPressVE                               |
 | XANADU GNU/linux                           | @sinfallas                                                                   | https://t.me/xanadulinux                               |
 | Yii Venezuela                              | @oteroweb  - @skatox - @raiiac                                               | https://t.me/YiiVzla                                   |
-
-
 ## Licencia
 
 [![Public Domain Mark](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
