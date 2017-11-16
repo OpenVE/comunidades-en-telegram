@@ -99,7 +99,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Wordpress Venezuela                        | @Richzendy - @skatox - @ThePhoenixBird                                       | https://t.me/WordPressVE                               |
 | XANADU GNU/linux                           | @sinfallas                                                                   | https://t.me/xanadulinux                               |
 | Yii Venezuela                              | @oteroweb  - @skatox - @raiiac                                               | https://t.me/YiiVzla                                   |
-
+| Arte Digital Libre VE                             |@Jam_ms24                                                              | https://t.me/artedigitallibve                          |
 
 ## Licencia
 
