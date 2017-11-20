@@ -14,7 +14,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Arte Digital Libre VE                      | @Jam_ms24                                                                    | https://t.me/artedigitallibve                          |
 | AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awsla                                     |
 | Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
-| Bases de Datos                             | @jelitox                                                                     | https://t.me/bdvzla                                    |
+| Bases de Datos                             | @jelitox - @foursixnine - @msalazarc                                         | https://t.me/bdvzla                                    |
 | Bash / Zsh / CLI                           | @CrafterSama @KDels @Tur3c0                                                  | https://t.me/BashZshCLI                                |
 | Bitcoin                                    | @ajsb85                                                                      | https://t.me/btcven                                    |
 | Blender Venezuela                          | @gothicssy                                                                   | https://t.me/BlenderVe                                 |
