@@ -7,11 +7,11 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Comunidad                                  | Administrador                                                                | Link                                                   |
 |--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
 | Android                                    | @Schuma_VE  - @Willicab - @jmespiz                                           | https://t.me/AndroidDevVzla                            |
-| Android (Soporte Técnico)                  | @cyberthrone                                                                 | https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
+| Android (Soporte Técnico)                  | @MotionGeek - @Cyberthrone                                                   | https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
 | Angular                                    | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox - @leonardocabeza | https://t.me/ngvenezuela                               |
-| Aprende Python                             | @kotov52                                                                     | https://t.me/aprendepython                            |
+| Aprende Python                             | @kotov52                                                                     | https://t.me/aprendepython                             |
 | ArchLinux y Derivados                      | @goidor                                                                      | https://t.me/archlinuxVE                               |
-| Arte Digital Libre VE                      |@Jam_ms24                                                                     | https://t.me/artedigitallibve                          |
+| Arte Digital Libre VE                      | @Jam_ms24                                                                     | https://t.me/artedigitallibve                          |
 | AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awsla                                     |
 | Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
 | Bases de Datos                             | @jelitox                                                                     | https://t.me/bdvzla                                    |
