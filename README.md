@@ -10,8 +10,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Android (Soporte Técnico)                  | @MotionGeek - @Cyberthrone                                                   | https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
 | Angular                                    | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox - @leonardocabeza | https://t.me/ngvenezuela                               |
 | Aprende Python                             | @kotov52                                                                     | https://t.me/aprendepython                             |
-| ArchLinux y Derivados                      | @goidor                                                                      | https://t.me/archlinuxVE                               |
-| Arte Digital Libre VE                      | @Jam_ms24                                                                     | https://t.me/artedigitallibve                          |
+| ArchLinux y Derivados                      | @goidor - @Kadaba                                                            | https://t.me/archlinuxVE                               |
+| Arte Digital Libre VE                      | @Jam_ms24                                                                    | https://t.me/artedigitallibve                          |
 | AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awsla                                     |
 | Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
 | Bases de Datos                             | @jelitox                                                                     | https://t.me/bdvzla                                    |
