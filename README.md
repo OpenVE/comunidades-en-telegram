@@ -15,8 +15,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awsla                                     |
 | Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
 | Bases de Datos                             | @jelitox - @foursixnine - @msalazarc                                         | https://t.me/bdvzla                                    |
-| Bash / Zsh / CLI                           | @CrafterSama @KDels @Tur3c0                                                  | https://t.me/BashZshCLI                                |
-| Bitcoin                                    | @ajsb85                                                                      | https://t.me/btcven                                    |
+| Bash / Zsh / CLI                           | @CrafterSama - @KDels - @Tur3c0                                              | https://t.me/BashZshCLI                                |
+| Bitcoin                                    | @ajsb85 - @srosuna - @rdymac - @guerrerocarlos                               | https://t.me/btcven                                    |
 | Blender Venezuela                          | @gothicssy                                                                   | https://t.me/BlenderVe                                 |
 | C++                                        | @Kalpar501                                                                   | https://t.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
 | Computación Física                         | @NatAli_En                                                                   | https://t.me/joinchat/AAAAAEJOcVHmuTCTG8uVqQ           |
