@@ -17,7 +17,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Bases de Datos                             | @jelitox - @foursixnine - @msalazarc                                         | https://t.me/bdvzla                                    |
 | Bash / Zsh / CLI                           | @CrafterSama - @KDels - @Tur3c0                                              | https://t.me/BashZshCLI                                |
 | Bitcoin                                    | @ajsb85 - @srosuna - @rdymac - @guerrerocarlos                               | https://t.me/btcven                                    |
-| Blender Venezuela                          | @gothicssy                                                                   | https://t.me/BlenderVe                                 |
+| Blender Venezuela                          | @suzannedm                                                                   | https://t.me/BlenderVe                                 |
 | C++                                        | @Kalpar501                                                                   | https://t.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
 | Computación Física                         | @NatAli_En                                                                   | https://t.me/joinchat/AAAAAEJOcVHmuTCTG8uVqQ           |
 | Conocimiento Libre                         | @Seraph1                                                                     | https://t.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
