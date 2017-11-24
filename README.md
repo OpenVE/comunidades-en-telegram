@@ -2,9 +2,10 @@
 
 [![Join the chat at https://gitter.im/OpenVE/comunidades-en-telegram](https://badges.gitter.im/OpenVE/comunidades-en-telegram.svg)](https://gitter.im/OpenVE/comunidades-en-telegram?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.me/openve
+Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t.me/openve](https://t.me/openve)
 
 ## Comunidades
+
 | Comunidad                                  | Administrador                                                                | Link                                                   |
 |--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
 | Android                                    | @Schuma_VE  - @Willicab - @jmespiz                                           | https://t.me/AndroidDevVzla                            |
@@ -102,9 +103,11 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Yii Venezuela                              | @oteroweb  - @skatox - @raiiac                                               | https://t.me/YiiVzla                                   |
 
 ## Canales
+
 | Comunidad                                  | Administrador                                                                | Link                                                   |
 |--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
 | Aprende Python                             | @kotov52                                                                     | https://t.me/aprendepython                             |
+
 ## Licencia
 
 [![Public Domain Mark](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
