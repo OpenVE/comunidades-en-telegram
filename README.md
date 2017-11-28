@@ -28,8 +28,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Desarrollo de Bots                         | @ajsb85 - @AlexR1712 - @Zontir                                               | https://t.me/devbots                                   |
 | Desarrollo VideoJuegos                     | @AlexR1712 - @BrandonR                                                       | https://t.me/devjuegos                                 |
 | Django                                     | @cherny                                                                      | https://t.me/DjangoVE                                  |
-| Docker                                     | @Seraph1                                                                     | https://t.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
-| Electrónica                                | @oteroweb                                                                    | https://t.me/ElectroVe                                 |
+| Docker Venezuela                           | @Seraph1                                                                     | https://t.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
+| Electronica General                        | @oteroweb                                                                    | https://t.me/ElectroVe                                 |
 | Elixir                                     | @gusga - @highercomve                                                        | https://t.me/ElixirVe                                  |
 | Emprendedores Venezolanos                  | @oyepez @oteroweb                                                            | https://t.me/emprendedores_venezolanos                 |
 | E-shops Dev Venezuela                      | @jkhiyami @Alextic @m000_g                                                   | https://t.me/EShopsDevVenezuela                        |
