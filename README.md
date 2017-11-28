@@ -40,10 +40,10 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | FreeCodeCamp Coro                          | @hmouhtar                                                                    | https://t.me/corofcc                                   |
 | Freelancers Venezuela                      | @AlexR1712 - @oteroweb                                                       | https://t.me/freelancersve                             |
 | Front-End HTML-CSS.ve                      | @Tur3c0                                                                      | https://t.me/HTML_CSS_Ve                               |
-| Git                                        | @johannnn @Tur3c0                                                            | https://t.me/git_ve                                    |
+| Git                                        | @johannnn - @Tur3c0                                                          | https://t.me/git_ve                                    |
 | GLPI y Gestión de Servicios de TI          | @ajsb85                                                                      | https://t.me/glpisp                                    |
 | Go                                         | @aasanchez - @SoyJrCarrillo                                                  | https://t.me/golangve                                  |
-| Hackers and Founders Maracay               | @rafaelje @hectorerb                                                         | http://t.me/hfmaracay                                  |
+| Hackers and Founders Maracay               | @rafaelje - @hectorerb                                                       | http://t.me/hfmaracay                                  |
 | Inteligencia Artificial                    | @BrandonR - @AlexR1712 - @VIT4R                                              | https://t.me/IAVenezuela                               |
 | Interaction Design                         | @m0000g                                                                      | https://t.me/interactiondesgin_spanish                 |
 | Intercambio Idiomas                        | @oteroweb                                                                    | https://t.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
@@ -56,7 +56,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | jQuery LA                                  | @Tur3c0                                                                      | https://t.me/jQueryLA                                  |
 | Juegos                                     | @edgardoweb                                                                  | https://t.me/joinchat/AGqisAA-jlmIAAihME16vg           |
 | Kotlin Venezuela                           | @fr33co                                                                      | https://t.me/kotlinve                                  |
-| Laravel Venezuela                          | @racosta26, @oteroweb                                                        | https://t.me/laravelVe                                 |
+| Laravel Venezuela                          | @racosta26 - @oteroweb                                                       | https://t.me/laravelVe                                 |
 | LibreOffice Venezuela                      | @Tur3c0 @Cyberthrone @Naudy                                                  | https://t.me/LibreOfficeVe                             |
 | Libros (PacktPub)                          | @guerrerocarlos                                                              | https://t.me/packtpubfreelearning                      |
 | Libros de Programación                     | @JCTC01                                                                      | https://t.me/LibPro                                    |
@@ -71,7 +71,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Ofertas de Empleo                          | @raiiac                                                                      | https://t.me/trabajovenezuela                          |
 | Parkode Community                          | @anhurtado                                                                   | https://t.me/parkode                                   |
 | Pentaho                                    | @hellfish2 - @Tur3c0                                                         | https://t.me/pentahoVE                                 |
-| PHP Venezuela                              | @Tur3c0 @aasanchez @joseayram @oyepez @oteroweb                              | https://t.me/PHP_Ve                                    |
+| PHP Venezuela                              | @Tur3c0 - @aasanchez - @joseayram - @oyepez - @oteroweb                      | https://t.me/PHP_Ve                                    |
 | Plone Venezuela                            | @macagua                                                                     | https://t.me/PloneVe                                   |
 | Programadores Venezuela                    | @DitoScripts                                                                 | https://t.me/ProgramadoresVenezuela                    |
 | Python Venezuela                           | @nhomar - @macagua                                                           | https://t.me/python_venezuela                          |
@@ -95,7 +95,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Un Día Una Aplicación                      | @kotov52                                                                     | https://t.me/UnDiaUnaAplicacion                        |
 | Un Python Al Día                           | @kotov52                                                                     | https://t.me/UnPythonAlDia                             |
 | VIM Venezuela                              | @gusga                                                                       | https://t.me/vimvnzla                                  |
-| Vue.js                                     | @raiiac @Tur3c0                                                              | https://t.me/vueVe                                     |
+| Vue.js                                     | @raiiac - @Tur3c0                                                            | https://t.me/vueVe                                     |
 | Wikimedia Venezuela                        | @KDels                                                                       | https://t.me/grupowmve                                 |
 | Women in Tech                              | @m0000g - @tatadbb                                                           | https://t.me/womenintech_spanish                       |
 | Wordpress Venezuela                        | @Richzendy - @skatox - @ThePhoenixBird                                       | https://t.me/WordPressVE                               |
