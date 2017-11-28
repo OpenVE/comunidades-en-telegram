@@ -36,9 +36,9 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Firebase Venezuela                         | @villanuevand - @jobsamuel - @JoseCed                                        | https://t.me/firebaseVe                                |
 | Fotografía                                 | @davidhdz - @Tatica - @Willicab  - @Genesis_3G                               | https://t.me/fotografico                               |
 | FreeCodeCamp Barquisimeto                  | @mirabalj                                                                    | https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A           |
-| FreeCodeCamp Caracas                       | @cesarmaximo91                                                               | https://t.me/fccCaracas                                |
+| FreeCodeCamp Caracas                       | @cesarmaximo91 - @Maguc - @miguel_salas                                      | https://t.me/fccCaracas                                |
 | FreeCodeCamp Coro                          | @hmouhtar                                                                    | https://t.me/corofcc                                   |
-| Freelancers Venezuela                      | @alexr1712 @oteroweb                                                         | https://t.me/freelancersve                             |
+| Freelancers Venezuela                      | @AlexR1712 - @oteroweb                                                       | https://t.me/freelancersve                             |
 | Front-End HTML-CSS.ve                      | @Tur3c0                                                                      | https://t.me/HTML_CSS_Ve                               |
 | Git                                        | @johannnn @Tur3c0                                                            | https://t.me/git_ve                                    |
 | GLPI y Gestión de Servicios de TI          | @ajsb85                                                                      | https://t.me/glpisp                                    |
