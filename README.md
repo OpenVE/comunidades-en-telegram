@@ -4,7 +4,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 
 ## Comunidades
 
-| Comunidad                                  | Administrador                                                                | Link                                                   |
+| Comunidad                                  | Administrador(es)                                                            | Link                                                   |
 |--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
 | Android                                    | @Schuma_VE  - @Willicab - @jmespiz                                           | https://t.me/AndroidDevVzla                            |
 | Android (Soporte Técnico)                  | @MotionGeek - @Cyberthrone                                                   | https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
@@ -48,7 +48,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | iOS                                        | @ajmarquez                                                                   | https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
 | IoT, SoC, Arduino, Raspberry Pi, Orange Pi | @mirabalj                                                                    | http://bit.ly/iot_latam                                |
 | IT Oriente                                 | @abrahamjsb                                                                  | https://t.me/itoriente                                 |
-| Java Venezuela                       	     | @franjorub - @skatox                                                         | https://t.me/JavaVE                                    |
+| Java Venezuela                             | @franjorub - @skatox                                                         | https://t.me/JavaVE                                    |
 | JavaScript Venezuela                       | @ajsb85                                                                      | https://t.me/vzlajs                                    |
 | Joomla                                     | @oteroweb                                                                    | https://t.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | jQuery LA                                  | @Tur3c0                                                                      | https://t.me/jQueryLA                                  |
