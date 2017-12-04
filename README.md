@@ -11,7 +11,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Angular                                    | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox - @leonardocabeza | https://t.me/ngvenezuela                               |
 | Aprende Python                             | @kotov52                                                                     |  https://t.me/aprendepython                            |
 | ArchLinux y Derivados                      | @goidor                                                                      | https://t.me/archlinuxVE                               |
-| Arte Digital Libre VE                             |@Jam_ms24                                                              | https://t.me/artedigitallibve                          |
+| Arte Digital Libre VE                      |@Jam_ms24                                                                     | https://t.me/artedigitallibve                          |
 | AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awsla                                     |
 | Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
 | Bases de Datos                             | @jelitox                                                                     | https://t.me/bdvzla                                    |
@@ -21,7 +21,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | C++                                        | @Kalpar501                                                                   | https://t.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
 | Computación Física                         | @NatAli_En                                                                   | https://t.me/joinchat/AAAAAEJOcVHmuTCTG8uVqQ           |
 | Conocimiento Libre                         | @Seraph1                                                                     | https://t.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
-| CSL_VE                                     | @phenobarbital                                                               | https://t.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
+| CSL_VE                                     | @chuda, @Seraph1, @pelox                                                     | https://t.me/cslvzla                                   |
 | Data Science Venezuela                     | @map0logo                                                                    | https://t.me/DataScienceVE                             |
 | Datos Abiertos y scraping                  | @seraph1                                                                     | https://t.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
 | Developers Ve. en el Mundo                 | @villanuevand - @juandelgadillo  - @julio                                    | https://t.me/DevelopersVeMundo                         |
