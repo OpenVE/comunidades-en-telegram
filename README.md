@@ -39,12 +39,11 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Freelancers Venezuela                      | @AlexR1712 - @oteroweb                                                       | https://t.me/freelancersve                             |
 | Front-End HTML-CSS.ve                      | @Tur3c0                                                                      | https://t.me/HTML_CSS_Ve                               |
 | Git                                        | @johannnn - @Tur3c0                                                          | https://t.me/git_ve                                    |
-| GLPI y Gestión de Servicios de TI          | @ajsb85                                                                      | https://t.me/glpisp                                    |
+| GLPI y Gestión de Servicios de TI          | @ajsb85 - @btry0 - @Thinkcad - @Wawax - @TICgal                              | https://t.me/glpisp                                    |
 | Go                                         | @aasanchez - @SoyJrCarrillo                                                  | https://t.me/golangve                                  |
-| Hackers and Founders Maracay               | @rafaelje - @hectorerb                                                       | http://t.me/hfmaracay                                  |
+| Hackers and Founders Maracay               | @rafaelje - @hectorerb - @delfinbeta - @marcoah17 - @Daregny                 | http://t.me/hfmaracay                                  |
 | Inteligencia Artificial                    | @BrandonR - @AlexR1712 - @VIT4R                                              | https://t.me/IAVenezuela                               |
 | Interaction Design                         | @m0000g                                                                      | https://t.me/interactiondesgin_spanish                 |
-| Intercambio Idiomas                        | @oteroweb                                                                    | https://t.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
 | iOS                                        | @ajmarquez                                                                   | https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
 | IoT, SoC, Arduino, Raspberry Pi, Orange Pi | @mirabalj                                                                    | http://bit.ly/iot_latam                                |
 | IT Oriente                                 | @abrahamjsb                                                                  | https://t.me/itoriente                                 |
