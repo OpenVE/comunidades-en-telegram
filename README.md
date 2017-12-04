@@ -4,6 +4,7 @@
 
 Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.me/openve
 
+
 | Comunidad                                  | Administrador                                                                | Link                                                   |
 |--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
 | Android                                    | ...                                                                          | https://t.me/AndroidDevVzla                            |
@@ -101,6 +102,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Wordpress Venezuela                        | @Richzendy - @skatox - @ThePhoenixBird                                       | https://t.me/WordPressVE                               |
 | XANADU GNU/linux                           | @sinfallas                                                                   | https://t.me/xanadulinux                               |
 | Yii Venezuela                              | @oteroweb  - @skatox - @raiiac                                               | https://t.me/YiiVzla                                   |
+
 
 ## Licencia
 
