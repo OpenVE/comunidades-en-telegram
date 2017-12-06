@@ -38,6 +38,7 @@
 | Nginx                  | @alexr1712         | https://telegram.me/nginxvzla                                 |
 | Odoo                   | @fr33co            | https://telegram.me/joinchat/AFVMlQOdvSuOxq6UMtX7pw           |
 | Ofertas de Empleo      | @raiiac            | https://telegram.me/trabajovenezuela                          |
+| Paranormales           | @Richzendy         | https://t.me/paranormales                                     |
 | Pentaho                | @hellfish2         | https://telegram.me/joinchat/AEwPSwN8d4tJZOj7VYKK6A           |
 | PHP                    | @Tur3c0            | https://telegram.me/PHP_Ve                                    |
 | Plone                  | @macagua           |                                                               |
