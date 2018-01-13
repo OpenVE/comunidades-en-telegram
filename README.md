@@ -109,6 +109,6 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 
 ## Licencia
 
-[![Public Domain Mark](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
+[![Public Domain Mark](http://i.creativecommons.org/p/mark/1.0/88x31.png)](https://creativecommons.org/publicdomain/mark/1.0/deed.es)
 
 This work is free of known copyright restrictions.
