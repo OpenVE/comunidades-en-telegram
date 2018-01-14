@@ -1,9 +1,9 @@
 # ¿Cómo contribuir?
 
-El proceso de contribuir con este repositorio puede seguir el proceso de **Pull
-Request** que se describe a continuación. En caso de no saber manejar la
-herramienta `git` pero desea agregar una comunidad en este listado solicite
-asistencia en el chat de [OpenVE](https://t.me/openve).
+Para contribuir con este repositorio puede seguir el proceso de **Pull Request**
+que se describe a continuación. En caso de no saber manejar la herramienta `git`
+pero desea agregar una comunidad en este listado solicite asistencia en el chat
+de [OpenVE](https://t.me/openve).
 
 ## Proceso de Pull Request
 
