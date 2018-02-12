@@ -61,7 +61,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Libros Técnicos                            | @willicab                                                                    | https://t.me/LibrosTecnicos                            |
 | Linux Venezuela                            | @andres_code                                                                 | https://t.me/linux_ve                                  |
 | Matemáticas                                | @KDels                                                                       | https://t.me/canalMatematicas                          |
-| Mobile Híbrido                             | ...                                                                          | https://t.me/mobilehybridappsve                        |
+| Mobile Híbrido                             | @JoseJulian_IT                                                               | https://t.me/mobilehybridappsve                        |
 | Mozilla                                    | @ajsb85                                                                      | https://t.me/mozilla_venezuela                         |
 | Nginx Venezuela                            | @alexr1712                                                                   | https://t.me/nginxvzla                                 |
 | NoSQL Venezuela                            | @ch1nux                                                                      | https://t.me/joinchat/02fb5338009af29975c7d694d2aec965 |
@@ -74,7 +74,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Plone Venezuela                            | @macagua                                                                     | https://t.me/PloneVe                                   |
 | Programadores Venezuela                    | @DitoScripts                                                                 | https://t.me/ProgramadoresVenezuela                    |
 | Python Venezuela                           | @nhomar - @macagua                                                           | https://t.me/python_venezuela                          |
-| RadioGNU                                   | ...                                                                          | https://t.me/radiognu                                  |
+| RadioGNU                                   | @BreadMaker @@octaviotron                                                    | https://t.me/radiognu                                  |
 | Radiotransmisores                          | @Carlosjq10                                                                  | https://t.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
 | Rails Girls Venezuela                      | @Kyaalena - @OsmaryASM                                                       | https://t.me/railsgirlsve                              |
 | React y React Native                       | @alacret - @edwinvrgs                                                        | https://t.me/reactVE                                   |
