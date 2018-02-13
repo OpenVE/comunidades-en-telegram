@@ -23,7 +23,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | CSL_VE                                     | @chuda, @Seraph1, @pelox                                                     | https://t.me/cslvzla                                   |
 | Data Science Venezuela                     | @map0logo                                                                    | https://t.me/DataScienceVE                             |
 | Datos Abiertos y scraping                  | @seraph1                                                                     | https://t.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
-| Developers Ve. en el Mundo                 | @villanuevand - @juandelgadillo  - @julio                                    | https://t.me/DevelopersVeMundo                         |
+| Developers Ve. en el Mundo                 | @villanuevand - @juandelgadillo  - @julio - @foursixnine                     | https://t.me/DevelopersVeMundo                         |
 | Desarrollo de Bots                         | @ajsb85 - @AlexR1712 - @Zontir                                               | https://t.me/devbots                                   |
 | Desarrollo VideoJuegos                     | @AlexR1712 - @BrandonR                                                       | https://t.me/devjuegos                                 |
 | Django                                     | @cherny                                                                      | https://t.me/DjangoVE                                  |
