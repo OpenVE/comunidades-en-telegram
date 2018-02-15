@@ -74,7 +74,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Plone Venezuela                            | @macagua                                                                     | https://t.me/PloneVe                                   |
 | Programadores Venezuela                    | @DitoScripts                                                                 | https://t.me/ProgramadoresVenezuela                    |
 | Python Venezuela                           | @nhomar - @macagua                                                           | https://t.me/python_venezuela                          |
-| RadioGNU                                   | @BreadMaker @@octaviotron                                                    | https://t.me/radiognu                                  |
+| RadioGNU                                   | @BreadMaker @octaviotron                                                     | https://t.me/radiognu                                  |
 | Radiotransmisores                          | @Carlosjq10                                                                  | https://t.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
 | Rails Girls Venezuela                      | @Kyaalena - @OsmaryASM                                                       | https://t.me/railsgirlsve                              |
 | React y React Native                       | @alacret - @edwinvrgs                                                        | https://t.me/reactVE                                   |
