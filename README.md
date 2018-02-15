@@ -23,7 +23,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | CSL_VE                                     | @chuda, @Seraph1, @pelox                                                     | https://t.me/cslvzla                                   |
 | Data Science Venezuela                     | @map0logo                                                                    | https://t.me/DataScienceVE                             |
 | Datos Abiertos y scraping                  | @seraph1                                                                     | https://t.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
-| Developers Ve. en el Mundo                 | @villanuevand - @juandelgadillo  - @julio                                    | https://t.me/DevelopersVeMundo                         |
+| Developers Ve. en el Mundo                 | @villanuevand - @juandelgadillo  - @julio - @foursixnine                     | https://t.me/DevelopersVeMundo                         |
 | Desarrollo de Bots                         | @ajsb85 - @AlexR1712 - @Zontir                                               | https://t.me/devbots                                   |
 | Desarrollo VideoJuegos                     | @AlexR1712 - @BrandonR                                                       | https://t.me/devjuegos                                 |
 | Django                                     | @cherny                                                                      | https://t.me/DjangoVE                                  |
@@ -42,7 +42,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Git                                        | @johannnn - @Tur3c0                                                          | https://t.me/git_ve                                    |
 | GLPI y Gestión de Servicios de TI          | @ajsb85 - @btry0 - @Thinkcad - @Wawax - @TICgal                              | https://t.me/glpisp                                    |
 | Go                                         | @aasanchez - @SoyJrCarrillo                                                  | https://t.me/golangve                                  |
-| Hackers and Founders Maracay               | @rafaelje - @hectorerb - @delfinbeta - @marcoah17 - @Daregny                 | http://t.me/hfmaracay                                  |
+| Hackers and Founders Maracay               | @rafaelje - @hectorerb - @delfinbeta - @marcoah17 - @Daregny                 | https://t.me/hfmaracay                                  |
 | Inteligencia Artificial                    | @BrandonR - @AlexR1712 - @VIT4R                                              | https://t.me/IAVenezuela                               |
 | Interaction Design                         | @m0000g                                                                      | https://t.me/interactiondesgin_spanish                 |
 | iOS                                        | @ajmarquez                                                                   | https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
@@ -61,7 +61,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Libros Técnicos                            | @willicab                                                                    | https://t.me/LibrosTecnicos                            |
 | Linux Venezuela                            | @andres_code                                                                 | https://t.me/linux_ve                                  |
 | Matemáticas                                | @KDels                                                                       | https://t.me/canalMatematicas                          |
-| Mobile Híbrido                             | ...                                                                          | https://t.me/mobilehybridappsve                        |
+| Mobile Híbrido                             | @JoseJulian_IT                                                               | https://t.me/mobilehybridappsve                        |
 | Mozilla                                    | @ajsb85                                                                      | https://t.me/mozilla_venezuela                         |
 | Nginx Venezuela                            | @alexr1712                                                                   | https://t.me/nginxvzla                                 |
 | NoSQL Venezuela                            | @ch1nux                                                                      | https://t.me/joinchat/02fb5338009af29975c7d694d2aec965 |
@@ -74,7 +74,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Plone Venezuela                            | @macagua                                                                     | https://t.me/PloneVe                                   |
 | Programadores Venezuela                    | @DitoScripts                                                                 | https://t.me/ProgramadoresVenezuela                    |
 | Python Venezuela                           | @nhomar - @macagua                                                           | https://t.me/python_venezuela                          |
-| RadioGNU                                   | ...                                                                          | https://t.me/radiognu                                  |
+| RadioGNU                                   | @BreadMaker @octaviotron                                                     | https://t.me/radiognu                                  |
 | Radiotransmisores                          | @Carlosjq10                                                                  | https://t.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
 | Rails Girls Venezuela                      | @Kyaalena - @OsmaryASM                                                       | https://t.me/railsgirlsve                              |
 | React y React Native                       | @alacret - @edwinvrgs                                                        | https://t.me/reactVE                                   |
