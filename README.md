@@ -85,6 +85,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Security VE                                | @coffeenights                                                                | https://t.me/itsec_ve                                  |
 | SEO                                        | @oteroweb                                                                    | https://t.me/joinchat/AAAAAD4XBh3KdvGZgVoM2A           |
 | SIGESP                                     | @jcmonsalves                                                                 | https://t.me/joinchat/AAAAAEI9Ajku0JwdPPmTyw           |
+| Sistemas Distribuidos                      | @gusga                                                                       | https://t.me/sistemas_distribuidos_ve                  |
 | ST.ve                                      | @Tur3c0                                                                      | https://t.me/st3_ve                                    |
 | Symfony                                    | @oteroweb                                                                    | https://t.me/symfonyVe                                 |
 | SysAdminVE                                 | @arawako                                                                     | https://t.me/SysAdminVE                                |
