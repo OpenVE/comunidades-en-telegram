@@ -20,7 +20,6 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | C++                                        | @Kalpar501 - @chiguire                                                       | https://t.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
 | Computación Física                         | @NatAli_En                                                                   | https://t.me/joinchat/AAAAAEJOcVHmuTCTG8uVqQ           |
 | Conocimiento Libre                         | @Seraph1                                                                     | https://t.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
-| CSL_VE                                     | @chuda, @Seraph1, @pelox                                                     | https://t.me/cslvzla                                   |
 | Data Science Venezuela                     | @map0logo                                                                    | https://t.me/DataScienceVE                             |
 | Datos Abiertos y scraping                  | @seraph1                                                                     | https://t.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
 | Developers Ve. en el Mundo                 | @villanuevand - @juandelgadillo  - @julio - @foursixnine                     | https://t.me/DevelopersVeMundo                         |
