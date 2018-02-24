@@ -25,9 +25,13 @@ de [OpenVE](https://t.me/openve).
    `master`. (`git merge upstream/master`)
 7. Repita los pasos 4, 5 y 6 para mantener su repositorio actualizado respecto
    al original.
-8. Cuando complete sus cambios suba los cambios a su copia del repositorio.
+8. Al agregar un nuevo grupo se debe tener en cuenta que todos los campos son requeridos, siguiendo el siguiente formato:
+    - Comunidad: Nombre de la comunidad.
+    - Administrador(es): Usuario de los administradores, con por lo menos 1 admin.
+    - Link: Enlace de telegram al grupo,   `https://t.me/` 
+9. Cuando complete sus cambios suba los cambios a su copia del repositorio.
    (`git push origin master`)
-9. Proceda a realizar crear un 
+10. Proceda a realizar crear un `Pull Request` para solicitar agregar tus cambios 
 
 ## Sobre los derechos de autor
 
