@@ -8,7 +8,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 |--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
 | Android                                    | @Schuma_VE  - @Willicab - @jmespiz                                           | https://t.me/AndroidDevVzla                            |
 | Android (Soporte Técnico)                  | @MotionGeek - @Cyberthrone                                                   | https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
-| Angular                                    | @abr4xas - @Villanuevand - @jmespiz - @osnoser1 - @skatox - @leonardocabeza | https://t.me/ngvenezuela                               |
+| Angular                                    | @abr4xas - @Villanuevand - @jmespiz - @osnoser1 - @skatox - @leonardocabeza  | https://t.me/ngvenezuela                               |
 | ArchLinux y Derivados                      | @goidor - @Kadaba                                                            | https://t.me/archlinuxVE                               |
 | Arte Digital Libre VE                      | @Jam_ms24                                                                    | https://t.me/artedigitallibve                          |
 | AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awsla                                     |
@@ -41,7 +41,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Git                                        | @johannnn - @Tur3c0                                                          | https://t.me/git_ve                                    |
 | GLPI y Gestión de Servicios de TI          | @ajsb85 - @btry0 - @Thinkcad - @Wawax - @TICgal                              | https://t.me/glpisp                                    |
 | Go                                         | @aasanchez - @SoyJrCarrillo                                                  | https://t.me/golangve                                  |
-| Hackers and Founders Maracay               | @rafaelje - @hectorerb - @delfinbeta - @marcoah17 - @Daregny                 | https://t.me/hfmaracay                                  |
+| Hackers and Founders Maracay               | @rafaelje - @hectorerb - @delfinbeta - @marcoah17 - @Daregny                 | https://t.me/hfmaracay                                 |
 | Inteligencia Artificial                    | @BrandonR - @AlexR1712 - @VIT4R                                              | https://t.me/IAVenezuela                               |
 | Interaction Design                         | @m0000g                                                                      | https://t.me/interactiondesgin_spanish                 |
 | iOS                                        | @ajmarquez                                                                   | https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
@@ -54,6 +54,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Juegos                                     | @edgardoweb                                                                  | https://t.me/joinchat/AGqisAA-jlmIAAihME16vg           |
 | Kotlin Venezuela                           | @fr33co                                                                      | https://t.me/kotlinve                                  |
 | Laravel Venezuela                          | @racosta26 - @oteroweb                                                       | https://t.me/laravelVe                                 |
+| LaTeX Latinoamerica                        | @TeoPanda - @jucarogna - @lorddemon - @Aradnix - @oyagaa_ayuyisaa            | https://t.me/LaTeXLatam                                |
 | LibreOffice Venezuela                      | @Tur3c0 @Cyberthrone @Naudy                                                  | https://t.me/LibreOfficeVe                             |
 | Libros (PacktPub)                          | @guerrerocarlos                                                              | https://t.me/packtpubfreelearning                      |
 | Libros de Programación                     | @JCTC01                                                                      | https://t.me/LibPro                                    |
