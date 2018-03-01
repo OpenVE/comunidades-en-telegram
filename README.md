@@ -11,7 +11,7 @@
 | C                         | ...             | https://telegram.me/joinchat/BlwNNgIMJ1_Hn29Nak-tCg           |
 | Conocimiento Libre        | @Seraph1        | https://telegram.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
 | Django                    | @ebar0n         | https://telegram.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
-| Docker                    | @seraph1        | https://telegram.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
+| Docker                    | @seraph1        | https://t.me/dockervenezuela                                  |
 | Datos Abiertos y scraping | @seraph1        | https://telegram.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
 | Electrónica               | @pcimagenca     | https://telegram.me/joinchat/BSBThwFGutF_W1aKazPfhQ           |
 | HTML CSS                  | @Tur3c0         | https://telegram.me/joinchat/005e145000398d19d248cb8a050bb3c4 |
