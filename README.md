@@ -11,7 +11,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Angular                                    | @abr4xas - @Villanuevand - @jmespiz - @osnoser1 - @skatox - @leonardocabeza  | https://t.me/ngvenezuela                               |
 | ArchLinux y Derivados                      | @goidor - @Kadaba                                                            | https://t.me/archlinuxVE                               |
 | Arte Digital Libre VE                      | @Jam_ms24                                                                    | https://t.me/artedigitallibve                          |
-| AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awsla                                     |
+| AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awslatam                                  |
 | Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
 | Bases de Datos                             | @jelitox - @foursixnine - @msalazarc                                         | https://t.me/bdvzla                                    |
 | Bash / Zsh / CLI                           | @CrafterSama - @KDels - @Tur3c0                                              | https://t.me/BashZshCLI                                |
