@@ -51,6 +51,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | JavaScript Venezuela                       | @ajsb85                                                                      | https://t.me/vzlajs                                    |
 | Joomla                                     | @oteroweb                                                                    | https://t.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | jQuery LA                                  | @Tur3c0                                                                      | https://t.me/jQueryLA                                  |
+| Joomla                                     | @oteroweb                                                                    | https://t.me/JoomlaVe                                  |
 | Juegos                                     | @edgardoweb                                                                  | https://t.me/joinchat/AGqisAA-jlmIAAihME16vg           |
 | Kotlin Venezuela                           | @fr33co                                                                      | https://t.me/kotlinve                                  |
 | Laravel Venezuela                          | @racosta26 - @oteroweb                                                       | https://t.me/laravelVe                                 |
