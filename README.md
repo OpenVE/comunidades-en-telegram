@@ -8,11 +8,10 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 |--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
 | Android                                    | @Schuma_VE  - @Willicab - @jmespiz                                           | https://t.me/AndroidDevVzla                            |
 | Android (Soporte Técnico)                  | @MotionGeek - @Cyberthrone                                                   | https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
-| Angular                                    | @abr4xas - @Villanuevand - @jmespiz - @osnoser1 - @skatox - @leonardocabeza | https://t.me/ngvenezuela                               |
+| Angular                                    | @abr4xas - @Villanuevand - @jmespiz - @osnoser1 - @skatox - @leonardocabeza  | https://t.me/ngvenezuela                               |
 | ArchLinux y Derivados                      | @goidor - @Kadaba                                                            | https://t.me/archlinuxVE                               |
 | Arte Digital Libre VE                      | @Jam_ms24                                                                    | https://t.me/artedigitallibve                          |
-| AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awsla                                     |
-| Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
+| AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awslatam                                  |
 | Bases de Datos                             | @jelitox - @foursixnine - @msalazarc                                         | https://t.me/bdvzla                                    |
 | Bash / Zsh / CLI                           | @CrafterSama - @KDels - @Tur3c0                                              | https://t.me/BashZshCLI                                |
 | Bitcoin                                    | @ajsb85 - @srosuna - @rdymac - @guerrerocarlos                               | https://t.me/btcven                                    |
@@ -26,7 +25,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Desarrollo de Bots                         | @ajsb85 - @AlexR1712 - @Zontir                                               | https://t.me/devbots                                   |
 | Desarrollo VideoJuegos                     | @AlexR1712 - @BrandonR                                                       | https://t.me/devjuegos                                 |
 | Django                                     | @cherny                                                                      | https://t.me/DjangoVE                                  |
-| Docker Venezuela                           | @Seraph1                                                                     | https://t.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
+| Docker Venezuela                           | @Seraph1                                                                     | https://t.me/dockervenezuela                           |
 | Electronica General                        | @oteroweb                                                                    | https://t.me/ElectroVe                                 |
 | Elixir                                     | @gusga - @highercomve                                                        | https://t.me/ElixirVe                                  |
 | Emprendedores Venezolanos                  | @oyepez - @oteroweb                                                          | https://t.me/emprendedores_venezolanos                 |
@@ -41,7 +40,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Git                                        | @johannnn - @Tur3c0                                                          | https://t.me/git_ve                                    |
 | GLPI y Gestión de Servicios de TI          | @ajsb85 - @btry0 - @Thinkcad - @Wawax - @TICgal                              | https://t.me/glpisp                                    |
 | Go                                         | @aasanchez - @SoyJrCarrillo                                                  | https://t.me/golangve                                  |
-| Hackers and Founders Maracay               | @rafaelje - @hectorerb - @delfinbeta - @marcoah17 - @Daregny                 | https://t.me/hfmaracay                                  |
+| Hackers and Founders Maracay               | @rafaelje - @hectorerb - @delfinbeta - @marcoah17 - @Daregny                 | https://t.me/hfmaracay                                 |
 | Inteligencia Artificial                    | @BrandonR - @AlexR1712 - @VIT4R                                              | https://t.me/IAVenezuela                               |
 | Interaction Design                         | @m0000g                                                                      | https://t.me/interactiondesgin_spanish                 |
 | iOS                                        | @ajmarquez                                                                   | https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
@@ -49,15 +48,13 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | IT Oriente                                 | @abrahamjsb                                                                  | https://t.me/itoriente                                 |
 | Java Venezuela                             | @franjorub - @skatox                                                         | https://t.me/JavaVE                                    |
 | JavaScript Venezuela                       | @ajsb85                                                                      | https://t.me/vzlajs                                    |
-| Joomla                                     | @oteroweb                                                                    | https://t.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
 | jQuery LA                                  | @Tur3c0                                                                      | https://t.me/jQueryLA                                  |
+| Joomla                                     | @oteroweb                                                                    | https://t.me/JoomlaVe                                  |
 | Juegos                                     | @edgardoweb                                                                  | https://t.me/joinchat/AGqisAA-jlmIAAihME16vg           |
 | Kotlin Venezuela                           | @fr33co                                                                      | https://t.me/kotlinve                                  |
 | Laravel Venezuela                          | @racosta26 - @oteroweb                                                       | https://t.me/laravelVe                                 |
+| LaTeX Latinoamerica                        | @TeoPanda - @jucarogna - @lorddemon - @Aradnix - @oyagaa_ayuyisaa            | https://t.me/LaTeXLatam                                |
 | LibreOffice Venezuela                      | @Tur3c0 @Cyberthrone @Naudy                                                  | https://t.me/LibreOfficeVe                             |
-| Libros (PacktPub)                          | @guerrerocarlos                                                              | https://t.me/packtpubfreelearning                      |
-| Libros de Programación                     | @JCTC01                                                                      | https://t.me/LibPro                                    |
-| Libros Técnicos                            | @willicab                                                                    | https://t.me/LibrosTecnicos                            |
 | Linux Venezuela                            | @andres_code                                                                 | https://t.me/linux_ve                                  |
 | Matemáticas                                | @KDels                                                                       | https://t.me/canalMatematicas                          |
 | Mobile Híbrido                             | @JoseJulian_IT                                                               | https://t.me/mobilehybridappsve                        |
@@ -65,20 +62,14 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Nginx Venezuela                            | @alexr1712                                                                   | https://t.me/nginxvzla                                 |
 | NoSQL Venezuela                            | @ch1nux                                                                      | https://t.me/joinchat/02fb5338009af29975c7d694d2aec965 |
 | Odoo Venezuela Devs                        | @fr33co                                                                      | https://t.me/OdooVeDevs                                |
-| Ofertas de Empleo                          | @raiiac                                                                      | https://t.me/trabajovenezuela                          |
-| Paranormales                               | @Richzendy - @Willicab                                                       | https://t.me/paranormales                              |
-| Parkode Community                          | @anhurtado                                                                   | https://t.me/parkode                                   |
 | Pentaho                                    | @hellfish2 - @Tur3c0                                                         | https://t.me/pentahoVE                                 |
 | PHP Venezuela                              | @Tur3c0 - @aasanchez - @joseayram - @oyepez - @oteroweb                      | https://t.me/PHP_Ve                                    |
 | Plone Venezuela                            | @macagua                                                                     | https://t.me/PloneVe                                   |
 | Programadores Venezuela                    | @DitoScripts                                                                 | https://t.me/ProgramadoresVenezuela                    |
 | Python Venezuela                           | @nhomar - @macagua                                                           | https://t.me/python_venezuela                          |
 | RadioGNU                                   | @BreadMaker @octaviotron                                                     | https://t.me/radiognu                                  |
-| Radiotransmisores                          | @Carlosjq10                                                                  | https://t.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
-| Rails Girls Venezuela                      | @Kyaalena - @OsmaryASM                                                       | https://t.me/railsgirlsve                              |
 | React y React Native                       | @alacret - @edwinvrgs                                                        | https://t.me/reactVE                                   |
 | Realidad Aumentada Ve                      | @gothicssy                                                                   | https://t.me/RealidadVe                                |
-| Redes de datos y servidores                | @jotagarbar                                                                  | https://t.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
 | Robotica Venezuela                         | @jesusareyesv                                                                | https://t.me/Robotica_VE                               |
 | Ruby                                       | @andres_code - @highercomve - @hipsss                                        | https://t.me/ruby_ve                                   |
 | Security VE                                | @coffeenights                                                                | https://t.me/itsec_ve                                  |
@@ -88,11 +79,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | ST.ve                                      | @Tur3c0                                                                      | https://t.me/st3_ve                                    |
 | Symfony                                    | @oteroweb                                                                    | https://t.me/symfonyVe                                 |
 | SysAdminVE                                 | @arawako                                                                     | https://t.me/SysAdminVE                                |
-| Tabletas Canaima                           | @edgardoweb                                                                  | https://t.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
 | Telegram Venezuela                         | @tomivs @vicxyz                                                              | https://t.me/VenezuelaTG                               |
 | Ubuntu                                     | @C3s4r                                                                       | https://t.me/ubuntuve                                  |
-| Un Día Una Aplicación                      | @kotov52                                                                     | https://t.me/UnDiaUnaAplicacion                        |
-| Un Python Al Día                           | @kotov52                                                                     | https://t.me/UnPythonAlDia                             |
 | VIM Venezuela                              | @gusga                                                                       | https://t.me/vimvnzla                                  |
 | Vue.js                                     | @raiiac - @Tur3c0                                                            | https://t.me/vueVe                                     |
 | Wikimedia Venezuela                        | @KDels                                                                       | https://t.me/grupowmve                                 |
@@ -103,9 +91,32 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 
 ## Canales
 
-| Comunidad                                  | Administrador                                                                | Link                                                   |
+| Canal                                      | Administrador                                                                | Link                                                   |
 |--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
 | Aprende Python                             | @kotov52                                                                     | https://t.me/aprendepython                             |
+| Rails Girls Venezuela                      | @Kyaalena - @OsmaryASM                                                       | https://t.me/railsgirlsve                              |
+| Libros (PacktPub)                          | @guerrerocarlos                                                              | https://t.me/packtpubfreelearning                      |
+| Libros de Programación                     | @JCTC01                                                                      | https://t.me/LibPro                                    |
+| Libros Técnicos                            | @willicab                                                                    | https://t.me/LibrosTecnicos                            |
+| Ofertas de Empleo                          | @raiiac                                                                      | https://t.me/trabajovenezuela                          |
+| Un Día Una Aplicación                      | @kotov52                                                                     | https://t.me/UnDiaUnaAplicacion                        |
+| Un Python Al Día                           | @kotov52                                                                     | https://t.me/UnPythonAlDia                             |
+
+## Otros temas
+
+| Canal                                      | Administrador                                                                | Link                                                   |
+|--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
+| Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
+| Paranormales                               | @Richzendy - @Willicab                                                       | https://t.me/paranormales                              |
+
+## Inactivos
+
+| Canal                                      | Administrador                                                                | Link                                                   |
+|--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
+| Radiotransmisores                          | @Carlosjq10                                                                  | https://t.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
+| Redes de datos y servidores                | @jotagarbar                                                                  | https://t.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
+| Tabletas Canaima                           | @edgardoweb                                                                  | https://t.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
+| Parkode Community                          | @anhurtado                                                                   | https://t.me/parkode                                   |
 
 ## Licencia
 
