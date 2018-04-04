@@ -31,7 +31,6 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Emprendedores Venezolanos                  | @oyepez - @oteroweb                                                          | https://t.me/emprendedores_venezolanos                 |
 | E-shops Dev Venezuela                      | @jkhiyami - @Alextic                                                         | https://t.me/EShopsDevVenezuela                        |
 | Firebase Venezuela                         | @villanuevand - @jobsamuel - @JoseCed                                        | https://t.me/firebaseVe                                |
-| Fotografía                                 | @davidhdz - @Tatica - @Willicab  - @Genesis_3G                               | https://t.me/fotografico                               |
 | FreeCodeCamp Barquisimeto                  | @mirabalj                                                                    | https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A           |
 | FreeCodeCamp Caracas                       | @cesarmaximo91 - @Maguc - @miguel_salas                                      | https://t.me/fccCaracas                                |
 | FreeCodeCamp Coro                          | @hmouhtar                                                                    | https://t.me/corofcc                                   |
@@ -107,6 +106,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Canal                                      | Administrador                                                                | Link                                                   |
 |--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
 | Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
+| Diseño Gráfico                             | @suzanneelhada                                                               | https://t.me/DisenadoresGraficosVE                     |
+| Fotografía                                 | @davidhdz - @Tatica - @Willicab  - @Genesis_3G                               | https://t.me/fotografico                               |
 | Paranormales                               | @Richzendy - @Willicab                                                       | https://t.me/paranormales                              |
 
 ## Inactivos
