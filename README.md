@@ -2,7 +2,15 @@
 
 Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](https://t.me/openve)
 
-## Comunidades
+## Contenido
+
+* [Comunidades](#comunidades)
+* [Canales](#canales)
+* [Otros Temas](#otros-temas)
+* [Inactivos](#inactivos)
+* [Licencia](#licencia)
+
+### Comunidades
 
 * [Android](https://t.me/AndroidDevVzla) - @Schuma_VE  - @Willicab - @jmespiz
 * [Android (Soporte Técnico)](https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w) - @MotionGeek - @Cyberthrone
@@ -85,7 +93,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [XANADU GNU/linux](https://t.me/xanadulinux) - @sinfallas
 * [Yii Venezuela](https://t.me/YiiVzla) - @oteroweb  - @skatox - @raiiac
 
-## Canales
+### Canales
 
 * [Aprende Python](https://t.me/aprendepython) - @kotov52
 * [Rails Girls Venezuela](https://t.me/railsgirlsve) - @Kyaalena - @OsmaryASM
@@ -96,7 +104,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Un Día Una Aplicación](https://t.me/UnDiaUnaAplicacion) - @kotov52
 * [Un Python Al Día](https://t.me/UnPythonAlDia) - @kotov52
 
-## Otros temas
+### Otros temas
 
 * [Arte Digital Libre VE](https://t.me/artedigitallibve) - @Jam_ms24
 * [Baloncesto](https://t.me/baloncestoVE) - @goidor
@@ -104,14 +112,14 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Fotografía](https://t.me/fotografico) - @davidhdz - @Tatica - @Willicab  - @Genesis_3G
 * [Paranormales](https://t.me/paranormales) - @Richzendy - @Willicab
 
-## Inactivos
+### Inactivos
 
 * [Radiotransmisores](https://t.me/joinchat/EcfNBkAiETMBh62FdGrxRw) - @Carlosjq10
 * [Redes de datos y servidores](https://t.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw) - @jotagarbar
 * [Tabletas Canaima](https://t.me/joinchat/AGqisAI0UHkuBQDbuWm34g) - @edgardoweb
 * [Parkode Community](https://t.me/parkode) - @anhurtado
 
-## Licencia
+### Licencia
 
 [![Public Domain Mark](http://i.creativecommons.org/p/mark/1.0/88x31.png)](https://creativecommons.org/publicdomain/mark/1.0/deed.es)
 
