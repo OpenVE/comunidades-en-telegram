@@ -96,6 +96,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 ### Canales
 
 * [Aprende Python](https://t.me/aprendepython) - @kotov52
+* [Desarrolladores Telegrameros](https://t.me/desarrolladores) - @AlexR1712
 * [Rails Girls Venezuela](https://t.me/railsgirlsve) - @Kyaalena - @OsmaryASM
 * [Libros (PacktPub)](https://t.me/packtpubfreelearning) -  @guerrerocarlos
 * [Libros de Programación](https://t.me/LibPro) - @JCTC01
