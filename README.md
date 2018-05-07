@@ -74,6 +74,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [RadioGNU](https://t.me/radiognu) - @BreadMaker @octaviotron
 * [React y React Native](https://t.me/reactVE) - @alacret - @edwinvrgs
 * [Realidad Aumentada Ve](https://t.me/RealidadVe) - @gothicssy
+* [Redes de datos y servidores](t.me/RedesDatos) - @jotagarbar
 * [Robotica Venezuela](https://t.me/Robotica_VE) - @jesusareyesv
 * [Ruby](https://t.me/ruby_ve) - @andres_code - @highercomve - @hipsss
 * [Security VE](https://t.me/itsec_ve) - @coffeenights
