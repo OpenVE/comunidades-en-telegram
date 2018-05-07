@@ -116,10 +116,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 
 ### Inactivos
 
-* [Radiotransmisores](https://t.me/joinchat/EcfNBkAiETMBh62FdGrxRw) - @Carlosjq10
-* [Redes de datos y servidores](https://t.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw) - @jotagarbar
-* [Tabletas Canaima](https://t.me/joinchat/AGqisAI0UHkuBQDbuWm34g) - @edgardoweb
-* [Parkode Community](https://t.me/parkode) - @anhurtado
+Aca se listan los canales inactivos
 
 ### Licencia
 
