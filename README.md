@@ -106,6 +106,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Un Día Una Aplicación](https://t.me/UnDiaUnaAplicacion) - @kotov52
 * [Un Python Al Día](https://t.me/UnPythonAlDia) - @kotov52
 * [Consejos Freelancisticos](http://t.me/consejos_frelantasticos) - @saramart4
+* [Bolsa de Trabajo Freelance](https://t.me/esfreelancer) - @suzanneelhada - @Markll5
 
 ### Otros temas
 
