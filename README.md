@@ -74,6 +74,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [RadioGNU](https://t.me/radiognu) - @BreadMaker @octaviotron
 * [React y React Native](https://t.me/reactVE) - @alacret - @edwinvrgs
 * [Realidad Aumentada Ve](https://t.me/RealidadVe) - @gothicssy
+* [Redes de datos y servidores](t.me/RedesDatos) - @jotagarbar
 * [Robotica Venezuela](https://t.me/Robotica_VE) - @jesusareyesv
 * [Ruby](https://t.me/ruby_ve) - @andres_code - @highercomve - @hipsss
 * [Security VE](https://t.me/itsec_ve) - @coffeenights
@@ -104,6 +105,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Ofertas de Empleo](https://t.me/trabajovenezuela) - @raiiac
 * [Un Día Una Aplicación](https://t.me/UnDiaUnaAplicacion) - @kotov52
 * [Un Python Al Día](https://t.me/UnPythonAlDia) - @kotov52
+* [Consejos Freelancisticos](http://t.me/consejos_frelantasticos) - @saramart4
+* [Bolsa de Trabajo Freelance](https://t.me/esfreelancer) - @suzanneelhada - @Markll5
 
 ### Otros temas
 
@@ -115,10 +118,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 
 ### Inactivos
 
-* [Radiotransmisores](https://t.me/joinchat/EcfNBkAiETMBh62FdGrxRw) - @Carlosjq10
-* [Redes de datos y servidores](https://t.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw) - @jotagarbar
-* [Tabletas Canaima](https://t.me/joinchat/AGqisAI0UHkuBQDbuWm34g) - @edgardoweb
-* [Parkode Community](https://t.me/parkode) - @anhurtado
+Aca se listan los canales inactivos
 
 ### Licencia
 
