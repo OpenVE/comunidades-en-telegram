@@ -64,7 +64,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Mobile Híbrido](https://t.me/mobilehybridappsve) - @JoseJulian_IT
 * [Mozilla](https://t.me/mozilla_venezuela) - @ajsb85
 * [Nginx Venezuela](https://t.me/nginxvzla) - @alexr1712
-* [NoSQL Venezuela](https://t.me/joinchat/02fb5338009af29975c7d694d2aec965) - @ch1nux
+* [NoSQL Venezuela](https://t.me/NoSQLVenezuela) - @ch1nux
 * [Odoo Venezuela Devs](https://t.me/OdooVeDevs) - @fr33co
 * [Pentaho](https://t.me/pentahoVE) - @hellfish2 - @Tur3c0
 * [PHP Venezuela](https://t.me/PHP_Ve) - @Tur3c0 - @aasanchez - @joseayram - @oyepez - @oteroweb
