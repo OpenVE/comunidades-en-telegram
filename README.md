@@ -77,6 +77,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Redes de datos y servidores](t.me/RedesDatos) - @jotagarbar
 * [Robotica Venezuela](https://t.me/Robotica_VE) - @jesusareyesv
 * [Ruby](https://t.me/ruby_ve) - @andres_code - @highercomve - @hipsss
+* [Rust Venezuela](https://t.me/rustlangVE) - @Armiixteryx
 * [Security VE](https://t.me/itsec_ve) - @coffeenights
 * [SEO](https://t.me/joinchat/AAAAAD4XBh3KdvGZgVoM2A) - @oteroweb
 * [SIGESP](https://t.me/joinchat/AAAAAEI9Ajku0JwdPPmTyw) - @jcmonsalves
