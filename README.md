@@ -94,6 +94,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Wordpress Venezuela](https://t.me/WordPressVE) - @Richzendy - @skatox - @ThePhoenixBird
 * [XANADU GNU/linux](https://t.me/xanadulinux) - @sinfallas
 * [Yii Venezuela](https://t.me/YiiVzla) - @oteroweb  - @skatox - @raiiac
+* [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne 
 
 ### Canales
 
