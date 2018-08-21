@@ -89,6 +89,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Ubuntu](https://t.me/ubuntuve) - @C3s4r
 * [VIM Venezuela](https://t.me/vimvnzla) - @gusga
 * [Vue.js](https://t.me/vueVe) - @raiiac - @Tur3c0
+* [WebAssembly.ve](https://t.me/webassemblyve) - @seraph9
 * [Wikimedia Venezuela](https://t.me/grupowmve) - @KDels
 * [Women in Tech](https://t.me/womenintech_spanish) - @m0000g - @tatadbb
 * [Wordpress Venezuela](https://t.me/WordPressVE) - @Richzendy - @skatox - @ThePhoenixBird
