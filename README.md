@@ -13,7 +13,6 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 ### Comunidades
 
 * [Android](https://t.me/AndroidDevVzla) - @Schuma_VE  - @Willicab - @jmespiz
-* [Android (Soporte Técnico)](https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w) - @MotionGeek - @Cyberthrone
 * [Angular](https://t.me/ngvenezuela ) - @abr4xas - @Villanuevand - @jmespiz - @osnoser1 - @skatox - @leonardocabeza
 * [ArchLinux y Derivados](https://t.me/archlinuxVE) - @goidor - @Kadaba
 * [AWS Latinoamérica](https://t.me/awslatam) - @waltervargas
@@ -36,7 +35,6 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Emprendedores Venezolanos](https://t.me/emprendedores_venezolanos) - @oyepez - @oteroweb
 * [E-shops Dev Venezuela](https://t.me/EShopsDevVenezuela) - @jkhiyami - @Alextic
 * [Firebase Venezuela](https://t.me/firebaseVe) - @villanuevand - @jobsamuel - @JoseCed
-* [FreeCodeCamp Barquisimeto](https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A) - @mirabalj
 * [FreeCodeCamp Caracas](https://t.me/fccCaracas) - @cesarmaximo91 - @Maguc - @miguel_salas
 * [FreeCodeCamp Coro](https://t.me/corofcc) - @hmouhtar
 * [Freelancers Venezuela](https://t.me/freelancersve) - @AlexR1712 - @oteroweb
@@ -48,7 +46,6 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Inteligencia Artificial](https://t.me/IAVenezuela) - @BrandonR - @AlexR1712 - @VIT4R
 * [Interaction Design](https://t.me/interactiondesgin_spanish) - @m0000g
 * [iOS](https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg) - @ajmarquez
-* [IoT, SoC, Arduino, Raspberry Pi, Orange Pi](http://bit.ly/iot_latam) - @mirabalj - @Visionario
 * [IT Oriente](https://t.me/itoriente) - @abrahamjsb
 * [Java Venezuela](https://t.me/JavaVE) - @franjorub - @skatox
 * [JavaScript Venezuela](https://t.me/vzlajs) - @ajsb85
@@ -74,13 +71,12 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [RadioGNU](https://t.me/radiognu) - @BreadMaker @octaviotron
 * [React y React Native](https://t.me/reactVE) - @alacret - @edwinvrgs
 * [Realidad Aumentada Ve](https://t.me/RealidadVe) - @gothicssy
-* [Redes de datos y servidores](t.me/RedesDatos) - @jotagarbar
+* [Redes de datos y servidores](https://t.me/RedesDatos) - @jotagarbar
 * [Robotica Venezuela](https://t.me/Robotica_VE) - @jesusareyesv
 * [Ruby](https://t.me/ruby_ve) - @andres_code - @highercomve - @hipsss
 * [Rust Venezuela](https://t.me/rustlangVE) - @Armiixteryx
 * [Security VE](https://t.me/itsec_ve) - @coffeenights
 * [SEO](https://t.me/joinchat/AAAAAD4XBh3KdvGZgVoM2A) - @oteroweb
-* [SIGESP](https://t.me/joinchat/AAAAAEI9Ajku0JwdPPmTyw) - @jcmonsalves
 * [Sistemas Distribuidos](https://t.me/sistemas_distribuidos_ve) - @gusga
 * [ST.ve](https://t.me/st3_ve) - @Tur3c0
 * [Symfony](https://t.me/symfonyVe) - @oteroweb
@@ -88,9 +84,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Telegram Venezuela](https://t.me/VenezuelaTG) - @tomivs @vicxyz
 * [Ubuntu](https://t.me/ubuntuve) - @C3s4r
 * [VIM Venezuela](https://t.me/vimvnzla) - @gusga
-* [Vue.js](https://t.me/vueVe) - @raiiac - @Tur3c0
 * [WebAssembly.ve](https://t.me/webassemblyve) - @seraph9
-* [Wikimedia Venezuela](https://t.me/grupowmve) - @KDels
+* [Wikimedia Venezuela](https://t.me/wikimediave) - @oscar_costero
 * [Women in Tech](https://t.me/womenintech_spanish) - @m0000g - @tatadbb
 * [Wordpress Venezuela](https://t.me/WordPressVE) - @Richzendy - @skatox - @ThePhoenixBird
 * [XANADU GNU/linux](https://t.me/xanadulinux) - @sinfallas
@@ -113,16 +108,20 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 
 ### Otros temas
 
-* [Arte Digital Libre VE](https://t.me/artedigitallibve) - @Jam_ms24
 * [Baloncesto](https://t.me/baloncestoVE) - @goidor
-* [Diseño Gráfico](https://t.me/DisenadoresGraficosVE) - @suzanneelhada
 * [Fotografía](https://t.me/fotografico) - @davidhdz - @Tatica - @Willicab  - @Genesis_3G
 * [Paranormales](https://t.me/paranormales) - @Richzendy - @Willicab
 * [Noticias](https://t.me/ResumenNoticiero) - @Carrasquel
 
-### Inactivos
+### Inactivos o enlaces expirados
 
-Aca se listan los canales inactivos
+* [Arte Digital Libre VE](https://t.me/artedigitallibve) - @Jam_ms24
+* [Diseño Gráfico](https://t.me/DisenadoresGraficosVE) - @suzanneelhada
+* [Vue.js](https://t.me/vueVe) - @raiiac - @Tur3c0
+* [SIGESP](https://t.me/joinchat/AAAAAEI9Ajku0JwdPPmTyw) - @jcmonsalves
+* [IoT, SoC, Arduino, Raspberry Pi, Orange Pi](http://t.me/iot_latam) - @mirabalj - @Visionario
+* [FreeCodeCamp Barquisimeto](https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A) - @mirabalj
+* [Android (Soporte Técnico)](https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w) - @MotionGeek - @Cyberthrone
 
 ### Licencia
 
