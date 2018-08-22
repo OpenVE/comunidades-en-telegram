@@ -1,98 +1,131 @@
 # Comunidades Tecnológicas de Venezuela en Telegram
 
-[![Join the chat at https://gitter.im/OpenVE/comunidades-en-telegram](https://badges.gitter.im/OpenVE/comunidades-en-telegram.svg)](https://gitter.im/OpenVE/comunidades-en-telegram?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](https://t.me/openve)
 
-Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.me/openve
+## Contenido
 
-| Comunidad                                  | Administrador                                                                | Link                                                   |
-|--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
-| Android                                    | ...                                                                          | https://t.me/AndroidDevVzla                            |
-| Android (Soporte Técnico)                  | @cyberthrone                                                                 | https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w           |
-| Angular                                    | @abr4xas - @Villanuevand - @jmespiz - @jobsamuel - @skatox - @leonardocabeza | https://t.me/ngvenezuela                               |
-| ArchLinux y Derivados                      | @goidor                                                                      | https://t.me/archlinuxVE                               |
-| AWS Latinoamérica                          | @waltervargas                                                                | https://t.me/awsla                                     |
-| Baloncesto                                 | @goidor                                                                      | https://t.me/baloncestoVE                              |
-| Bases de Datos                             | @jelitox                                                                     | https://t.me/bdvzla                                    |
-| Bash/Zsh.Ve                                | @Tur3c0                                                                      | https://t.me/BashVe                                    |
-| Bitcoin                                    | @ajsb85                                                                      | https://t.me/btcven                                    |
-| Blender Venezuela                          | @gothicssy                                                                   | https://t.me/BlenderVe                                 |
-| C++                                        | @Kalpar501                                                                   | https://t.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
-| Computación Física                         | @NatAli_En                                                                   | https://t.me/joinchat/AAAAAEJOcVHmuTCTG8uVqQ           |
-| Conocimiento Libre                         | @Seraph1                                                                     | https://t.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
-| CSL_VE                                     | @phenobarbital                                                               | https://t.me/joinchat/CIpccAYQwKfi_kktTuKisw           |
-| Data Science Venezuela                     | @map0logo                                                                    | https://t.me/DataScienceVE                             |
-| Datos Abiertos y scraping                  | @seraph1                                                                     | https://t.me/joinchat/B9JUAAaks9m5-2TefJsAuw           |
-| Desarrollo VideoJuegos                     | @alexr1712                                                                   | https://t.me/devjuegos                                 |
-| Django                                     | @ebar0n                                                                      | https://t.me/joinchat/BJxZXQGEslbc0kdty8hRbQ           |
-| Docker                                     | @Seraph1                                                                     | https://t.me/joinchat/B9JUAD5FWUGUQveQWCPZ6w           |
-| Electrónica                                | @oteroweb                                                                    | https://t.me/ElectroVe                                 |
-| Elixir                                     | @gusga - @highercomve                                                        | https://t.me/ElixirVe                                  |
-| E-shops Dev Venezuela                      | @jkhiyami @Alextic @m000_g                                                   | https://t.me/EShopsDevVenezuela                        |
-| Emprendedores Venezolanos                  | @oyeyepez                                                                    | https://t.me/emprendedores_venezolanos                 |
-| Firebase Venezuela                         | @villanuevand - @jobsamuel                                                   | https://t.me/firebaseVe                                |
-| Fotografía                                 | @davidhdz                                                                    | https://t.me/fotografico                               |
-| FreeCodeCamp Barquisimeto                  | @mirabalj                                                                    | https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A           |
-| FreeCodeCamp Caracas                       | @cesarmaximo91                                                               | https://t.me/fccCaracas                                |
-| Freelancers Venezuela                      | @alexr1712 @oteroweb                                                         | https://t.me/freelancersve                             |
-| Git                                        | @johannnn @Tur3c0                                                            | https://t.me/git_ve                                    |
-| GLPI y Gestión de Servicios de TI          | @ajsb85                                                                      | https://t.me/glpisp                                    |
-| Go                                         | @aasanchez                                                                   | https://t.me/golangve                                  |
-| Front-End HTML-CSS.ve                      | @Tur3c0                                                                      | https://t.me/HTML_CSS_Ve                               |
-| iOS                                        | @ajmarquez                                                                   | https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg           |
-| IoT, SoC, Arduino, Raspberry Pi, Orange Pi | @mirabalj                                                                    | http://bit.ly/iot_latam                                |
-| IT Oriente                                 | @abrahamjsb                                                                  | https://t.me/itoriente                                 |
-| Interaction Design                         | @m0000g                                                                      | https://t.me/interactiondesgin_spanish                 |
-| Intercambio Idiomas                        | @oteroweb                                                                    | https://t.me/joinchat/BSBThz9-rGFHFQqukOoGww           |
-| JavaScript Venezuela                       | @ajsb85                                                                      | https://t.me/vzlajs                                    |
-| Joomla                                     | @oteroweb                                                                    | https://t.me/joinchat/BSBThwEBgP3723Tmij0lnw           |
-| Juegos                                     | @edgardoweb                                                                  | https://t.me/joinchat/AGqisAA-jlmIAAihME16vg           |
-| Kotlin Venezuela                           | @fr33co                                                                      | https://t.me/kotlinve                                  |
-| Laravel Venezuela                          | @racosta26, @oteroweb                                                        | https://t.me/laravelVe                                 |
-| LibreOffice Venezuela                      | @Tur3c0 @Cyberthrone @Naudy                                                  | https://t.me/LibreOfficeVe                             |
-| Libros de Programación                     | @JCTC01                                                                      | https://t.me/LibPro                                    |
-| Libros Técnicos                            | @willicab                                                                    | https://t.me/LibrosTecnicos                            |
-| Libros (PacktPub)                          | @guerrerocarlos                                                              | https://t.me/packtpubfreelearning                      |
-| Linux Venezuela                            | @andres_code                                                                 | https://t.me/linux_ve                                  |
-| Matemáticas                                | @KDels                                                                       | https://t.me/canalMatematicas                          |
-| Mobile Híbrido                             | ...                                                                          | https://t.me/mobilehybridappsve                        |
-| Mozilla                                    | @ajsb85                                                                      | https://t.me/mozilla_venezuela                         |
-| Nginx Venezuela                            | @alexr1712                                                                   | https://t.me/nginxvzla                                 |
-| NoSQL Venezuela                            | @ch1nux                                                                      | https://t.me/joinchat/02fb5338009af29975c7d694d2aec965 |
-| Odoo Venezuela Devs                        | @fr33co                                                                      | https://t.me/OdooVeDevs                                |
-| Ofertas de Empleo                          | @raiiac                                                                      | https://t.me/trabajovenezuela                          |
-| Pentaho                                    | @hellfish2 - @Tur3c0                                                         | https://t.me/pentahoVE                                 |
-| PHP Venezuela                              | @Tur3c0 @aasanchez @joseayram @oyepez @oteroweb                              | https://t.me/PHP_Ve                                    |
-| Plone Venezuela                            | @macagua                                                                     | https://t.me/PloneVe                                   |
-| Programadores Venezuela                    | @DitoScripts                                                                 | https://t.me/ProgramadoresVenezuela                    |
-| Python Venezuela                           | @nhomar - @macagua                                                           | https://t.me/python_venezuela                          |
-| RadioGNU                                   | ...                                                                          | https://t.me/radiognu                                  |
-| Radiotransmisores                          | @Carlosjq10                                                                  | https://t.me/joinchat/EcfNBkAiETMBh62FdGrxRw           |
-| Rails Girls Venezuela                      | @Kyaalena                                                                    | https://t.me/railsgirlsvenezuela                       |
-| React y React Native                       | @alacret - @edwinvrgs                                                        | https://t.me/reactVE                                   |
-| Realidad Aumentada Ve                      | @gothicssy                                                                   | https://t.me/RealidadVe                                |
-| Redes de datos y servidores                | @jotagarbar                                                                  | https://t.me/joinchat/B4dJbwa1g_BBBGcEQNxDMw           |
-| Robotica Venezuela                         | @jesusareyesv                                                                | https://t.me/Robotica_VE                               |
-| Ruby                                       | @andres_code - @highercomve - @hipsss                                        | https://t.me/ruby_ve                                   |
-| SEO                                        | @oteroweb                                                                    | https://t.me/joinchat/AAAAAD4XBh3KdvGZgVoM2A           |
-| Security VE                                | @coffeenights                                                                | https://t.me/itsec_ve                                  |
-| SIGESP                                     | @jcmonsalves                                                                 | https://t.me/joinchat/AAAAAEI9Ajku0JwdPPmTyw           |
-| ST.ve                                      | @Tur3c0                                                                      | https://t.me/st3_ve                                    |
-| Symfony                                    | @oteroweb                                                                    | https://t.me/symfonyVe                                 |
-| SysAdminVE                                 | @arawako                                                                     | https://t.me/SysAdminVE                                |
-| Tabletas Canaima                           | @edgardoweb                                                                  | https://t.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
-| Telegram Venezuela                         | @tomivs @vicxyz                                                              | https://t.me/VenezuelaTG                               |
-| Ubuntu                                     | @C3s4r                                                                       | https://t.me/ubuntuve                                  |
-| VIM Venezuela                              | @gusga                                                                       | https://t.me/vimvnzla                                  |
-| Vue.js                                     | @raiiac @Tur3c0                                                              | https://t.me/vueVe                                     |
-| Wikimedia Venezuela                        | @KDels                                                                       | https://t.me/grupowmve                                 |
-| Women in Tech                              | @m0000g - @tatadbb                                                           | https://t.me/womenintech_spanish                       |
-| Wordpress Venezuela                        | @Richzendy - @skatox - @ThePhoenixBird                                       | https://t.me/WordPressVE                               |
-| Yii Venezuela                              | @oteroweb  - @skatox - @raiiac                                               | https://t.me/YiiVzla                                   |
-| XANADU GNU/linux                           | @sinfallas                                                                   | https://t.me/xanadulinux                               |
+* [Comunidades](#comunidades)
+* [Canales](#canales)
+* [Otros Temas](#otros-temas)
+* [Inactivos](#inactivos)
+* [Licencia](#licencia)
 
+### Comunidades
 
-## Licencia
+* [Android](https://t.me/AndroidDevVzla) - @Schuma_VE  - @Willicab - @jmespiz
+* [Android (Soporte Técnico)](https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w) - @MotionGeek - @Cyberthrone
+* [Angular](https://t.me/ngvenezuela ) - @abr4xas - @Villanuevand - @jmespiz - @osnoser1 - @skatox - @leonardocabeza
+* [ArchLinux y Derivados](https://t.me/archlinuxVE) - @goidor - @Kadaba
+* [AWS Latinoamérica](https://t.me/awslatam) - @waltervargas
+* [Bases de Datos](https://t.me/bdvzla) - @jelitox - @foursixnine - @msalazarc
+* [Bash / Zsh / CLI](https://t.me/BashZshCLI) - @CrafterSama - @KDels - @Tur3c0
+* [Bitcoin](https://t.me/btcven) - @ajsb85 - @srosuna - @rdymac - @guerrerocarlos
+* [Blender Venezuela](https://t.me/BlenderVe) - @suzannedm
+* [C++](https://t.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg) - @Kalpar501 - @chiguire
+* [Computación Física](https://t.me/joinchat/AAAAAEJOcVHmuTCTG8uVqQ) - @NatAli_En
+* [Conocimiento Libre](https://t.me/joinchat/B9JUAATRuqeYAxaGYLq-ng) - @Seraph1
+* [Data Science Venezuela](https://t.me/DataScienceVE) - @map0logo
+* [Datos Abiertos y scraping](https://t.me/joinchat/B9JUAAaks9m5-2TefJsAuw) - @Seraph1
+* [Developers Ve. en el Mundo](https://t.me/DevelopersVeMundo) - @villanuevand - @juandelgadillo  - @julio - @foursixnine
+* [Desarrollo de Bots](https://t.me/devbots) - @ajsb85 - @AlexR1712 - @Zontir
+* [Desarrollo VideoJuegos](https://t.me/devjuegos) - @AlexR1712 - @BrandonR
+* [Django](https://t.me/DjangoVE) - @cherny
+* [Docker Venezuela](https://t.me/dockervenezuela) - @Seraph1
+* [Electronica General](https://t.me/ElectroVe) - @oteroweb
+* [Elixir](https://t.me/ElixirVe) - @gusga - @highercomve
+* [Emprendedores Venezolanos](https://t.me/emprendedores_venezolanos) - @oyepez - @oteroweb
+* [E-shops Dev Venezuela](https://t.me/EShopsDevVenezuela) - @jkhiyami - @Alextic
+* [Firebase Venezuela](https://t.me/firebaseVe) - @villanuevand - @jobsamuel - @JoseCed
+* [FreeCodeCamp Barquisimeto](https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A) - @mirabalj
+* [FreeCodeCamp Caracas](https://t.me/fccCaracas) - @cesarmaximo91 - @Maguc - @miguel_salas
+* [FreeCodeCamp Coro](https://t.me/corofcc) - @hmouhtar
+* [Freelancers Venezuela](https://t.me/freelancersve) - @AlexR1712 - @oteroweb
+* [Front-End HTML-CSS.ve](https://t.me/HTML_CSS_Ve) - @Tur3c0
+* [Git](https://t.me/git_ve) - @johannnn - @Tur3c0
+* [GLPI y Gestión de Servicios de TI](https://t.me/glpisp) - @ajsb85 - @btry0 - @Thinkcad - @Wawax - @TICgal
+* [Go](https://t.me/golangve) - @aasanchez - @SoyJrCarrillo
+* [Hackers and Founders Maracay](https://t.me/hfmaracay) - @rafaelje - @hectorerb - @delfinbeta - @marcoah17 - @Daregny
+* [Inteligencia Artificial](https://t.me/IAVenezuela) - @BrandonR - @AlexR1712 - @VIT4R
+* [Interaction Design](https://t.me/interactiondesgin_spanish) - @m0000g
+* [iOS](https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg) - @ajmarquez
+* [IoT, SoC, Arduino, Raspberry Pi, Orange Pi](http://bit.ly/iot_latam) - @mirabalj - @Visionario
+* [IT Oriente](https://t.me/itoriente) - @abrahamjsb
+* [Java Venezuela](https://t.me/JavaVE) - @franjorub - @skatox
+* [JavaScript Venezuela](https://t.me/vzlajs) - @ajsb85
+* [jQuery LA](https://t.me/jQueryLA) - @Tur3c0
+* [Joomla](https://t.me/JoomlaVe) - @oteroweb
+* [Juegos](https://t.me/joinchat/AGqisAA-jlmIAAihME16vg) - @edgardoweb
+* [Kotlin Venezuela](https://t.me/kotlinve) - @fr33co
+* [Laravel Venezuela](https://t.me/laravelVe) - @racosta26 - @oteroweb
+* [LaTeX Latinoamerica](https://t.me/LaTeXLatam) - @TeoPanda - @jucarogna - @lorddemon - @Aradnix - @oyagaa_ayuyisaa
+* [LibreOffice Venezuela](https://t.me/LibreOfficeVe) - @Tur3c0 @Cyberthrone @Naudy
+* [Linux Venezuela](https://t.me/linux_ve) - @andres_code
+* [Matemáticas](https://t.me/canalMatematicas) - @KDels
+* [Mobile Híbrido](https://t.me/mobilehybridappsve) - @JoseJulian_IT
+* [Mozilla](https://t.me/mozilla_venezuela) - @ajsb85
+* [Nginx Venezuela](https://t.me/nginxvzla) - @alexr1712
+* [NoSQL Venezuela](https://t.me/NoSQLVenezuela) - @ch1nux
+* [Odoo Venezuela Devs](https://t.me/OdooVeDevs) - @fr33co
+* [Pentaho](https://t.me/pentahoVE) - @hellfish2 - @Tur3c0
+* [PHP Venezuela](https://t.me/PHP_Ve) - @Tur3c0 - @aasanchez - @joseayram - @oyepez - @oteroweb
+* [Plone Venezuela](https://t.me/PloneVe) - @macagua
+* [Programadores Venezuela](https://t.me/ProgramadoresVenezuela) - @DitoScripts
+* [Python Venezuela](https://t.me/python_venezuela) - @nhomar - @macagua
+* [RadioGNU](https://t.me/radiognu) - @BreadMaker @octaviotron
+* [React y React Native](https://t.me/reactVE) - @alacret - @edwinvrgs
+* [Realidad Aumentada Ve](https://t.me/RealidadVe) - @gothicssy
+* [Redes de datos y servidores](t.me/RedesDatos) - @jotagarbar
+* [Robotica Venezuela](https://t.me/Robotica_VE) - @jesusareyesv
+* [Ruby](https://t.me/ruby_ve) - @andres_code - @highercomve - @hipsss
+* [Rust Venezuela](https://t.me/rustlangVE) - @Armiixteryx
+* [Security VE](https://t.me/itsec_ve) - @coffeenights
+* [SEO](https://t.me/joinchat/AAAAAD4XBh3KdvGZgVoM2A) - @oteroweb
+* [SIGESP](https://t.me/joinchat/AAAAAEI9Ajku0JwdPPmTyw) - @jcmonsalves
+* [Sistemas Distribuidos](https://t.me/sistemas_distribuidos_ve) - @gusga
+* [ST.ve](https://t.me/st3_ve) - @Tur3c0
+* [Symfony](https://t.me/symfonyVe) - @oteroweb
+* [SysAdminVE](https://t.me/SysAdminVE) - @arawako
+* [Telegram Venezuela](https://t.me/VenezuelaTG) - @tomivs @vicxyz
+* [Ubuntu](https://t.me/ubuntuve) - @C3s4r
+* [VIM Venezuela](https://t.me/vimvnzla) - @gusga
+* [Vue.js](https://t.me/vueVe) - @raiiac - @Tur3c0
+* [WebAssembly.ve](https://t.me/webassemblyve) - @seraph9
+* [Wikimedia Venezuela](https://t.me/grupowmve) - @KDels
+* [Women in Tech](https://t.me/womenintech_spanish) - @m0000g - @tatadbb
+* [Wordpress Venezuela](https://t.me/WordPressVE) - @Richzendy - @skatox - @ThePhoenixBird
+* [XANADU GNU/linux](https://t.me/xanadulinux) - @sinfallas
+* [Yii Venezuela](https://t.me/YiiVzla) - @oteroweb  - @skatox - @raiiac
+* [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne 
 
-[![Public Domain Mark](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
+### Canales
+
+* [Aprende Python](https://t.me/aprendepython) - @kotov52
+* [Desarrolladores Telegrameros](https://t.me/desarrolladores) - @AlexR1712
+* [Rails Girls Venezuela](https://t.me/railsgirlsve) - @Kyaalena - @OsmaryASM
+* [Libros (PacktPub)](https://t.me/packtpubfreelearning) -  @guerrerocarlos
+* [Libros de Programación](https://t.me/LibPro) - @JCTC01
+* [Libros Técnicos](https://t.me/LibrosTecnicos) - @willicab
+* [Ofertas de Empleo](https://t.me/trabajovenezuela) - @raiiac
+* [Un Día Una Aplicación](https://t.me/UnDiaUnaAplicacion) - @kotov52
+* [Un Python Al Día](https://t.me/UnPythonAlDia) - @kotov52
+* [Consejos Freelancisticos](http://t.me/consejos_frelantasticos) - @saramart4
+* [Bolsa de Trabajo Freelance](https://t.me/esfreelancer) - @suzanneelhada - @Markll5
+
+### Otros temas
+
+* [Arte Digital Libre VE](https://t.me/artedigitallibve) - @Jam_ms24
+* [Baloncesto](https://t.me/baloncestoVE) - @goidor
+* [Diseño Gráfico](https://t.me/DisenadoresGraficosVE) - @suzanneelhada
+* [Fotografía](https://t.me/fotografico) - @davidhdz - @Tatica - @Willicab  - @Genesis_3G
+* [Paranormales](https://t.me/paranormales) - @Richzendy - @Willicab
+* [Noticias](https://t.me/ResumenNoticiero) - @Carrasquel
+
+### Inactivos
+
+Aca se listan los canales inactivos
+
+### Licencia
+
+[![Public Domain Mark](http://i.creativecommons.org/p/mark/1.0/88x31.png)](https://creativecommons.org/publicdomain/mark/1.0/deed.es)
 
 This work is free of known copyright restrictions.
