@@ -118,6 +118,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Diseño Gráfico](https://t.me/DisenadoresGraficosVE) - @suzanneelhada
 * [Fotografía](https://t.me/fotografico) - @davidhdz - @Tatica - @Willicab  - @Genesis_3G
 * [Paranormales](https://t.me/paranormales) - @Richzendy - @Willicab
+* [Noticias](https://t.me/ResumenNoticiero) - @Carrasquel
 
 ### Inactivos
 
