@@ -95,33 +95,34 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 ### Canales
 
 * [Aprende Python](https://t.me/aprendepython) - @kotov52
+* [Bolsa de Trabajo Freelance](https://t.me/esfreelancer) - @suzanneelhada - @Markll5
+* [Consejos Freelancisticos](http://t.me/consejos_frelantasticos) - @saramart4
 * [Desarrolladores Telegrameros](https://t.me/desarrolladores) - @AlexR1712
-* [Rails Girls Venezuela](https://t.me/railsgirlsve) - @Kyaalena - @OsmaryASM
 * [Libros (PacktPub)](https://t.me/packtpubfreelearning) -  @guerrerocarlos
 * [Libros de Programación](https://t.me/LibPro) - @JCTC01
 * [Libros Técnicos](https://t.me/LibrosTecnicos) - @willicab
 * [Ofertas de Empleo](https://t.me/trabajovenezuela) - @raiiac
+* [Rails Girls Venezuela](https://t.me/railsgirlsve) - @Kyaalena - @OsmaryASM
 * [Un Día Una Aplicación](https://t.me/UnDiaUnaAplicacion) - @kotov52
 * [Un Python Al Día](https://t.me/UnPythonAlDia) - @kotov52
-* [Consejos Freelancisticos](http://t.me/consejos_frelantasticos) - @saramart4
-* [Bolsa de Trabajo Freelance](https://t.me/esfreelancer) - @suzanneelhada - @Markll5
+* [Wikimedia Venezuela](https://t.me/wikimediave) - @oscar_costero - @Dennis6492
 
 ### Otros temas
 
 * [Baloncesto](https://t.me/baloncestoVE) - @goidor
 * [Fotografía](https://t.me/fotografico) - @davidhdz - @Tatica - @Willicab  - @Genesis_3G
-* [Paranormales](https://t.me/paranormales) - @Richzendy - @Willicab
 * [Noticias](https://t.me/ResumenNoticiero) - @Carrasquel
+* [Paranormales](https://t.me/paranormales) - @Richzendy - @Willicab
 
 ### Inactivos o enlaces expirados
 
+* [Android (Soporte Técnico)](https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w) - @MotionGeek - @Cyberthrone
 * [Arte Digital Libre VE](https://t.me/artedigitallibve) - @Jam_ms24
 * [Diseño Gráfico](https://t.me/DisenadoresGraficosVE) - @suzanneelhada
-* [Vue.js](https://t.me/vueVe) - @raiiac - @Tur3c0
-* [SIGESP](https://t.me/joinchat/AAAAAEI9Ajku0JwdPPmTyw) - @jcmonsalves
-* [IoT, SoC, Arduino, Raspberry Pi, Orange Pi](http://t.me/iot_latam) - @mirabalj - @Visionario
 * [FreeCodeCamp Barquisimeto](https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A) - @mirabalj
-* [Android (Soporte Técnico)](https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w) - @MotionGeek - @Cyberthrone
+* [IoT, SoC, Arduino, Raspberry Pi, Orange Pi](http://t.me/iot_latam) - @mirabalj - @Visionario
+* [SIGESP](https://t.me/joinchat/AAAAAEI9Ajku0JwdPPmTyw) - @jcmonsalves
+* [Vue.js](https://t.me/vueVe) - @raiiac - @Tur3c0
 
 ### Licencia
 
