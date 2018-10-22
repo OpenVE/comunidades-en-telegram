@@ -7,7 +7,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Comunidades](#comunidades)
 * [Canales](#canales)
 * [Otros Temas](#otros-temas)
-* [Inactivos](#inactivos)
+* [Inactivos](#inactivos-o-enlaces-expirados)
 * [Licencia](#licencia)
 
 ### Comunidades
