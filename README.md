@@ -117,10 +117,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 ### Inactivos o enlaces expirados
 
 * [Android (Soporte Técnico)](https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w) - @MotionGeek - @Cyberthrone
-* [Arte Digital Libre VE](https://t.me/artedigitallibve) - @Jam_ms24
 * [FreeCodeCamp Barquisimeto](https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A) - @mirabalj
 * [IoT, SoC, Arduino, Raspberry Pi, Orange Pi](http://t.me/iot_latam) - @mirabalj - @Visionario
-* [SIGESP](https://t.me/joinchat/AAAAAEI9Ajku0JwdPPmTyw) - @jcmonsalves
 * [Vue.js](https://t.me/vueVe) - @raiiac - @Tur3c0
 
 ### Licencia
