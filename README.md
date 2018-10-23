@@ -13,6 +13,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 ### Comunidades
 
 * [Android](https://t.me/AndroidDevVzla) - @Schuma_VE  - @Willicab - @jmespiz
+* [Android (Soporte Técnico)](https://t.me/Hackingmobile) - @MotionGeek - @Cyberthrone
 * [Angular](https://t.me/ngvenezuela ) - @abr4xas - @Villanuevand - @jmespiz - @osnoser1 - @skatox - @leonardocabeza
 * [ArchLinux y Derivados](https://t.me/archlinuxVE) - @goidor - @Kadaba
 * [AWS Latinoamérica](https://t.me/awslatam) - @waltervargas
@@ -84,6 +85,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Telegram Venezuela](https://t.me/VenezuelaTG) - @tomivs @vicxyz
 * [Ubuntu](https://t.me/ubuntuve) - @C3s4r
 * [VIM Venezuela](https://t.me/vimvnzla) - @gusga
+* [Vue.js](https://t.me/vueLatam) - @raiiac - @Tur3c0
 * [WebAssembly.ve](https://t.me/webassemblyve) - @seraph9
 * [Wikimedia Venezuela](https://t.me/wikimedia_ve) - @oscar_costero
 * [Women in Tech](https://t.me/womenintech_spanish) - @m0000g - @tatadbb
@@ -115,11 +117,6 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Paranormales](https://t.me/paranormales) - @Richzendy - @Willicab
 
 ### Inactivos o enlaces expirados
-
-* [Android (Soporte Técnico)](https://t.me/joinchat/B5A3bAaZNO-_0HkAavsO1w) - @MotionGeek - @Cyberthrone
-* [FreeCodeCamp Barquisimeto](https://t.me/joinchat/AFn8xT7vPnlQbJc9mScY_A) - @mirabalj
-* [IoT, SoC, Arduino, Raspberry Pi, Orange Pi](http://t.me/iot_latam) - @mirabalj - @Visionario
-* [Vue.js](https://t.me/vueVe) - @raiiac - @Tur3c0
 
 ### Licencia
 
