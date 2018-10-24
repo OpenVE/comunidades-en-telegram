@@ -69,7 +69,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Programadores Venezuela](https://t.me/ProgramadoresVenezuela) - @DitoScripts
 * [Python Venezuela](https://t.me/python_venezuela) - @nhomar - @macagua
 * [RadioGNU](https://t.me/radiognu) - @BreadMaker @octaviotron
-* [React y React Native](https://t.me/reactVE) - @alacret - @edwinvrgs
+* [React y React Native](https://t.me/reactVE) - @alacret - @edwinvrgs - @cesarfrick
 * [Realidad Aumentada Ve](https://t.me/RealidadVe) - @gothicssy
 * [Redes de datos y servidores](https://t.me/RedesDatos) - @jotagarbar
 * [Robotica Venezuela](https://t.me/Robotica_VE) - @jesusareyesv
