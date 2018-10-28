@@ -54,6 +54,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Joomla](https://t.me/JoomlaVe) - @oteroweb
 * [Juegos](https://t.me/joinchat/AGqisAA-jlmIAAihME16vg) - @edgardoweb
 * [Kotlin Venezuela](https://t.me/kotlinve) - @fr33co
+* [Lambda Venezuela](https://t.me/lambdaVenezuela) - @sebas_fue_hurtado - @atmantree
 * [Laravel Venezuela](https://t.me/laravelVe) - @racosta26 - @oteroweb
 * [LaTeX Latinoamerica](https://t.me/LaTeXLatam) - @TeoPanda - @jucarogna - @lorddemon - @Aradnix - @oyagaa_ayuyisaa
 * [LibreOffice Venezuela](https://t.me/LibreOfficeVe) - @Tur3c0 @Cyberthrone @Naudy
