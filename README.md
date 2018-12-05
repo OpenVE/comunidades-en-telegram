@@ -84,7 +84,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Symfony](https://t.me/symfonyVe) - @oteroweb
 * [SysAdminVE](https://t.me/SysAdminVE) - @arawako
 * [Telegram Venezuela](https://t.me/VenezuelaTG) - @tomivs @vicxyz
-* [Ubuntu](https://t.me/ubuntuve) - @C3s4r
+* [Ubuntu](https://t.me/@ubuntuvenezuela) - @C3s4r @davidhdz @Emerling @Naudy
 * [VIM Venezuela](https://t.me/vimvnzla) - @gusga
 * [Vue.js](https://t.me/vueLatam) - @raiiac - @Tur3c0
 * [WebAssembly.ve](https://t.me/webassemblyve) - @seraph9
