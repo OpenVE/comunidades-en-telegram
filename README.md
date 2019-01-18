@@ -111,6 +111,14 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Un Python Al Día](https://t.me/UnPythonAlDia) - @kotov52
 * [Wikimedia Venezuela](https://t.me/wikimediave) - @oscar_costero - @Dennis6492
 
+### Canales de noticias
+
+* [RDN Digital](https://t.me/RDNDigital) - @FranciscoMunyoz
+* [Caraota Digital](https://t.me/elgerminadorcaraotadigital)
+* [Efecto Cocuyo](https://t.me/efectococuyo)
+* [Genbeta](https://t.me/genbeta)
+* [Xakata](https://t.me/xakata)
+
 ### Otros temas
 
 * [Baloncesto](https://t.me/baloncestoVE) - @goidor
