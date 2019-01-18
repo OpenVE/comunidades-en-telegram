@@ -113,9 +113,10 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 
 ### Canales de noticias
 
-* [RDN Digital](https://t.me/RDNDigital) - @FranciscoMunyoz
+* [RDN Digital](https://t.me/RDNDigital)
 * [Caraota Digital](https://t.me/elgerminadorcaraotadigital)
 * [Efecto Cocuyo](https://t.me/efectococuyo)
+* [Tal Cual](https://t.me/TalCualDigital)
 * [Genbeta](https://t.me/genbeta)
 * [Xakata](https://t.me/xakata)
 
