@@ -94,7 +94,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [XANADU GNU/linux](https://t.me/xanadulinux) - @sinfallas
 * [Yii Venezuela](https://t.me/YiiVzla) - @oteroweb  - @skatox - @raiiac
 * [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne
-* [Lightning Network en Español](https://t.me/lightning_network_spanish) - @negrunch - @Jochemin - @sntgvrg 
+* [Lightning Network en Español](https://t.me/lightning_network_spanish) - @negrunch - @Jochemin - @sntgvrg
+* [Un kata al día](https://t.me/daily_katas) - @W4rao
 
 ### Canales
 
