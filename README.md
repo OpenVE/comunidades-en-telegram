@@ -1,6 +1,6 @@
 # Comunidades Tecnológicas de Venezuela en Telegram
 
-Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](https://t.me/openve)
+Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve](https://t.me/openve) o crear un [issue](https://github.com/OpenVE/comunidades-en-telegram/issues?utf8=%E2%9C%93&q=).
 
 ## Contenido
 
