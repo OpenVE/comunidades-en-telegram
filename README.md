@@ -16,6 +16,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Android (Soporte Técnico)](https://t.me/Hackingmobile) - @MotionGeek - @Cyberthrone
 * [Angular](https://t.me/ngvenezuela ) - @abr4xas - @Villanuevand - @jmespiz - @osnoser1 - @skatox - @leonardocabeza
 * [ArchLinux y Derivados](https://t.me/archlinuxVE) - @goidor - @Kadaba
+* [ASP .NET](https://t.me/aspnetve) - @javiermadridc - @jamc92
 * [AWS Latinoamérica](https://t.me/awslatam) - @waltervargas
 * [Bases de Datos](https://t.me/bdvzla) - @jelitox - @foursixnine - @msalazarc
 * [Bash / Zsh / CLI](https://t.me/BashZshCLI) - @CrafterSama - @KDels - @Tur3c0
@@ -64,13 +65,14 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Mozilla](https://t.me/mozilla_venezuela) - @ajsb85
 * [Nginx Venezuela](https://t.me/nginxvzla) - @alexr1712
 * [NoSQL Venezuela](https://t.me/NoSQLVenezuela) - @ch1nux
+* [nopCommerce CMS](https://t.me/nopCommerceVe) - @javiermadridc - @jamc92
 * [Odoo Venezuela Devs](https://t.me/OdooVeDevs) - @fr33co
 * [Pentaho](https://t.me/pentahoVE) - @hellfish2 - @Tur3c0
 * [PHP Venezuela](https://t.me/PHP_Ve) - @Tur3c0 - @aasanchez - @joseayram - @oyepez - @oteroweb
 * [Plone Venezuela](https://t.me/PloneVe) - @macagua
 * [Programadores Venezuela](https://t.me/ProgramadoresVenezuela) - @DitoScripts
 * [Python Venezuela](https://t.me/python_venezuela) - @nhomar - @macagua
-* [QA (Aseguramiento de Calidad) Venezuela](https://t.me/joinchat/EYWZkw33g2tYVZxN4jYhQQ) - @javiermadridc - @jamc92
+* [QA (Aseguramiento de Calidad) Venezuela](https://t.me/qavzla) - @javiermadridc - @jamc92
 * [RadioGNU](https://t.me/radiognu) - @BreadMaker @octaviotron
 * [React y React Native](https://t.me/reactVE) - @alacret - @edwinvrgs - @cesarfrick
 * [Realidad Aumentada Ve](https://t.me/RealidadVe) - @gothicssy
