@@ -103,6 +103,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 ### Canales
 
 * [Aprende Python](https://t.me/aprendepython) - @kotov52
+* [Proyecto Alexandria](https://t.me/alexandriaven) - @foursixnine
 * [Bolsa de Trabajo Freelance](https://t.me/esfreelancer) - @suzanneelhada - @Markll5
 * [Consejos Freelancisticos](http://t.me/consejos_frelantasticos) - @saramart4
 * [Desarrolladores Telegrameros](https://t.me/desarrolladores) - @AlexR1712
