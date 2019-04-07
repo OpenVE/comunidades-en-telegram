@@ -1,6 +1,6 @@
 # Comunidades Tecnológicas de Venezuela en Telegram
 
-Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](https://t.me/openve)
+Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve](https://t.me/openve) o crear un [issue](https://github.com/OpenVE/comunidades-en-telegram/issues?utf8=%E2%9C%93&q=).
 
 ## Contenido
 
@@ -103,6 +103,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 ### Canales
 
 * [Aprende Python](https://t.me/aprendepython) - @kotov52
+* [Proyecto Alexandria](https://t.me/alexandriaven) - @foursixnine
 * [Bolsa de Trabajo Freelance](https://t.me/esfreelancer) - @suzanneelhada - @Markll5
 * [Consejos Freelancisticos](http://t.me/consejos_frelantasticos) - @saramart4
 * [Desarrolladores Telegrameros](https://t.me/desarrolladores) - @AlexR1712
