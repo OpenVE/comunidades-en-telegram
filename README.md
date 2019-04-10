@@ -128,6 +128,11 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Fotografía](https://t.me/fotografico) - @davidhdz - @Tatica - @Willicab  - @Genesis_3G
 * [Noticias](https://t.me/ResumenNoticiero) - @Carrasquel
 * [Paranormales](https://t.me/paranormales) - @Richzendy - @Willicab
+* [Info Voluntarios](https://t.me/InfoVoluntarios) - @alejandrovivas - @AlejandroNarvaezB
+
+### Bots
+
+* [Monitor Apagón](https://t.me/monitorApagonDev_bot)
 
 ### Inactivos o enlaces expirados
 
