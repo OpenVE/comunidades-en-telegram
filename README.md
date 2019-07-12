@@ -95,6 +95,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Yii Venezuela](https://t.me/YiiVzla) - @oteroweb  - @skatox - @raiiac
 * [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne
 * [Lightning Network en Español](https://t.me/lightning_network_spanish) - @negrunch - @Jochemin - @sntgvrg 
+* [Terraform en Español](https://t.me/terraform_es) - @fr33co
 
 ### Canales
 
