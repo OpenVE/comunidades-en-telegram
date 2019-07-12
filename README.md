@@ -1,6 +1,6 @@
 # Comunidades Tecnológicas de Venezuela en Telegram
 
-Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](https://t.me/openve)
+Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve](https://t.me/openve) o crear un [issue](https://github.com/OpenVE/comunidades-en-telegram/issues?utf8=%E2%9C%93&q=).
 
 ## Contenido
 
@@ -16,6 +16,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Android (Soporte Técnico)](https://t.me/Hackingmobile) - @MotionGeek - @Cyberthrone
 * [Angular](https://t.me/ngvenezuela ) - @abr4xas - @Villanuevand - @jmespiz - @osnoser1 - @skatox - @leonardocabeza
 * [ArchLinux y Derivados](https://t.me/archlinuxVE) - @goidor - @Kadaba
+* [ASP .NET](https://t.me/aspnetve) - @javiermadridc - @jamc92
 * [AWS Latinoamérica](https://t.me/awslatam) - @waltervargas
 * [Bases de Datos](https://t.me/bdvzla) - @jelitox - @foursixnine - @msalazarc
 * [Bash / Zsh / CLI](https://t.me/BashZshCLI) - @CrafterSama - @KDels - @Tur3c0
@@ -64,12 +65,14 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Mozilla](https://t.me/mozilla_venezuela) - @ajsb85
 * [Nginx Venezuela](https://t.me/nginxvzla) - @alexr1712
 * [NoSQL Venezuela](https://t.me/NoSQLVenezuela) - @ch1nux
+* [nopCommerce CMS](https://t.me/nopCommerceVe) - @javiermadridc - @jamc92
 * [Odoo Venezuela Devs](https://t.me/OdooVeDevs) - @fr33co
 * [Pentaho](https://t.me/pentahoVE) - @hellfish2 - @Tur3c0
 * [PHP Venezuela](https://t.me/PHP_Ve) - @Tur3c0 - @aasanchez - @joseayram - @oyepez - @oteroweb
 * [Plone Venezuela](https://t.me/PloneVe) - @macagua
 * [Programadores Venezuela](https://t.me/ProgramadoresVenezuela) - @DitoScripts
 * [Python Venezuela](https://t.me/python_venezuela) - @nhomar - @macagua
+* [QA (Aseguramiento de Calidad) Venezuela](https://t.me/qavzla) - @javiermadridc - @jamc92
 * [RadioGNU](https://t.me/radiognu) - @BreadMaker @octaviotron
 * [React y React Native](https://t.me/reactVE) - @alacret - @edwinvrgs - @cesarfrick
 * [Realidad Aumentada Ve](https://t.me/RealidadVe) - @gothicssy
@@ -94,12 +97,14 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [XANADU GNU/linux](https://t.me/xanadulinux) - @sinfallas
 * [Yii Venezuela](https://t.me/YiiVzla) - @oteroweb  - @skatox - @raiiac
 * [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne
-* [Lightning Network en Español](https://t.me/lightning_network_spanish) - @negrunch - @Jochemin - @sntgvrg 
+* [Lightning Network en Español](https://t.me/lightning_network_spanish) - @negrunch - @Jochemin - @sntgvrg
+* [Un kata al día](https://t.me/daily_katas) - @W4rao
 * [Terraform en Español](https://t.me/terraform_es) - @fr33co
 
 ### Canales
 
 * [Aprende Python](https://t.me/aprendepython) - @kotov52
+* [Proyecto Alexandria](https://t.me/alexandriaven) - @foursixnine
 * [Bolsa de Trabajo Freelance](https://t.me/esfreelancer) - @suzanneelhada - @Markll5
 * [Consejos Freelancisticos](http://t.me/consejos_frelantasticos) - @saramart4
 * [Desarrolladores Telegrameros](https://t.me/desarrolladores) - @AlexR1712
@@ -114,11 +119,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 
 ### Canales de noticias
 
-* [RDN Digital](https://t.me/RDNDigital)
-* [Caraota Digital](https://t.me/elgerminadorcaraotadigital)
-* [Efecto Cocuyo](https://t.me/efectococuyo)
-* [Tal Cual](https://t.me/TalCualDigital)
 * [Genbeta](https://t.me/genbeta)
+* [Microsiervos](https://t.me/microsiervos)
 * [Xakata](https://t.me/xakata)
 
 ### Otros temas
