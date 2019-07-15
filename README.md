@@ -99,6 +99,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne
 * [Lightning Network en Español](https://t.me/lightning_network_spanish) - @negrunch - @Jochemin - @sntgvrg
 * [Un kata al día](https://t.me/daily_katas) - @W4rao
+* [Terraform en Español](https://t.me/terraform_es) - @fr33co
 
 ### Canales
 
