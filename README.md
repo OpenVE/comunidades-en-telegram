@@ -68,6 +68,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [NoSQL Venezuela](https://t.me/NoSQLVenezuela) - @ch1nux
 * [nopCommerce CMS](https://t.me/nopCommerceVe) - @javiermadridc - @jamc92
 * [Odoo Venezuela Devs](https://t.me/OdooVeDevs) - @fr33co
+* [OpenStreetMaps Venezuela](https://t.me/OSMve) - @algarinr - @delldor - @sebasmagri
 * [Pentaho](https://t.me/pentahoVE) - @hellfish2 - @Tur3c0
 * [PHP Venezuela](https://t.me/PHP_Ve) - @Tur3c0 - @aasanchez - @joseayram - @oyepez - @oteroweb
 * [Plone Venezuela](https://t.me/PloneVe) - @macagua
