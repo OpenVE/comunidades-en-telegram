@@ -98,7 +98,6 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Wordpress Venezuela](https://t.me/WordPressVE) - @Richzendy - @skatox - @ThePhoenixBird
 * [XANADU GNU/linux](https://t.me/xanadulinux) - @sinfallas
 * [Yii Venezuela](https://t.me/YiiVzla) - @oteroweb  - @skatox - @raiiac
-* [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne
 * [Lightning Network en Español](https://t.me/lightning_network_spanish) - @negrunch - @Jochemin - @sntgvrg
 * [Un kata al día](https://t.me/daily_katas) - @W4rao
 * [Terraform en Español](https://t.me/terraform_es) - @fr33co
@@ -131,6 +130,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Fotografía](https://t.me/fotografico) - @davidhdz - @Tatica - @Willicab  - @Genesis_3G
 * [Noticias](https://t.me/ResumenNoticiero) - @Carrasquel
 * [Paranormales](https://t.me/paranormales) - @Richzendy - @Willicab
+* [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne
 
 ### Inactivos o enlaces expirados
 
