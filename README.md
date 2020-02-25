@@ -90,7 +90,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [SysAdminVE](https://t.me/SysAdminVE) - @arawako
 * [Telegram Venezuela](https://t.me/VenezuelaTG) - @tomivs @vicxyz
 * [Ubuntu](https://t.me/@ubuntuvenezuela) - @C3s4r @davidhdz @Emerling @Naudy
-* [VIM Venezuela](https://t.me/vimvnzla) - @gusga
+* [VIM Venezuela](https://t.me/vim_Vzla) - @atmantree - @Sunno - @kadaba
 * [Vue.js](https://t.me/vueLatam) - @raiiac - @Tur3c0
 * [WebAssembly.ve](https://t.me/webassemblyve) - @seraph9
 * [Wikimedia Venezuela](https://t.me/wikimedia_ve) - @oscar_costero
