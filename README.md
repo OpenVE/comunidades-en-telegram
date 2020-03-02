@@ -125,7 +125,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Xakata](https://t.me/xakata)
 * [wwwhatsnew](https://t.me/wwwhatsnew)
 * [Hipertextual, anteriormente ALT1040](https://t.me/alt1040)
-* [Computer Hoy 💻 Todo sobre tecnología, gadgets e informática] (https://t.me/ComputerHoy)
+* [Computer Hoy 💻 Todo sobre tecnología, gadgets e informática](https://t.me/ComputerHoy)
 
 ### Otros temas
 
