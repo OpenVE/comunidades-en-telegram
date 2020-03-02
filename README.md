@@ -123,6 +123,9 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Genbeta](https://t.me/genbeta)
 * [Microsiervos](https://t.me/microsiervos)
 * [Xakata](https://t.me/xakata)
+* [wwwhatsnew](https://t.me/wwwhatsnew)
+* [Hipertextual, anteriormente ALT1040](https://t.me/alt1040)
+* [Computer Hoy 💻 Todo sobre tecnología, gadgets e informática] (https://t.me/ComputerHoy)
 
 ### Otros temas
 
@@ -131,6 +134,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Noticias](https://t.me/ResumenNoticiero) - @Carrasquel
 * [Paranormales](https://t.me/paranormales) - @Richzendy - @Willicab
 * [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne
+* [FayerWayer](https://t.me/fayerwayer_es)
 
 ### Inactivos o enlaces expirados
 
