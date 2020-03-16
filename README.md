@@ -120,6 +120,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 
 ### Canales de noticias
 
+* [CriptoNoticias](https://t.me/criptonoticias)
 * [Genbeta](https://t.me/genbeta)
 * [Microsiervos](https://t.me/microsiervos)
 * [Xakata](https://t.me/xakata)
