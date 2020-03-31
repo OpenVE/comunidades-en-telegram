@@ -114,6 +114,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Libros Técnicos](https://t.me/LibrosTecnicos) - @willicab
 * [Ofertas de Empleo](https://t.me/trabajovenezuela) - @raiiac
 * [Rails Girls Venezuela](https://t.me/railsgirlsve) - @Kyaalena - @OsmaryASM
+* [Udemy Venezuela](https://t.me/UdemyVe) - @Richzendy - @ThePhoenixBird
 * [Un Día Una Aplicación](https://t.me/UnDiaUnaAplicacion) - @kotov52
 * [Un Python Al Día](https://t.me/UnPythonAlDia) - @kotov52
 * [Wikimedia Venezuela](https://t.me/wikimediave) - @oscar_costero - @Dennis6492
