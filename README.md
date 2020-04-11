@@ -109,7 +109,6 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Bolsa de Trabajo Freelance](https://t.me/esfreelancer) - @suzanneelhada - @Markll5
 * [Consejos Freelancisticos](http://t.me/consejos_frelantasticos) - @saramart4
 * [Desarrolladores Telegrameros](https://t.me/desarrolladores) - @AlexR1712
-* [Libros (PacktPub)](https://t.me/packtpubfreelearning) -  @guerrerocarlos
 * [Libros de Programación](https://t.me/LibPro) - @JCTC01
 * [Libros Técnicos](https://t.me/LibrosTecnicos) - @willicab
 * [Ofertas de Empleo](https://t.me/trabajovenezuela) - @raiiac
