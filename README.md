@@ -28,6 +28,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Data Science Venezuela](https://t.me/DataScienceVE) - @map0logo
 * [Datos Abiertos y scraping](https://t.me/joinchat/B9JUAAaks9m5-2TefJsAuw) - @Seraph1
 * [Developers Ve. en el Mundo](https://t.me/DevelopersVeMundo) - @villanuevand - @juandelgadillo  - @julio - @foursixnine
+* [DenoJS VE](https://t.me/DenojsVE) @Zontir
 * [Desarrollo de Bots](https://t.me/devbots) - @ajsb85 - @AlexR1712 - @Zontir
 * [Desarrollo VideoJuegos](https://t.me/devjuegos) - @AlexR1712 - @BrandonR
 * [Django](https://t.me/DjangoVE) - @cherny
