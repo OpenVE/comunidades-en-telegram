@@ -50,7 +50,6 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Inteligencia Artificial](https://t.me/IAVenezuela) - @BrandonR - @AlexR1712 - @VIT4R
 * [Interaction Design](https://t.me/interactiondesgin_spanish) - @m0000g
 * [iOS](https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg) - @ajmarquez
-* [IT Oriente](https://t.me/itoriente) - @abrahamjsb
 * [Java Venezuela](https://t.me/JavaVE) - @franjorub - @skatox
 * [JavaScript Venezuela](https://t.me/vzlajs) - @ajsb85
 * [jQuery LA](https://t.me/jQueryLA) - @Tur3c0
@@ -139,6 +138,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne
 
 ### Inactivos o enlaces expirados
+* [IT Oriente](https://t.me/itoriente) - @abrahamjsb
 
 ### Licencia
 
