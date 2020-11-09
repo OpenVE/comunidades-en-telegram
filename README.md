@@ -48,7 +48,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Go](https://t.me/golangve) - @aasanchez - @SoyJrCarrillo
 * [Hackers and Founders Maracay](https://t.me/hfmaracay) - @rafaelje - @hectorerb - @delfinbeta - @marcoah17 - @Daregny
 * [Inteligencia Artificial](https://t.me/IAVenezuela) - @BrandonR - @AlexR1712 - @VIT4R
-* [Interaction Design](https://t.me/interactiondesgin_spanish) - @m0000g
+* [Interaction Design - Diseño Interactivo](https://t.me/interactiondesgin_spanish) - @m0000g
 * [iOS](https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg) - @ajmarquez
 * [IT Oriente](https://t.me/itoriente) - @abrahamjsb
 * [Java Venezuela](https://t.me/JavaVE) - @franjorub - @skatox
