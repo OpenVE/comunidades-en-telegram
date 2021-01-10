@@ -137,6 +137,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Noticias](https://t.me/ResumenNoticiero) - @Carrasquel
 * [Paranormales](https://t.me/paranormales) - @Richzendy - @Willicab
 * [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne
+* [Millenials en Software Libre](https://t.me/joinchat/GO-kHOlkt4wf6KjJ) - @Laura, @GastonZabala, @NachoGarcia
 
 ### Inactivos o enlaces expirados
 
