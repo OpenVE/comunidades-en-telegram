@@ -84,7 +84,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Ruby](https://t.me/ruby_ve) - @andres_code - @highercomve - @hipsss
 * [Rust Venezuela](https://t.me/rustlangVE) - @Armiixteryx
 * [Security VE](https://t.me/itsec_ve) - @coffeenights
-* [Scrum Master Venezuela](https://t.me/scrumvenezuela) - @monicatahan - @ProfeSysAdmin
+* [Scrum Master Venezuela](https://t.me/scrumvenezuela) - @monicatahan - @ProfeSysAdmin - @GerlynDuarte - @ecanquiz - @morenograterol
 * [SEO](https://t.me/joinchat/AAAAAD4XBh3KdvGZgVoM2A) - @oteroweb
 * [Sistemas Distribuidos](https://t.me/sistemas_distribuidos_ve) - @gusga
 * [ST.ve](https://t.me/st3_ve) - @Tur3c0
@@ -98,9 +98,9 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Wikimedia Venezuela](https://t.me/wikimedia_ve) - @oscar_costero
 * [Women in Tech](https://t.me/womenintech_spanish) - @m0000g - @tatadbb
 * [WordPress Anzoátegui](https://t.me/WPAnzoategui) - @AnnaCD - @darrycastro
-* [WordPress Guarenas-Guatire](https://t.me/WPGuarenasGuatire) - @BragnielJimenez - @pedrourbina - @YordanSoares
-* [WordPress Venezuela](https://t.me/WPVenezuela) - @Richzendy - @skatox - @ThePhoenixBird
-* [WordPress Venezuela | Traducciones](https://t.me/WPVenezuela_l10n) - @Jordicuevas - @YordanSoares
+* [WordPress Guarenas-Guatire](https://t.me/WPGuarenasGuatire) - @YordanSoares - @BragnielJimenez - @pedrourbina - @Karmorfer - @ProfeSysAdmin
+* [WordPress Venezuela](https://t.me/WPVenezuela) - @Richzendy - @skatox - @ThePhoenixBird - @YordanSoares
+* [WordPress Venezuela | Traducciones](https://t.me/WPVenezuela_l10n) - @Jordicuevas - @YordanSoares - @WP_NobNob
 * [XANADU GNU/linux](https://t.me/xanadulinux) - @sinfallas
 * [Yii Venezuela](https://t.me/YiiVzla) - @oteroweb  - @skatox - @raiiac
 * [Lightning Network en Español](https://t.me/lightning_network_spanish) - @negrunch - @Jochemin - @sntgvrg
