@@ -34,7 +34,6 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Django](https://t.me/DjangoVE) - @cherny
 * [Docker Venezuela](https://t.me/dockervenezuela) - @Seraph1
 * [Electronica General](https://t.me/ElectroVe) - @oteroweb
-* [Elixir](https://t.me/ElixirVe) - @gusga - @highercomve
 * [Emprendedores Venezolanos](https://t.me/emprendedores_venezolanos) - @oyepez - @oteroweb
 * [E-shops Dev Venezuela](https://t.me/EShopsDevVenezuela) - @jkhiyami - @Alextic
 * [Firebase Venezuela](https://t.me/firebaseVe) - @villanuevand - @jobsamuel - @JoseCed
@@ -140,6 +139,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 
 ### Inactivos o enlaces expirados
 * [IT Oriente](https://t.me/itoriente) - @abrahamjsb
+* [Elixir](https://t.me/ElixirVe) - @gusga - @highercomve
 
 ### Licencia
 
