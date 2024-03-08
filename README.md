@@ -24,6 +24,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Data Science Venezuela](https://t.me/DataScienceVE) - @map0logo
 * [Datos Abiertos y scraping](https://t.me/joinchat/B9JUAAaks9m5-2TefJsAuw) - @Seraph1
 * [Developers Ve. en el Mundo](https://t.me/DevelopersVeMundo) - @villanuevand - @juandelgadillo  - @julio - @foursixnine
+* [DenoJS VE](https://t.me/DenojsVE) @Zontir
 * [Desarrollo de Bots](https://t.me/devbots) - @ajsb85 - @AlexR1712 - @Zontir
 * [Desarrollo VideoJuegos](https://t.me/devjuegos) - @AlexR1712 - @BrandonR
 * [Django](https://t.me/DjangoVE) - @cherny
@@ -69,10 +70,14 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Sistemas Distribuidos](https://t.me/sistemas_distribuidos_ve) - @gusga
 * [ST.ve](https://t.me/st3_ve) - @Tur3c0
 * [Symfony](https://t.me/symfonyVe) - @oteroweb
+* [Scrum Master Venezuela](https://t.me/scrumvenezuela) - @monicatahan - @ProfeSysAdmin - @GerlynDuarte - @ecanquiz - @morenograterol
+* [VIM Venezuela](https://t.me/vim_Vzla) - @atmantree - @Sunno - @kadaba
 * [Vue.js](https://t.me/vueLatam) - @raiiac - @Tur3c0
 * [Wikimedia Venezuela](https://t.me/wikimedia_ve) - @oscar_costero
+* [WordPress Guarenas-Guatire](https://t.me/WPGuarenasGuatire) - @YordanSoares - @BragnielJimenez - @pedrourbina - @Karmorfer - @ProfeSysAdmin
+* [WordPress Venezuela](https://t.me/WPVenezuela) - @Richzendy - @skatox - @ThePhoenixBird - @YordanSoares
+* [WordPress Venezuela | Traducciones](https://t.me/WPVenezuela_l10n) - @Jordicuevas - @YordanSoares - @WP_NobNob
 * [Yii Venezuela](https://t.me/YiiVzla) - @oteroweb  - @skatox - @raiiac
-* [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne
 * [Lightning Network en Español](https://t.me/lightning_network_spanish) - @negrunch - @Jochemin - @sntgvrg
 * [Un kata al día](https://t.me/daily_katas) - @W4rao
 * [Terraform en Español](https://t.me/terraform_es) - @fr33co
@@ -84,9 +89,9 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Bolsa de Trabajo Freelance](https://t.me/esfreelancer) - @suzanneelhada - @Markll5
 * [Consejos Freelancisticos](http://t.me/consejos_frelantasticos) - @saramart4
 * [Desarrolladores Telegrameros](https://t.me/desarrolladores) - @AlexR1712
-* [Libros (PacktPub)](https://t.me/packtpubfreelearning) -  @guerrerocarlos
 * [Libros de Programación](https://t.me/LibPro) - @JCTC01
 * [Ofertas de Empleo](https://t.me/trabajovenezuela) - @raiiac
+* [Udemy Venezuela](https://t.me/UdemyVe) - @Richzendy - @ThePhoenixBird
 * [Un Día Una Aplicación](https://t.me/UnDiaUnaAplicacion) - @kotov52
 * [Un Python Al Día](https://t.me/UnPythonAlDia) - @kotov52
 * [Wikimedia Venezuela](https://t.me/wikimediave) - @oscar_costero - @Dennis6492
@@ -101,8 +106,12 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 
 * [Fotografía](https://t.me/fotografico) - @davidhdz - @Tatica - @Willicab  - @Genesis_3G
 * [Paranormales](https://t.me/paranormales) - @Richzendy - @Willicab
+* [Youtubers Venezuela](https://t.me/youtubersvzla) - @shadesOne
+* [Millenials en Software Libre](https://t.me/joinchat/GO-kHOlkt4wf6KjJ) - @Laura, @GastonZabala, @NachoGarcia
 
 ### Inactivos o enlaces expirados
+* [IT Oriente](https://t.me/itoriente) - @abrahamjsb
+* [Elixir](https://t.me/ElixirVe) - @gusga - @highercomve
 
 ### Licencia
 
