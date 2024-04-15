@@ -31,6 +31,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [DenoJS VE](https://t.me/DenojsVE) @Zontir
 * [Desarrollo de Bots](https://t.me/devbots) - @ajsb85 - @AlexR1712 - @Zontir
 * [Desarrollo VideoJuegos](https://t.me/devjuegos) - @AlexR1712 - @BrandonR
+* [Developers de Venezuela](https://t.me/VenezuelaDev) - @IvanMontilla
 * [Django](https://t.me/DjangoVE) - @cherny
 * [Docker Venezuela](https://t.me/dockervenezuela) - @Seraph1
 * [Electronica General](https://t.me/ElectroVe) - @oteroweb
@@ -125,6 +126,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 ### Canales de noticias
 
 * [Genbeta](https://t.me/genbeta)
+* [Hacker News](https://t.me/hackernewslive)
 * [Microsiervos](https://t.me/microsiervos)
 * [Xakata](https://t.me/xakata)
 
