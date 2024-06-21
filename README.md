@@ -125,6 +125,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 
 ### Canales de noticias
 
+* [CriptoNoticias](https://t.me/criptonoticias)
 * [Genbeta](https://t.me/genbeta)
 * [Hacker News](https://t.me/hackernewslive)
 * [Microsiervos](https://t.me/microsiervos)
